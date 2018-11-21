@@ -37,6 +37,13 @@ This website is under development.
 
 [https://about.me/serdarbalci](https://about.me/serdarbalci)
 
-[https://www.serdarbalci.com/](https://www.serdarbalci.com/)
+I use [https://twitter.com/serdarbalci](https://twitter.com/serdarbalci) frequently.
 
+See [https://www.serdarbalci.com/](https://www.serdarbalci.com/) for main web page
+
+[http://www.patolojinotlari.com/](http://www.patolojinotlari.com/) for Turkish Lecture Notes & Social Media Based Notes
+
+[https://sbalci.github.io/MyRCodesForDataAnalysis/](https://sbalci.github.io/MyRCodesForDataAnalysis/) for R codes,
+
+[https://sbalci.github.io/pubmed/BibliographicStudies.html](https://sbalci.github.io/pubmed/BibliographicStudies.html) for Bibliographic studies.
 
