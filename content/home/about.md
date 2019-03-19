@@ -47,3 +47,6 @@ See [https://www.serdarbalci.com/](https://www.serdarbalci.com/) for main web pa
 
 [https://sbalci.github.io/pubmed/BibliographicStudies.html](https://sbalci.github.io/pubmed/BibliographicStudies.html) for Bibliographic studies.
 
+
+{{< tweet 877500564405444608 >}}
+
