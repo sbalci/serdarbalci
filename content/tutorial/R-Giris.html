@@ -1,0 +1,1718 @@
+---
+title: R ile analize başlarken^[Bu bir derlemedir, mümkün mertebe alıntılara referans
+  vermeye çalıştım.]
+author: "Derleyen [Serdar Balcı, MD, Pathologist](https://sbalci.github.io/)"
+date: "2019-05-09"
+output:
+  html_notebook:
+    fig_caption: yes
+    highlight: kate
+    number_sections: yes
+    theme: flatly
+    toc: yes
+    toc_depth: 5
+    toc_float: yes
+  pdf_document:
+    toc: yes
+    toc_depth: '5'
+  html_document: 
+    fig_caption: yes
+    keep_md: yes
+    toc: yes
+    toc_depth: 5
+    toc_float: yes
+---
+
+
+
+<!-- Open all links in new tab-->
+<p><base target="_blank"/></p>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5bc36900a405090b">  
+</script>
+<p><a href="https://www.datacamp.com/community/tutorials/data-science-pitfalls"><img src="http://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1530113077/Image_2_vfy48b.png" /></a></p>
+<ul>
+<li>R generation</li>
+</ul>
+<p><a href="https://rss.onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2018.01169.x" class="uri">https://rss.onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2018.01169.x</a></p>
+<div id="r-yukleme" class="section level1">
+<h1>R yükleme</h1>
+<p><a href="http://www.youtube.com/watch?v=XcBLEVknqvY" class="uri">http://www.youtube.com/watch?v=XcBLEVknqvY</a></p>
+<p><a href="http://www.youtube.com/watch?v=XcBLEVknqvY"><img src="http://img.youtube.com/vi/XcBLEVknqvY/0.jpg" alt="What is R?" /></a></p>
+<div id="r-project" class="section level2">
+<h2>R-project</h2>
+<p><a href="https://cran.r-project.org/" class="uri">https://cran.r-project.org/</a></p>
+<hr />
+<p><a href="https://ismayc.github.io/talks/ness-infer/slide_deck.html#6"><img src="https://ismayc.github.io/talks/ness-infer/img/engine.png" /></a></p>
+<hr />
+</div>
+<div id="rstudio" class="section level2">
+<h2>RStudio</h2>
+<p><a href="https://www.rstudio.com/" class="uri">https://www.rstudio.com/</a></p>
+<p><a href="https://www.rstudio.com/products/rstudio/download/" class="uri">https://www.rstudio.com/products/rstudio/download/</a></p>
+<p><a href="https://moderndive.com/2-getting-started.html" class="uri">https://moderndive.com/2-getting-started.html</a></p>
+<hr />
+<p><a href="https://buzzrbeeline.blog/2018/07/04/rstudio-anatomy/"><img src="http://www-users.york.ac.uk/~er13/RStudio%20Anatomy.svg" /></a></p>
+<hr />
+<div id="rstudio-eklentileri" class="section level3">
+<h3>RStudio eklentileri</h3>
+<ul>
+<li>Discover and install useful RStudio addins</li>
+</ul>
+<p><a href="https://cran.r-project.org/web/packages/addinslist/README.html" class="uri">https://cran.r-project.org/web/packages/addinslist/README.html</a></p>
+<p><a href="https://rstudio.github.io/rstudioaddins/" class="uri">https://rstudio.github.io/rstudioaddins/</a></p>
+<pre class="r"><code># devtools::install_github(&quot;rstudio/addinexamples&quot;, type = &quot;source&quot;)</code></pre>
+<hr />
+</div>
+</div>
+<div id="x11" class="section level2">
+<h2>X11</h2>
+<p><a href="https://www.xquartz.org/" class="uri">https://www.xquartz.org/</a></p>
+<hr />
+</div>
+<div id="java-os" class="section level2">
+<h2>Java OS</h2>
+<p><a href="https://support.apple.com/kb/dl1572" class="uri">https://support.apple.com/kb/dl1572</a></p>
+<hr />
+</div>
+</div>
+<div id="r-zor-seyler-icin-kolay-kolay-seyler-icin-zor" class="section level1">
+<h1>R zor şeyler için kolay, kolay şeyler için zor</h1>
+<ul>
+<li><p><a href="http://r4stats.com/articles/why-r-is-hard-to-learn/">R makes easy things hard, and hard things easy</a></p></li>
+<li><p>Aynı şeyi çok fazla şekilde yapmak mümkün</p></li>
+</ul>
+<p>R Syntax Comparison::CHEAT SHEET</p>
+<p><a href="https://www.amelia.mn/Syntax-cheatsheet.pdf" class="uri">https://www.amelia.mn/Syntax-cheatsheet.pdf</a></p>
+<blockquote class="twitter-tweet" data-lang="en">
+<p lang="en" dir="ltr">
+<a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> — There are always several ways to do the same thing… nice example on with the identity matrix by <a href="https://twitter.com/TeaStats?ref_src=twsrc%5Etfw"><span class="citation">@TeaStats</span></a> <a href="https://t.co/O3GXdPiM32">https://t.co/O3GXdPiM32</a>
+</p>
+— Colin Fay 🤘 (<span class="citation">@_ColinFay</span>) <a href="https://twitter.com/_ColinFay/status/1112746633467518977?ref_src=twsrc%5Etfw">April 1, 2019</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<hr />
+</div>
+<div id="r-paketleri" class="section level1">
+<h1>R paketleri</h1>
+<div id="neden-paketler-var" class="section level2">
+<h2>Neden paketler var</h2>
+<p><a href="https://ismayc.github.io/talks/ness-infer/slide_deck.html#7"><img src="https://ismayc.github.io/talks/ness-infer/img/appstore.png" /></a></p>
+<hr />
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en">
+<p lang="en" dir="ltr">
+I love the <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> community.<br>Someone is like, “oh hey peeps, I saw a big need for this mundane but difficult task that I infrequently do, so I created a package that will literally scrape the last bits of peanut butter out of the jar for you. It's called pbplyr.”<br>What a tribe.
+</p>
+— Frank Elavsky ᴰᵃᵗᵃ ᵂᶦᶻᵃʳᵈ (<span class="citation">@Frankly_Data</span>) <a href="https://twitter.com/Frankly_Data/status/1014189095294291968?ref_src=twsrc%5Etfw">July 3, 2018</a>
+</blockquote>
+<hr />
+<p><a href="https://blog.mitchelloharawild.com/blog/user-2018-feature-wall/" class="uri">https://blog.mitchelloharawild.com/blog/user-2018-feature-wall/</a></p>
+<hr />
+<p><img src="https://blog.mitchelloharawild.com/blog/2018-07-11-user-2018-feature-wall_files/final.jpg" /></p>
+<hr />
+</div>
+<div id="paketleri-nereden-bulabiliriz" class="section level2">
+<h2>Paketleri nereden bulabiliriz</h2>
+<ul>
+<li><p>Available CRAN Packages By Name<br />
+<a href="https://cran.r-project.org/web/packages/available_packages_by_name.html" class="uri">https://cran.r-project.org/web/packages/available_packages_by_name.html</a></p></li>
+<li><p>CRAN Task Views<br />
+<a href="https://cran.r-project.org/web/views/" class="uri">https://cran.r-project.org/web/views/</a></p></li>
+<li><p>Bioconductor<br />
+<a href="https://www.bioconductor.org" class="uri">https://www.bioconductor.org</a></p></li>
+<li><p>RecommendR<br />
+<a href="http://recommendr.info/" class="uri">http://recommendr.info/</a></p></li>
+<li><p>pkgsearch<br />
+CRAN package search<br />
+<a href="https://github.com/metacran/pkgsearch" class="uri">https://github.com/metacran/pkgsearch</a></p></li>
+<li><p>CRANsearcher<br />
+<a href="https://github.com/RhoInc/CRANsearcher" class="uri">https://github.com/RhoInc/CRANsearcher</a></p></li>
+<li><p>Awesome R<br />
+<a href="https://awesome-r.com/" class="uri">https://awesome-r.com/</a></p></li>
+</ul>
+</div>
+<div id="kendi-paket-evrenini-olustur" class="section level2">
+<h2>Kendi paket evrenini oluştur</h2>
+<ul>
+<li>pkgverse: Build a Meta-Package Universe<br />
+<a href="https://cran.r-project.org/web/packages/pkgverse/index.html" class="uri">https://cran.r-project.org/web/packages/pkgverse/index.html</a></li>
+</ul>
+<hr />
+</div>
+<div id="r-paket-yukleme" class="section level2">
+<h2>R paket yükleme</h2>
+<pre><code>install.packages(&quot;tidyverse&quot;, dependencies = TRUE)
+install.packages(&quot;jmv&quot;, dependencies = TRUE)
+install.packages(&quot;questionr&quot;, dependencies = TRUE)
+install.packages(&quot;Rcmdr&quot;, dependencies = TRUE)
+install.packages(&quot;summarytools&quot;)</code></pre>
+<pre class="r"><code># install.packages(&quot;tidyverse&quot;, dependencies = TRUE)
+# install.packages(&quot;jmv&quot;, dependencies = TRUE)
+# install.packages(&quot;questionr&quot;, dependencies = TRUE)
+# install.packages(&quot;Rcmdr&quot;, dependencies = TRUE)
+# install.packages(&quot;summarytools&quot;)</code></pre>
+<pre class="r"><code># require(tidyverse)
+# require(jmv)
+# require(questionr)
+# library(summarytools)
+# library(gganimate)</code></pre>
+<hr />
+</div>
+</div>
+<div id="r-icin-yardm-bulma" class="section level1">
+<h1>R için yardım bulma</h1>
+<pre class="r"><code># ?mean
+# ??efetch
+# help(merge)
+# example(merge)</code></pre>
+<ul>
+<li>Vignette</li>
+</ul>
+<p><img src="figures/vignette.png" /></p>
+<hr />
+<ul>
+<li><p>RDocumentation
+<a href="https://www.rdocumentation.org" class="uri">https://www.rdocumentation.org</a></p></li>
+<li><p>R Package Documentation
+<a href="https://rdrr.io/" class="uri">https://rdrr.io/</a></p></li>
+<li><p>GitHub</p></li>
+<li><p>Stackoverflow</p></li>
+</ul>
+<p><a href="https://stackoverflow.com/" class="uri">https://stackoverflow.com/</a></p>
+<ul>
+<li>Google uygun anahtar kelime</li>
+</ul>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en">
+<p lang="en" dir="ltr">
+How I use <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <br>h/t <a href="https://twitter.com/ThePracticalDev?ref_src=twsrc%5Etfw"><span class="citation">@ThePracticalDev</span></a> <a href="https://t.co/erRnTG0Ujr">pic.twitter.com/erRnTG0Ujr</a>
+</p>
+— Emily Bovee (<span class="citation">@ebovee09</span>) <a href="https://twitter.com/ebovee09/status/1028037594947485696?ref_src=twsrc%5Etfw">August 10, 2018</a>
+</blockquote>
+<hr />
+<p><img src="figures/Google-package-name.png" /></p>
+<hr />
+<p><img src="figures/Google-start-with-R.png" /></p>
+<hr />
+<ul>
+<li>Google’da ararken <code>[R]</code> yazmak da işe yarayabiliyor.</li>
+</ul>
+<hr />
+<ul>
+<li>searcher package 📦</li>
+</ul>
+<p><a href="https://github.com/coatless/searcher"><img src="https://camo.githubusercontent.com/12f0e2d18047f1b5f36fbeb09a1d0e548236883f/68747470733a2f2f692e696d6775722e636f6d2f5a7132726736472e676966" /></a></p>
+<hr />
+<ul>
+<li>Awesome Cheatsheet
+<a href="https://github.com/detailyang/awesome-cheatsheet" class="uri">https://github.com/detailyang/awesome-cheatsheet</a></li>
+</ul>
+<p><a href="http://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf" class="uri">http://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf</a></p>
+<p><a href="https://www.rstudio.com/resources/cheatsheets/" class="uri">https://www.rstudio.com/resources/cheatsheets/</a></p>
+<ul>
+<li>Awesome R</li>
+</ul>
+<p><a href="https://github.com/qinwf/awesome-R#readme" class="uri">https://github.com/qinwf/awesome-R#readme</a></p>
+<p><a href="https://awesome-r.com/" class="uri">https://awesome-r.com/</a></p>
+<ul>
+<li>Twitter</li>
+</ul>
+<p><a href="https://twitter.com/hashtag/rstats?src=hash" class="uri">https://twitter.com/hashtag/rstats?src=hash</a></p>
+<ul>
+<li>Reproducible Examples</li>
+</ul>
+<blockquote class="twitter-tweet" data-lang="en">
+<p lang="en" dir="ltr">
+Got a question to ask on <a href="https://twitter.com/SlackHQ?ref_src=twsrc%5Etfw"><span class="citation">@SlackHQ</span></a> or post on <a href="https://twitter.com/github?ref_src=twsrc%5Etfw"><span class="citation">@github</span></a>? No time to read the long post on how to use reprex? Here is a 20-second gif for you to format your R codes nicely and for others to reproduce your problem. (An example from a talk given by <a href="https://twitter.com/JennyBryan?ref_src=twsrc%5Etfw"><span class="citation">@JennyBryan</span></a>) <a href="https://twitter.com/hashtag/rstat?src=hash&amp;ref_src=twsrc%5Etfw">#rstat</a> <a href="https://t.co/gpuGXpFIsX">pic.twitter.com/gpuGXpFIsX</a>
+</p>
+— ZhiYang (<span class="citation">@zhiiiyang</span>) <a href="https://twitter.com/zhiiiyang/status/1053006003711569920?ref_src=twsrc%5Etfw">October 18, 2018</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<ul>
+<li>Keeping up to date with R news<br />
+<a href="https://masalmon.eu/2019/01/25/uptodate/" class="uri">https://masalmon.eu/2019/01/25/uptodate/</a></li>
+</ul>
+<hr />
+</div>
+<div id="r-studio-ile-proje-olusturma" class="section level1">
+<h1>R studio ile proje oluşturma</h1>
+<p><a href="https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects" class="uri">https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects</a></p>
+<p><img src="http://www.rstudio.com/images/docs/projects_new.png" /></p>
+<hr />
+</div>
+<div id="rstudio-ile-veri-yukleme" class="section level1">
+<h1>RStudio ile veri yükleme</h1>
+<p><a href="https://support.rstudio.com/hc/en-us/articles/218611977-Importing-Data-with-RStudio" class="uri">https://support.rstudio.com/hc/en-us/articles/218611977-Importing-Data-with-RStudio</a></p>
+<p><img src="https://support.rstudio.com/hc/en-us/article_attachments/206277618/data-import-overview.gif" /></p>
+<hr />
+<div id="excel" class="section level2">
+<h2>Excel</h2>
+</div>
+<div id="spss" class="section level2">
+<h2>SPSS</h2>
+</div>
+<div id="csv" class="section level2">
+<h2>CSV</h2>
+<hr />
+</div>
+</div>
+<div id="veriyi-goruntuleme" class="section level1">
+<h1>Veriyi görüntüleme</h1>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en">
+<p lang="en" dir="ltr">
+Spreadsheet users using <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>: where's the data?<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> users using spreadsheets: where's the code?
+</p>
+— Leonard Kiefer (<span class="citation">@lenkiefer</span>) <a href="https://twitter.com/lenkiefer/status/1015587475580956672?ref_src=twsrc%5Etfw">July 7, 2018</a>
+</blockquote>
+<pre class="r"><code># library(nycflights13)
+# summary(flights)</code></pre>
+<pre><code>View(data)</code></pre>
+<pre><code>data</code></pre>
+<pre><code>head</code></pre>
+<pre><code>tail</code></pre>
+<pre><code>glimpse</code></pre>
+<pre><code>str</code></pre>
+<pre><code>skimr::skim()</code></pre>
+<hr />
+</div>
+<div id="veriyi-degistirme" class="section level1">
+<h1>Veriyi değiştirme</h1>
+<div id="veriyi-kod-ile-degistirelim" class="section level2">
+<h2>Veriyi kod ile değiştirelim</h2>
+</div>
+<div id="veriyi-eklentilerle-degistirme" class="section level2">
+<h2>Veriyi eklentilerle değiştirme</h2>
+<p><img src="figures/change_data.png" /></p>
+<hr />
+</div>
+<div id="rstudio-araclgyla-recode" class="section level2">
+<h2>RStudio aracılığıyla recode</h2>
+<p><em>questionr</em> paketi kullanılacak</p>
+<p><img src="figures/level_recode.png" /></p>
+<hr />
+<p><a href="https://juba.github.io/questionr/articles/recoding_addins.html" class="uri">https://juba.github.io/questionr/articles/recoding_addins.html</a></p>
+<p><img src="https://raw.githubusercontent.com/juba/questionr/master/resources/screenshots/irec_1.png" /></p>
+<hr />
+<p><img src="https://raw.githubusercontent.com/juba/questionr/master/resources/screenshots/irec_2.png" /></p>
+<hr />
+<p><img src="https://raw.githubusercontent.com/juba/questionr/master/resources/screenshots/irec_3.png" /></p>
+<hr />
+</div>
+</div>
+<div id="basit-tanmlayc-istatistikler" class="section level1">
+<h1>Basit tanımlayıcı istatistikler</h1>
+<pre><code>summary()</code></pre>
+<pre><code>mean</code></pre>
+<pre><code>median</code></pre>
+<pre><code>min</code></pre>
+<pre><code>max</code></pre>
+<pre><code>sd</code></pre>
+<pre><code>table()</code></pre>
+<hr />
+<div id="summarytools" class="section level2">
+<h2>summarytools</h2>
+<p><a href="https://cran.r-project.org/web/packages/summarytools/vignettes/Introduction.html" class="uri">https://cran.r-project.org/web/packages/summarytools/vignettes/Introduction.html</a></p>
+<pre class="r"><code>library(summarytools)
+summarytools::freq(iris$Species, style = &quot;rmarkdown&quot;)</code></pre>
+<div id="frequencies" class="section level3">
+<h3>Frequencies</h3>
+<div id="irisspecies" class="section level4">
+<h4>iris$Species</h4>
+<p><strong>Type:</strong> Factor</p>
+<table>
+<thead>
+<tr class="header">
+<th align="right"> </th>
+<th align="right">Freq</th>
+<th align="right">% Valid</th>
+<th align="right">% Valid Cum.</th>
+<th align="right">% Total</th>
+<th align="right">% Total Cum.</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="right"><strong>setosa</strong></td>
+<td align="right">50</td>
+<td align="right">33.33</td>
+<td align="right">33.33</td>
+<td align="right">33.33</td>
+<td align="right">33.33</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>versicolor</strong></td>
+<td align="right">50</td>
+<td align="right">33.33</td>
+<td align="right">66.67</td>
+<td align="right">33.33</td>
+<td align="right">66.67</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>virginica</strong></td>
+<td align="right">50</td>
+<td align="right">33.33</td>
+<td align="right">100.00</td>
+<td align="right">33.33</td>
+<td align="right">100.00</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>&lt;NA&gt;</strong></td>
+<td align="right">0</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right">0.00</td>
+<td align="right">100.00</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>Total</strong></td>
+<td align="right">150</td>
+<td align="right">100.00</td>
+<td align="right">100.00</td>
+<td align="right">100.00</td>
+<td align="right">100.00</td>
+</tr>
+</tbody>
+</table>
+<pre class="r"><code>summarytools::freq(iris$Species, report.nas = FALSE, style = &quot;rmarkdown&quot;, omit.headings = TRUE)</code></pre>
+<pre><code>&#39;omit.headings&#39; argument has been replaced by &#39;headings&#39;; setting headings = FALSE</code></pre>
+<table>
+<thead>
+<tr class="header">
+<th align="right"> </th>
+<th align="right">Freq</th>
+<th align="right">%</th>
+<th align="right">% Cum.</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="right"><strong>setosa</strong></td>
+<td align="right">50</td>
+<td align="right">33.33</td>
+<td align="right">33.33</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>versicolor</strong></td>
+<td align="right">50</td>
+<td align="right">33.33</td>
+<td align="right">66.67</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>virginica</strong></td>
+<td align="right">50</td>
+<td align="right">33.33</td>
+<td align="right">100.00</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>Total</strong></td>
+<td align="right">150</td>
+<td align="right">100.00</td>
+<td align="right">100.00</td>
+</tr>
+</tbody>
+</table>
+<pre class="r"><code>with(tobacco, print(ctable(smoker, diseased), method = &#39;render&#39;))</code></pre>
+<div class="container st-container">
+<h3>Cross-Tabulation, Row Proportions</h3>
+<h4>smoker * diseased</h4>
+<strong>Data Frame</strong>: tobacco
+<br/>
+<table class="table table-bordered st-table st-table-bordered st-cross-table ">
+<thead>
+<tr>
+<th></th>
+<th colspan="8" align="center" class="st-protect-top-border">diseased</th>
+<th colspan="4"></th>
+</tr>
+<tr>
+<td align="center">
+<strong>smoker</strong>
+</td>
+<th colspan="4" align="center">Yes</th>
+<th colspan="4" align="center">No</th>
+<th colspan="4" align="center">Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<strong align="center">Yes</strong>
+</td>
+<td align="right" style="padding:0 0 0 15px;border-right:0;text-align:right">125</td>
+<td align="left" style="padding:0 1px 0 4px;border-left:0;border-right:0;text-align:left">(</td>
+<td align="left" style="padding:0;border-left:0;border-right:0;text-align:right">41.9%</td>
+<td align="left" style="padding:0 15px 0 1px;border-left:0;text-align:right">)</td>
+<td align="right" style="padding:0 0 0 15px;border-right:0;text-align:right">173</td>
+<td align="left" style="padding:0 1px 0 4px;border-left:0;border-right:0;text-align:left">(</td>
+<td align="left" style="padding:0;border-left:0;border-right:0;text-align:right">58.1%</td>
+<td align="left" style="padding:0 15px 0 1px;border-left:0;text-align:right">)</td>
+<td align="right" style="padding:0 0 0 15px;border-right:0;text-align:right">298</td>
+<td align="left" style="padding:0 1px 0 4px;border-left:0;border-right:0;text-align:left">(</td>
+<td align="left" style="padding:0;border-left:0;border-right:0;text-align:right">100.0%</td>
+<td align="left" style="padding:0 15px 0 1px;border-left:0;text-align:right">)</td>
+</tr>
+<tr>
+<td>
+<strong align="center">No</strong>
+</td>
+<td align="right" style="padding:0 0 0 15px;border-right:0;text-align:right">99</td>
+<td align="left" style="padding:0 1px 0 4px;border-left:0;border-right:0;text-align:left">(</td>
+<td align="left" style="padding:0;border-left:0;border-right:0;text-align:right">14.1%</td>
+<td align="left" style="padding:0 15px 0 1px;border-left:0;text-align:right">)</td>
+<td align="right" style="padding:0 0 0 15px;border-right:0;text-align:right">603</td>
+<td align="left" style="padding:0 1px 0 4px;border-left:0;border-right:0;text-align:left">(</td>
+<td align="left" style="padding:0;border-left:0;border-right:0;text-align:right">85.9%</td>
+<td align="left" style="padding:0 15px 0 1px;border-left:0;text-align:right">)</td>
+<td align="right" style="padding:0 0 0 15px;border-right:0;text-align:right">702</td>
+<td align="left" style="padding:0 1px 0 4px;border-left:0;border-right:0;text-align:left">(</td>
+<td align="left" style="padding:0;border-left:0;border-right:0;text-align:right">100.0%</td>
+<td align="left" style="padding:0 15px 0 1px;border-left:0;text-align:right">)</td>
+</tr>
+<tr>
+<td>
+<strong align="center">Total</strong>
+</td>
+<td align="right" style="padding:0 0 0 15px;border-right:0;text-align:right">224</td>
+<td align="left" style="padding:0 1px 0 4px;border-left:0;border-right:0;text-align:left">(</td>
+<td align="left" style="padding:0;border-left:0;border-right:0;text-align:right">22.4%</td>
+<td align="left" style="padding:0 15px 0 1px;border-left:0;text-align:right">)</td>
+<td align="right" style="padding:0 0 0 15px;border-right:0;text-align:right">776</td>
+<td align="left" style="padding:0 1px 0 4px;border-left:0;border-right:0;text-align:left">(</td>
+<td align="left" style="padding:0;border-left:0;border-right:0;text-align:right">77.6%</td>
+<td align="left" style="padding:0 15px 0 1px;border-left:0;text-align:right">)</td>
+<td align="right" style="padding:0 0 0 15px;border-right:0;text-align:right">1000</td>
+<td align="left" style="padding:0 1px 0 4px;border-left:0;border-right:0;text-align:left">(</td>
+<td align="left" style="padding:0;border-left:0;border-right:0;text-align:right">100.0%</td>
+<td align="left" style="padding:0 15px 0 1px;border-left:0;text-align:right">)</td>
+</tr>
+</tbody>
+</table>
+<p>Generated by <a href='https://github.com/dcomtois/summarytools'>summarytools</a> 0.9.3 (<a href='https://www.r-project.org/'>R</a> version 3.5.3)<br/>2019-05-09</p>
+</div>
+<pre class="r"><code>with(tobacco, 
+     print(ctable(smoker, diseased, prop = &#39;n&#39;, totals = FALSE), 
+           omit.headings = TRUE, method = &quot;render&quot;))</code></pre>
+<pre><code>&#39;omit.headings&#39; will disappear in future releases; use &#39;headings&#39; instead</code></pre>
+<div class="container st-container">
+<table class="table table-bordered st-table st-table-bordered st-cross-table ">
+<thead>
+<tr>
+<th></th>
+<th colspan="2" align="center" class="st-protect-top-border">diseased</th>
+</tr>
+<tr>
+<td align="center">
+<strong>smoker</strong>
+</td>
+<th colspan="1" align="center">Yes</th>
+<th colspan="1" align="center">No</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<strong align="center">Yes</strong>
+</td>
+<td>
+<span>125</span>
+</td>
+<td>
+<span>173</span>
+</td>
+</tr>
+<tr>
+<td>
+<strong align="center">No</strong>
+</td>
+<td>
+<span>99</span>
+</td>
+<td>
+<span>603</span>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Generated by <a href='https://github.com/dcomtois/summarytools'>summarytools</a> 0.9.3 (<a href='https://www.r-project.org/'>R</a> version 3.5.3)<br/>2019-05-09</p>
+</div>
+<pre class="r"><code>summarytools::descr(iris, style = &quot;rmarkdown&quot;)</code></pre>
+<pre><code>Non-numerical variable(s) ignored: Species</code></pre>
+</div>
+</div>
+<div id="descriptive-statistics" class="section level3">
+<h3>Descriptive Statistics</h3>
+<div id="iris" class="section level4">
+<h4>iris</h4>
+<p><strong>N:</strong> 150</p>
+<table>
+<thead>
+<tr class="header">
+<th align="right"> </th>
+<th align="right">Petal.Length</th>
+<th align="right">Petal.Width</th>
+<th align="right">Sepal.Length</th>
+<th align="right">Sepal.Width</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="right"><strong>Mean</strong></td>
+<td align="right">3.76</td>
+<td align="right">1.20</td>
+<td align="right">5.84</td>
+<td align="right">3.06</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>Std.Dev</strong></td>
+<td align="right">1.77</td>
+<td align="right">0.76</td>
+<td align="right">0.83</td>
+<td align="right">0.44</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>Min</strong></td>
+<td align="right">1.00</td>
+<td align="right">0.10</td>
+<td align="right">4.30</td>
+<td align="right">2.00</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>Q1</strong></td>
+<td align="right">1.60</td>
+<td align="right">0.30</td>
+<td align="right">5.10</td>
+<td align="right">2.80</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>Median</strong></td>
+<td align="right">4.35</td>
+<td align="right">1.30</td>
+<td align="right">5.80</td>
+<td align="right">3.00</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>Q3</strong></td>
+<td align="right">5.10</td>
+<td align="right">1.80</td>
+<td align="right">6.40</td>
+<td align="right">3.30</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>Max</strong></td>
+<td align="right">6.90</td>
+<td align="right">2.50</td>
+<td align="right">7.90</td>
+<td align="right">4.40</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>MAD</strong></td>
+<td align="right">1.85</td>
+<td align="right">1.04</td>
+<td align="right">1.04</td>
+<td align="right">0.44</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>IQR</strong></td>
+<td align="right">3.50</td>
+<td align="right">1.50</td>
+<td align="right">1.30</td>
+<td align="right">0.50</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>CV</strong></td>
+<td align="right">0.47</td>
+<td align="right">0.64</td>
+<td align="right">0.14</td>
+<td align="right">0.14</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>Skewness</strong></td>
+<td align="right">-0.27</td>
+<td align="right">-0.10</td>
+<td align="right">0.31</td>
+<td align="right">0.31</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>SE.Skewness</strong></td>
+<td align="right">0.20</td>
+<td align="right">0.20</td>
+<td align="right">0.20</td>
+<td align="right">0.20</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>Kurtosis</strong></td>
+<td align="right">-1.42</td>
+<td align="right">-1.36</td>
+<td align="right">-0.61</td>
+<td align="right">0.14</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>N.Valid</strong></td>
+<td align="right">150.00</td>
+<td align="right">150.00</td>
+<td align="right">150.00</td>
+<td align="right">150.00</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>Pct.Valid</strong></td>
+<td align="right">100.00</td>
+<td align="right">100.00</td>
+<td align="right">100.00</td>
+<td align="right">100.00</td>
+</tr>
+</tbody>
+</table>
+<pre class="r"><code>descr(iris, stats = c(&quot;mean&quot;, &quot;sd&quot;, &quot;min&quot;, &quot;med&quot;, &quot;max&quot;), transpose = TRUE, 
+      omit.headings = TRUE, style = &quot;rmarkdown&quot;)</code></pre>
+<pre><code>&#39;omit.headings&#39; argument has been replaced by &#39;headings&#39;; setting headings = FALSE</code></pre>
+<pre><code>Non-numerical variable(s) ignored: Species</code></pre>
+<table>
+<thead>
+<tr class="header">
+<th align="right"> </th>
+<th align="right">Mean</th>
+<th align="right">Std.Dev</th>
+<th align="right">Min</th>
+<th align="right">Median</th>
+<th align="right">Max</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="right"><strong>Petal.Length</strong></td>
+<td align="right">3.76</td>
+<td align="right">1.77</td>
+<td align="right">1.00</td>
+<td align="right">4.35</td>
+<td align="right">6.90</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>Petal.Width</strong></td>
+<td align="right">1.20</td>
+<td align="right">0.76</td>
+<td align="right">0.10</td>
+<td align="right">1.30</td>
+<td align="right">2.50</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>Sepal.Length</strong></td>
+<td align="right">5.84</td>
+<td align="right">0.83</td>
+<td align="right">4.30</td>
+<td align="right">5.80</td>
+<td align="right">7.90</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>Sepal.Width</strong></td>
+<td align="right">3.06</td>
+<td align="right">0.44</td>
+<td align="right">2.00</td>
+<td align="right">3.00</td>
+<td align="right">4.40</td>
+</tr>
+</tbody>
+</table>
+<pre class="r"><code># view(dfSummary(iris))</code></pre>
+<p><img src="figures/dfsummary.png" /></p>
+<pre class="r"><code>dfSummary(tobacco, plain.ascii = FALSE, style = &quot;grid&quot;)</code></pre>
+<pre><code>text graphs are displayed; set &#39;tmp.img.dir&#39; parameter to activate png graphs</code></pre>
+</div>
+</div>
+<div id="data-frame-summary" class="section level3">
+<h3>Data Frame Summary</h3>
+<div id="tobacco" class="section level4">
+<h4>tobacco</h4>
+<p><strong>Dimensions:</strong> 1000 x 9<br />
+<strong>Duplicates:</strong> 2</p>
+<table>
+<colgroup>
+<col width="4%" />
+<col width="13%" />
+<col width="22%" />
+<col width="18%" />
+<col width="25%" />
+<col width="8%" />
+<col width="8%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>No</th>
+<th>Variable</th>
+<th>Stats / Values</th>
+<th>Freqs (% of Valid)</th>
+<th>Graph</th>
+<th>Valid</th>
+<th>Missing</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>gender<br />
+[factor]</td>
+<td>1. F<br />
+2. M</td>
+<td>489 (50.0%)<br />
+489 (50.0%)</td>
+<td>IIIIIIIIII<br />
+IIIIIIIIII</td>
+<td>978<br />
+(97.8%)</td>
+<td>22<br />
+(2.2%)</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>age<br />
+[numeric]</td>
+<td>Mean (sd) : 49.6 (18.3)<br />
+min &lt; med &lt; max:<br />
+18 &lt; 50 &lt; 80<br />
+IQR (CV) : 32 (0.4)</td>
+<td>63 distinct values</td>
+<td><br />
+.     .     . . . :<br />
+: : : : : . : : : :<br />
+: : : : : : : : : :<br />
+: : : : : : : : : :<br />
+: : : : : : : : : :</td>
+<td>975<br />
+(97.5%)</td>
+<td>25<br />
+(2.5%)</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>age.gr<br />
+[factor]</td>
+<td>1. 18-34<br />
+2. 35-50<br />
+3. 51-70<br />
+4. 71 +</td>
+<td>258 (26.5%)<br />
+241 (24.7%)<br />
+317 (32.5%)<br />
+159 (16.3%)</td>
+<td>IIIII<br />
+IIII<br />
+IIIIII<br />
+III</td>
+<td>975<br />
+(97.5%)</td>
+<td>25<br />
+(2.5%)</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>BMI<br />
+[numeric]</td>
+<td>Mean (sd) : 25.7 (4.5)<br />
+min &lt; med &lt; max:<br />
+8.8 &lt; 25.6 &lt; 39.4<br />
+IQR (CV) : 5.7 (0.2)</td>
+<td>974 distinct values</td>
+<td><br />
+          :<br />
+        : : :<br />
+        : : :<br />
+      : : : : :<br />
+    . : : : : : .</td>
+<td>974<br />
+(97.4%)</td>
+<td>26<br />
+(2.6%)</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>smoker<br />
+[factor]</td>
+<td>1. Yes<br />
+2. No</td>
+<td>298 (29.8%)<br />
+702 (70.2%)</td>
+<td>IIIII<br />
+IIIIIIIIIIIIII</td>
+<td>1000<br />
+(100%)</td>
+<td>0<br />
+(0%)</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>cigs.per.day<br />
+[numeric]</td>
+<td>Mean (sd) : 6.8 (11.9)<br />
+min &lt; med &lt; max:<br />
+0 &lt; 0 &lt; 40<br />
+IQR (CV) : 11 (1.8)</td>
+<td>37 distinct values</td>
+<td><br />
+:<br />
+:<br />
+:<br />
+:<br />
+:   . . . . . .</td>
+<td>965<br />
+(96.5%)</td>
+<td>35<br />
+(3.5%)</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>diseased<br />
+[factor]</td>
+<td>1. Yes<br />
+2. No</td>
+<td>224 (22.4%)<br />
+776 (77.6%)</td>
+<td>IIII<br />
+IIIIIIIIIIIIIII</td>
+<td>1000<br />
+(100%)</td>
+<td>0<br />
+(0%)</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>disease<br />
+[character]</td>
+<td>1. Hypertension<br />
+2. Cancer<br />
+3. Cholesterol<br />
+4. Heart<br />
+5. Pulmonary<br />
+6. Musculoskeletal<br />
+7. Diabetes<br />
+8. Hearing<br />
+9. Digestive<br />
+10. Hypotension<br />
+[ 3 others ]</td>
+<td>36 (16.2%)<br />
+34 (15.3%)<br />
+21 ( 9.5%)<br />
+20 ( 9.0%)<br />
+20 ( 9.0%)<br />
+19 ( 8.6%)<br />
+14 ( 6.3%)<br />
+14 ( 6.3%)<br />
+12 ( 5.4%)<br />
+11 ( 5.0%)<br />
+21 ( 9.5%)</td>
+<td>III<br />
+III<br />
+I<br />
+I<br />
+I<br />
+I<br />
+I<br />
+I<br />
+I<br />
+<br />
+I</td>
+<td>222<br />
+(22.2%)</td>
+<td>778<br />
+(77.8%)</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td>samp.wgts<br />
+[numeric]</td>
+<td>Mean (sd) : 1 (0.1)<br />
+min &lt; med &lt; max:<br />
+0.9 &lt; 1 &lt; 1.1<br />
+IQR (CV) : 0.2 (0.1)</td>
+<td>0.86!: 267 (26.7%)<br />
+1.04!: 249 (24.9%)<br />
+1.05!: 324 (32.4%)<br />
+1.06!: 160 (16.0%)<br />
+! rounded</td>
+<td>IIIII<br />
+IIII<br />
+IIIIII<br />
+III<br />
+<br />
+</td>
+<td>1000<br />
+(100%)</td>
+<td>0<br />
+(0%)</td>
+</tr>
+</tbody>
+</table>
+<pre class="r"><code># First save the results
+
+iris_stats_by_species &lt;- by(data = iris, 
+                            INDICES = iris$Species, 
+                            FUN = descr, stats = c(&quot;mean&quot;, &quot;sd&quot;, &quot;min&quot;, &quot;med&quot;, &quot;max&quot;), 
+                            transpose = TRUE)
+
+# Then use view(), like so:
+
+view(iris_stats_by_species, method = &quot;pander&quot;, style = &quot;rmarkdown&quot;)</code></pre>
+<pre><code>Non-numerical variable(s) ignored: Species</code></pre>
+</div>
+</div>
+<div id="descriptive-statistics-1" class="section level3">
+<h3>Descriptive Statistics</h3>
+<div id="iris-1" class="section level4">
+<h4>iris</h4>
+<p><strong>Group:</strong> Species = setosa<br />
+<strong>N:</strong> 50</p>
+<table>
+<thead>
+<tr class="header">
+<th align="right"> </th>
+<th align="right">Mean</th>
+<th align="right">Std.Dev</th>
+<th align="right">Min</th>
+<th align="right">Median</th>
+<th align="right">Max</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="right"><strong>Petal.Length</strong></td>
+<td align="right">1.46</td>
+<td align="right">0.17</td>
+<td align="right">1.00</td>
+<td align="right">1.50</td>
+<td align="right">1.90</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>Petal.Width</strong></td>
+<td align="right">0.25</td>
+<td align="right">0.11</td>
+<td align="right">0.10</td>
+<td align="right">0.20</td>
+<td align="right">0.60</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>Sepal.Length</strong></td>
+<td align="right">5.01</td>
+<td align="right">0.35</td>
+<td align="right">4.30</td>
+<td align="right">5.00</td>
+<td align="right">5.80</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>Sepal.Width</strong></td>
+<td align="right">3.43</td>
+<td align="right">0.38</td>
+<td align="right">2.30</td>
+<td align="right">3.40</td>
+<td align="right">4.40</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Group:</strong> Species = versicolor<br />
+<strong>N:</strong> 50</p>
+<table>
+<thead>
+<tr class="header">
+<th align="right"> </th>
+<th align="right">Mean</th>
+<th align="right">Std.Dev</th>
+<th align="right">Min</th>
+<th align="right">Median</th>
+<th align="right">Max</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="right"><strong>Petal.Length</strong></td>
+<td align="right">4.26</td>
+<td align="right">0.47</td>
+<td align="right">3.00</td>
+<td align="right">4.35</td>
+<td align="right">5.10</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>Petal.Width</strong></td>
+<td align="right">1.33</td>
+<td align="right">0.20</td>
+<td align="right">1.00</td>
+<td align="right">1.30</td>
+<td align="right">1.80</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>Sepal.Length</strong></td>
+<td align="right">5.94</td>
+<td align="right">0.52</td>
+<td align="right">4.90</td>
+<td align="right">5.90</td>
+<td align="right">7.00</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>Sepal.Width</strong></td>
+<td align="right">2.77</td>
+<td align="right">0.31</td>
+<td align="right">2.00</td>
+<td align="right">2.80</td>
+<td align="right">3.40</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Group:</strong> Species = virginica<br />
+<strong>N:</strong> 50</p>
+<table>
+<thead>
+<tr class="header">
+<th align="right"> </th>
+<th align="right">Mean</th>
+<th align="right">Std.Dev</th>
+<th align="right">Min</th>
+<th align="right">Median</th>
+<th align="right">Max</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="right"><strong>Petal.Length</strong></td>
+<td align="right">5.55</td>
+<td align="right">0.55</td>
+<td align="right">4.50</td>
+<td align="right">5.55</td>
+<td align="right">6.90</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>Petal.Width</strong></td>
+<td align="right">2.03</td>
+<td align="right">0.27</td>
+<td align="right">1.40</td>
+<td align="right">2.00</td>
+<td align="right">2.50</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>Sepal.Length</strong></td>
+<td align="right">6.59</td>
+<td align="right">0.64</td>
+<td align="right">4.90</td>
+<td align="right">6.50</td>
+<td align="right">7.90</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>Sepal.Width</strong></td>
+<td align="right">2.97</td>
+<td align="right">0.32</td>
+<td align="right">2.20</td>
+<td align="right">3.00</td>
+<td align="right">3.80</td>
+</tr>
+</tbody>
+</table>
+<pre class="r"><code># view(iris_stats_by_species)</code></pre>
+<p><img src="figures/DescriptiveStatistics.png" /></p>
+<hr />
+<pre class="r"><code>data(tobacco) # tobacco is an example dataframe included in the package
+BMI_by_age &lt;- with(tobacco, 
+                   by(BMI, age.gr, descr, 
+                      stats = c(&quot;mean&quot;, &quot;sd&quot;, &quot;min&quot;, &quot;med&quot;, &quot;max&quot;)))
+view(BMI_by_age, &quot;pander&quot;, style = &quot;rmarkdown&quot;)</code></pre>
+</div>
+</div>
+<div id="descriptive-statistics-2" class="section level3">
+<h3>Descriptive Statistics</h3>
+<div id="bmi-by-age.gr" class="section level4">
+<h4>BMI by age.gr</h4>
+<p><strong>Data Frame:</strong> tobacco<br />
+<strong>N:</strong> 258</p>
+<table>
+<thead>
+<tr class="header">
+<th align="right"> </th>
+<th align="right">18-34</th>
+<th align="right">35-50</th>
+<th align="right">51-70</th>
+<th align="right">71 +</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="right"><strong>Mean</strong></td>
+<td align="right">23.84</td>
+<td align="right">25.11</td>
+<td align="right">26.91</td>
+<td align="right">27.45</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>Std.Dev</strong></td>
+<td align="right">4.23</td>
+<td align="right">4.34</td>
+<td align="right">4.26</td>
+<td align="right">4.37</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>Min</strong></td>
+<td align="right">8.83</td>
+<td align="right">10.35</td>
+<td align="right">9.01</td>
+<td align="right">16.36</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>Median</strong></td>
+<td align="right">24.04</td>
+<td align="right">25.11</td>
+<td align="right">26.77</td>
+<td align="right">27.52</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>Max</strong></td>
+<td align="right">34.84</td>
+<td align="right">39.44</td>
+<td align="right">39.21</td>
+<td align="right">38.37</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<pre class="r"><code>BMI_by_age &lt;- with(tobacco, 
+                   by(BMI, age.gr, descr,  transpose = TRUE,
+                      stats = c(&quot;mean&quot;, &quot;sd&quot;, &quot;min&quot;, &quot;med&quot;, &quot;max&quot;)))
+
+view(BMI_by_age, &quot;pander&quot;, style = &quot;rmarkdown&quot;, omit.headings = TRUE)</code></pre>
+<pre><code>&#39;omit.headings&#39; will disappear in future releases; use &#39;headings&#39; instead</code></pre>
+<table>
+<thead>
+<tr class="header">
+<th align="right"> </th>
+<th align="right">Mean</th>
+<th align="right">Std.Dev</th>
+<th align="right">Min</th>
+<th align="right">Median</th>
+<th align="right">Max</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="right"><strong>18-34</strong></td>
+<td align="right">23.84</td>
+<td align="right">4.23</td>
+<td align="right">8.83</td>
+<td align="right">24.04</td>
+<td align="right">34.84</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>35-50</strong></td>
+<td align="right">25.11</td>
+<td align="right">4.34</td>
+<td align="right">10.35</td>
+<td align="right">25.11</td>
+<td align="right">39.44</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>51-70</strong></td>
+<td align="right">26.91</td>
+<td align="right">4.26</td>
+<td align="right">9.01</td>
+<td align="right">26.77</td>
+<td align="right">39.21</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>71 +</strong></td>
+<td align="right">27.45</td>
+<td align="right">4.37</td>
+<td align="right">16.36</td>
+<td align="right">27.52</td>
+<td align="right">38.37</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<pre class="r"><code>tobacco_subset &lt;- tobacco[ ,c(&quot;gender&quot;, &quot;age.gr&quot;, &quot;smoker&quot;)]
+freq_tables &lt;- lapply(tobacco_subset, freq)
+
+# view(freq_tables, footnote = NA, file = &#39;freq-tables.html&#39;)</code></pre>
+<hr />
+<pre class="r"><code>what.is(iris)</code></pre>
+<p>$properties
+property value
+1 class data.frame
+2 typeof list
+3 mode list
+4 storage.mode list
+5 dim 150 x 5
+6 length 5
+7 is.object TRUE
+8 object.type S3
+9 object.size 7256 Bytes</p>
+<p>$attributes.lengths
+names class row.names
+5 1 150</p>
+<p>$extensive.is
+[1] “is.data.frame” “is.list” “is.object” “is.recursive”
+[5] “is.unsorted”</p>
+<hr />
+<pre class="r"><code>freq(tobacco$gender, style = &#39;rmarkdown&#39;)</code></pre>
+<pre><code>## ### Frequencies  
+## #### tobacco$gender  
+## **Type:** Factor  
+## 
+## |     &amp;nbsp; | Freq | % Valid | % Valid Cum. | % Total | % Total Cum. |
+## |-----------:|-----:|--------:|-------------:|--------:|-------------:|
+## |      **F** |  489 |   50.00 |        50.00 |   48.90 |        48.90 |
+## |      **M** |  489 |   50.00 |       100.00 |   48.90 |        97.80 |
+## | **\&lt;NA\&gt;** |   22 |         |              |    2.20 |       100.00 |
+## |  **Total** | 1000 |  100.00 |       100.00 |  100.00 |       100.00 |</code></pre>
+<hr />
+<pre class="r"><code>print(freq(tobacco$gender), method = &#39;render&#39;)</code></pre>
+<div class="container st-container">
+<h3>Frequencies</h3>
+<h4>tobacco$gender</h4>
+<strong>Type</strong>: Factor
+<br/>
+<table class="table table-striped table-bordered st-table st-table-striped st-table-bordered st-freq-table ">
+  <thead>
+    <tr>
+      <th colspan="2"></th>
+      <th colspan="2" align="center" class="st-protect-top-border">Valid</th>
+      <th colspan="2" align="center" class="st-protect-top-border">Total</th>
+    </tr>
+    <tr>
+      <th align="center">gender</th>
+      <th align="center">Freq</th>
+      <th align="center">%</th>
+      <th align="center">% Cum.</th>
+      <th align="center">%</th>
+      <th align="center">% Cum.</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th align="center" class="st-protect-top-border">F</th>
+      <td align="center">489</td>
+      <td align="center">50.00</td>
+      <td align="center">50.00</td>
+      <td align="center">48.90</td>
+      <td align="center">48.90</td>
+    </tr>
+    <tr>
+      <th align="center" class="st-protect-top-border">M</th>
+      <td align="center">489</td>
+      <td align="center">50.00</td>
+      <td align="center">100.00</td>
+      <td align="center">48.90</td>
+      <td align="center">97.80</td>
+    </tr>
+    <tr>
+      <th align="center" class="st-protect-top-border">&lt;NA&gt;</th>
+      <td align="center">22</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center">2.20</td>
+      <td align="center">100.00</td>
+    </tr>
+    <tr>
+      <th align="center" class="st-protect-top-border">Total</th>
+      <td align="center">1000</td>
+      <td align="center">100.00</td>
+      <td align="center">100.00</td>
+      <td align="center">100.00</td>
+      <td align="center">100.00</td>
+    </tr>
+  </tbody>
+</table>
+<p><p>Generated by <a href='https://github.com/dcomtois/summarytools'>summarytools</a> 0.9.3 (<a href='https://www.r-project.org/'>R</a> version 3.5.3)<br/>2019-05-09</p></p>
+</div>
+<hr />
+</div>
+</div>
+</div>
+<div id="skimr" class="section level2">
+<h2>skimr</h2>
+<pre><code>library(skimr)
+skim(df)</code></pre>
+<hr />
+</div>
+<div id="dataexplorer" class="section level2">
+<h2>DataExplorer</h2>
+<pre><code>library(DataExplorer)
+DataExplorer::create_report(df)</code></pre>
+<p><a href="https://www.littlemissdata.com/blog/simple-eda"><img src="https://static1.squarespace.com/static/58eef8846a4963e429687a4d/t/5bdfc2fb4d7a9c04ee50b7aa/1541391160702/dataExplorerGifLg.gif?format=1500w" /></a></p>
+<hr />
+</div>
+<div id="inspectdf" class="section level2">
+<h2>inspectdf</h2>
+<p><a href="https://github.com/alastairrushworth/inspectdf" class="uri">https://github.com/alastairrushworth/inspectdf</a></p>
+<hr />
+</div>
+<div id="grafikler" class="section level2">
+<h2>Grafikler</h2>
+<pre class="r"><code># library(ggplot2)
+# library(mosaic)
+# mPlot(irisdata)</code></pre>
+<hr />
+<pre class="r"><code>ctable(tobacco$gender, tobacco$smoker, style = &#39;rmarkdown&#39;)</code></pre>
+<div id="cross-tabulation-row-proportions" class="section level3">
+<h3>Cross-Tabulation, Row Proportions</h3>
+<div id="gender-smoker" class="section level4">
+<h4>gender * smoker</h4>
+<p><strong>Data Frame:</strong> tobacco</p>
+<table>
+<tbody>
+<tr class="odd">
+<td align="right"></td>
+<td align="right">smoker</td>
+<td align="right">Yes</td>
+<td align="right">No</td>
+<td align="right">Total</td>
+</tr>
+<tr class="even">
+<td align="right">gender</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr class="odd">
+<td align="right">F</td>
+<td align="right"></td>
+<td align="right">147 (30.1%)</td>
+<td align="right">342 (69.9%)</td>
+<td align="right">489 (100.0%)</td>
+</tr>
+<tr class="even">
+<td align="right">M</td>
+<td align="right"></td>
+<td align="right">143 (29.2%)</td>
+<td align="right">346 (70.8%)</td>
+<td align="right">489 (100.0%)</td>
+</tr>
+<tr class="odd">
+<td align="right">&lt;NA&gt;</td>
+<td align="right"></td>
+<td align="right">8 (36.4%)</td>
+<td align="right">14 (63.6%)</td>
+<td align="right">22 (100.0%)</td>
+</tr>
+<tr class="even">
+<td align="right">Total</td>
+<td align="right"></td>
+<td align="right">298 (29.8%)</td>
+<td align="right">702 (70.2%)</td>
+<td align="right">1000 (100.0%)</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<pre class="r"><code>print(ctable(tobacco$gender, tobacco$smoker), method = &#39;render&#39;)</code></pre>
+<div class="container st-container">
+<h3>Cross-Tabulation, Row Proportions</h3>
+<h4>gender * smoker</h4>
+<strong>Data Frame</strong>: tobacco
+<br/>
+<table class="table table-bordered st-table st-table-bordered st-cross-table ">
+<thead>
+<tr>
+<th></th>
+<th colspan="8" align="center" class="st-protect-top-border">smoker</th>
+<th colspan="4"></th>
+</tr>
+<tr>
+<td align="center">
+<strong>gender</strong>
+</td>
+<th colspan="4" align="center">Yes</th>
+<th colspan="4" align="center">No</th>
+<th colspan="4" align="center">Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<strong align="center">F</strong>
+</td>
+<td align="right" style="padding:0 0 0 15px;border-right:0;text-align:right">147</td>
+<td align="left" style="padding:0 1px 0 4px;border-left:0;border-right:0;text-align:left">(</td>
+<td align="left" style="padding:0;border-left:0;border-right:0;text-align:right">30.1%</td>
+<td align="left" style="padding:0 15px 0 1px;border-left:0;text-align:right">)</td>
+<td align="right" style="padding:0 0 0 15px;border-right:0;text-align:right">342</td>
+<td align="left" style="padding:0 1px 0 4px;border-left:0;border-right:0;text-align:left">(</td>
+<td align="left" style="padding:0;border-left:0;border-right:0;text-align:right">69.9%</td>
+<td align="left" style="padding:0 15px 0 1px;border-left:0;text-align:right">)</td>
+<td align="right" style="padding:0 0 0 15px;border-right:0;text-align:right">489</td>
+<td align="left" style="padding:0 1px 0 4px;border-left:0;border-right:0;text-align:left">(</td>
+<td align="left" style="padding:0;border-left:0;border-right:0;text-align:right">100.0%</td>
+<td align="left" style="padding:0 15px 0 1px;border-left:0;text-align:right">)</td>
+</tr>
+<tr>
+<td>
+<strong align="center">M</strong>
+</td>
+<td align="right" style="padding:0 0 0 15px;border-right:0;text-align:right">143</td>
+<td align="left" style="padding:0 1px 0 4px;border-left:0;border-right:0;text-align:left">(</td>
+<td align="left" style="padding:0;border-left:0;border-right:0;text-align:right">29.2%</td>
+<td align="left" style="padding:0 15px 0 1px;border-left:0;text-align:right">)</td>
+<td align="right" style="padding:0 0 0 15px;border-right:0;text-align:right">346</td>
+<td align="left" style="padding:0 1px 0 4px;border-left:0;border-right:0;text-align:left">(</td>
+<td align="left" style="padding:0;border-left:0;border-right:0;text-align:right">70.8%</td>
+<td align="left" style="padding:0 15px 0 1px;border-left:0;text-align:right">)</td>
+<td align="right" style="padding:0 0 0 15px;border-right:0;text-align:right">489</td>
+<td align="left" style="padding:0 1px 0 4px;border-left:0;border-right:0;text-align:left">(</td>
+<td align="left" style="padding:0;border-left:0;border-right:0;text-align:right">100.0%</td>
+<td align="left" style="padding:0 15px 0 1px;border-left:0;text-align:right">)</td>
+</tr>
+<tr>
+<td>
+<strong align="center">&lt;NA&gt;</strong>
+</td>
+<td align="right" style="padding:0 0 0 15px;border-right:0;text-align:right">8</td>
+<td align="left" style="padding:0 1px 0 4px;border-left:0;border-right:0;text-align:left">(</td>
+<td align="left" style="padding:0;border-left:0;border-right:0;text-align:right">36.4%</td>
+<td align="left" style="padding:0 15px 0 1px;border-left:0;text-align:right">)</td>
+<td align="right" style="padding:0 0 0 15px;border-right:0;text-align:right">14</td>
+<td align="left" style="padding:0 1px 0 4px;border-left:0;border-right:0;text-align:left">(</td>
+<td align="left" style="padding:0;border-left:0;border-right:0;text-align:right">63.6%</td>
+<td align="left" style="padding:0 15px 0 1px;border-left:0;text-align:right">)</td>
+<td align="right" style="padding:0 0 0 15px;border-right:0;text-align:right">22</td>
+<td align="left" style="padding:0 1px 0 4px;border-left:0;border-right:0;text-align:left">(</td>
+<td align="left" style="padding:0;border-left:0;border-right:0;text-align:right">100.0%</td>
+<td align="left" style="padding:0 15px 0 1px;border-left:0;text-align:right">)</td>
+</tr>
+<tr>
+<td>
+<strong align="center">Total</strong>
+</td>
+<td align="right" style="padding:0 0 0 15px;border-right:0;text-align:right">298</td>
+<td align="left" style="padding:0 1px 0 4px;border-left:0;border-right:0;text-align:left">(</td>
+<td align="left" style="padding:0;border-left:0;border-right:0;text-align:right">29.8%</td>
+<td align="left" style="padding:0 15px 0 1px;border-left:0;text-align:right">)</td>
+<td align="right" style="padding:0 0 0 15px;border-right:0;text-align:right">702</td>
+<td align="left" style="padding:0 1px 0 4px;border-left:0;border-right:0;text-align:left">(</td>
+<td align="left" style="padding:0;border-left:0;border-right:0;text-align:right">70.2%</td>
+<td align="left" style="padding:0 15px 0 1px;border-left:0;text-align:right">)</td>
+<td align="right" style="padding:0 0 0 15px;border-right:0;text-align:right">1000</td>
+<td align="left" style="padding:0 1px 0 4px;border-left:0;border-right:0;text-align:left">(</td>
+<td align="left" style="padding:0;border-left:0;border-right:0;text-align:right">100.0%</td>
+<td align="left" style="padding:0 15px 0 1px;border-left:0;text-align:right">)</td>
+</tr>
+</tbody>
+</table>
+<p>Generated by <a href='https://github.com/dcomtois/summarytools'>summarytools</a> 0.9.3 (<a href='https://www.r-project.org/'>R</a> version 3.5.3)<br/>2019-05-09</p>
+</div>
+<pre><code>descr(tobacco, style = &#39;rmarkdown&#39;)
+
+print(descr(tobacco), method = &#39;render&#39;, table.classes = &#39;st-small&#39;)
+
+dfSummary(tobacco, style = &#39;grid&#39;, plain.ascii = FALSE)
+
+print(dfSummary(tobacco, graph.magnif = 0.75), method = &#39;render&#39;)</code></pre>
+<hr />
+<blockquote class="twitter-tweet" data-lang="en">
+<p lang="en" dir="ltr">
+Here, building up a <a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a> as slowly as possible, <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>. Incremental adjustments. <a href="https://twitter.com/hashtag/rstatsteachingideas?src=hash&amp;ref_src=twsrc%5Etfw">#rstatsteachingideas</a> <a href="https://t.co/nUulQl8bPh">pic.twitter.com/nUulQl8bPh</a>
+</p>
+— Gina Reynolds (<span class="citation">@EvaMaeRey</span>) <a href="https://twitter.com/EvaMaeRey/status/1029104656763572226?ref_src=twsrc%5Etfw">August 13, 2018</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<hr />
+<p><a href="https://github.com/dreamRs/esquisse"><img src="https://raw.githubusercontent.com/dreamRs/esquisse/master/man/figures/esquisse.gif" /></a></p>
+<blockquote class="twitter-tweet" data-lang="en">
+<p lang="en" dir="ltr">
+Dreaming of a fancy <a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> <a href="https://twitter.com/hashtag/ggplot?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> but still scared of typing <a href="https://twitter.com/hashtag/code?src=hash&amp;ref_src=twsrc%5Etfw">#code</a>? <a href="https://twitter.com/_pvictorr?ref_src=twsrc%5Etfw"><span class="citation">@_pvictorr</span></a> esquisse package has you covered <a href="https://t.co/1vIDXcVAAF">https://t.co/1vIDXcVAAF</a> <a href="https://t.co/RlTkptnrNv">pic.twitter.com/RlTkptnrNv</a>
+</p>
+— Radoslaw Panczak (<span class="citation">@RPanczak</span>) <a href="https://twitter.com/RPanczak/status/1047019588658040832?ref_src=twsrc%5Etfw">October 2, 2018</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<hr />
+</div>
+</div>
+</div>
+<div id="tablolar" class="section level2">
+<h2>Tablolar</h2>
+<hr />
+</div>
+</div>
+<div id="baz-arayuzler" class="section level1">
+<h1>Bazı arayüzler</h1>
+<p>Link</p>
+<div id="rcmdr" class="section level2">
+<h2>Rcmdr</h2>
+<pre><code>library(Rcmdr)
+
+Rcmdr::Commander()
+</code></pre>
+<ul>
+<li>A Comparative Review of the R Commander GUI for R</li>
+</ul>
+<p><a href="http://r4stats.com/articles/software-reviews/r-commander/" class="uri">http://r4stats.com/articles/software-reviews/r-commander/</a></p>
+<hr />
+</div>
+<div id="jamovi" class="section level2">
+<h2>jamovi</h2>
+<p><a href="https://www.jamovi.org/" class="uri">https://www.jamovi.org/</a></p>
+<div class="figure">
+<img src="https://www.jamovi.org/" alt="" />
+<p class="caption"><img src="https://www.jamovi.org/assets/main-screenshot.png" /></p>
+</div>
+<p><a href="https://blog.jamovi.org/2018/07/30/rj.html" class="uri">https://blog.jamovi.org/2018/07/30/rj.html</a></p>
+<div class="figure">
+<embed src="https://blog.jamovi.org/2018/07/30/rj.html" />
+<p class="caption"><img src="https://blog.jamovi.org/assets/images/rj.png" /></p>
+</div>
+<hr />
+</div>
+</div>
+<div id="r-nereden-ogrenilir" class="section level1">
+<h1>R nereden öğrenilir</h1>
+<hr />
+</div>
+<div id="sonraki-konular" class="section level1">
+<h1>Sonraki Konular</h1>
+<ul>
+<li>RStudio ile GitHub</li>
+<li>Hipotez testleri</li>
+<li>R Markdown ve R Notebook ile tekrarlanabilir rapor</li>
+</ul>
+<hr />
+</div>
+<div id="geri-bildirim" class="section level1">
+<h1>Geri Bildirim</h1>
+<ul>
+<li>Geri bildirim için tıklayınız: <em><a href="https://goo.gl/forms/YjGZ5DHgtPlR1RnB3">Geri bildirim formu</a></em></li>
+</ul>
+<hr />
+<script id="dsq-count-scr" src="//https-sbalci-github-io.disqus.com/count.js" async></script>
+<div id="disqus_thread">
+
+</div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://https-sbalci-github-io.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>
+Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+</noscript>
+<hr />
+
+<hr />
+<pre><code># Save Final Data
+
+saved data after analysis to `Data-After-Analysis.xlsx`.
+
+saveRDS(mydata, &quot;Data-After-Analysis.rds&quot;)
+
+writexl::write_xlsx(mydata, &quot;Data-After-Analysis.xlsx&quot;)
+
+file.info(&quot;Data-After-Analysis.xlsx&quot;)$ctime
+</code></pre>
+<hr />
+
+</div>
+<div id="libraries-used" class="section level1">
+<h1>Libraries Used</h1>
+<pre class="r"><code>citation()</code></pre>
+<pre><code>## 
+## To cite R in publications use:
+## 
+##   R Core Team (2019). R: A language and environment for
+##   statistical computing. R Foundation for Statistical Computing,
+##   Vienna, Austria. URL https://www.R-project.org/.
+## 
+## A BibTeX entry for LaTeX users is
+## 
+##   @Manual{,
+##     title = {R: A Language and Environment for Statistical Computing},
+##     author = {{R Core Team}},
+##     organization = {R Foundation for Statistical Computing},
+##     address = {Vienna, Austria},
+##     year = {2019},
+##     url = {https://www.R-project.org/},
+##   }
+## 
+## We have invested a lot of time and effort in creating R, please
+## cite it when using it for data analysis. See also
+## &#39;citation(&quot;pkgname&quot;)&#39; for citing R packages.</code></pre>
+<pre><code>citation(&quot;tidyverse&quot;)
+citation(&quot;foreign&quot;)
+citation(&quot;tidylog&quot;)
+citation(&quot;janitor&quot;)
+citation(&quot;jmv&quot;)
+citation(&quot;tangram&quot;)
+citation(&quot;finalfit&quot;)
+citation(&quot;summarytools&quot;)
+citation(&quot;ggstatplot&quot;)
+citation(&quot;readxl&quot;)</code></pre>
+<hr />
+<pre class="r"><code>report::cite_packages(session = sessionInfo())</code></pre>
+<pre><code>## Warning in citation(pkg_name): no date field in DESCRIPTION file of package
+## &#39;summarytools&#39;</code></pre>
+<pre><code>                                                                                                                                       References</code></pre>
+<p>1 Dominic Comtois (2019). summarytools: Tools to Quickly and Neatly Summarize Data. R package version 0.9.3. <a href="https://github.com/dcomtois/summarytools" class="uri">https://github.com/dcomtois/summarytools</a></p>
+<hr />
+<pre class="r"><code>sessionInfo()</code></pre>
+<pre><code>## R version 3.5.3 (2019-03-11)
+## Platform: x86_64-apple-darwin15.6.0 (64-bit)
+## Running under: macOS Mojave 10.14.4
+## 
+## Matrix products: default
+## BLAS: /Library/Frameworks/R.framework/Versions/3.5/Resources/lib/libRblas.0.dylib
+## LAPACK: /Library/Frameworks/R.framework/Versions/3.5/Resources/lib/libRlapack.dylib
+## 
+## locale:
+## [1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+## 
+## attached base packages:
+## [1] stats     graphics  grDevices utils     datasets  methods   base     
+## 
+## other attached packages:
+## [1] summarytools_0.9.3
+## 
+## loaded via a namespace (and not attached):
+##  [1] zoo_1.8-5           tidyselect_0.2.5    report_0.1.0       
+##  [4] xfun_0.6            performance_0.1.0   purrr_0.3.2        
+##  [7] pander_0.6.3        splines_3.5.3       lattice_0.20-38    
+## [10] parameters_0.1.0    tcltk_3.5.3         vctrs_0.1.0.9003   
+## [13] htmltools_0.3.6     yaml_2.2.0          survival_2.44-1.1  
+## [16] rlang_0.3.4.9003    pillar_1.3.1        glue_1.3.1.9000    
+## [19] estimate_0.1.0      pryr_0.1.4          matrixStats_0.54.0 
+## [22] emmeans_1.3.4       multcomp_1.4-10     plyr_1.8.4         
+## [25] stringr_1.4.0       blogdown_0.12       bayestestR_0.1.1   
+## [28] mvtnorm_1.0-10      codetools_0.2-16    coda_0.19-2        
+## [31] evaluate_0.13       knitr_1.22          TH.data_1.0-10     
+## [34] Rcpp_1.0.1          xtable_1.8-4        backports_1.1.4    
+## [37] checkmate_1.9.3     magick_2.0          rapportools_1.0    
+## [40] digest_0.6.18       stringi_1.4.3       insight_0.2.0.9000 
+## [43] bookdown_0.9        dplyr_0.8.0.1       grid_3.5.3         
+## [46] tools_3.5.3         bitops_1.0-6        sandwich_2.5-1     
+## [49] magrittr_1.5        RCurl_1.95-4.12     tibble_2.1.1       
+## [52] crayon_1.3.4        tidyr_0.8.3.9000    pkgconfig_2.0.2    
+## [55] zeallot_0.1.0       MASS_7.3-51.4       ellipsis_0.1.0.9000
+## [58] Matrix_1.2-17       correlation_0.1.0   estimability_1.3   
+## [61] lubridate_1.7.4     assertthat_0.2.1    rmarkdown_1.12     
+## [64] boot_1.3-22         R6_2.4.0            compiler_3.5.3</code></pre>
+<hr />
+
+</div>
+<div id="notes" class="section level1">
+<h1>Notes</h1>
+<p>Completed on 2019-05-09 13:39:36.</p>
+<p>Serdar Balci, MD, Pathologist<br />
+d <a href="mailto:rserdarbalci@gmail.com" class="email">rserdarbalci@gmail.com</a><br />
+<a href="https://rpubs.com/sbalci/CV" class="uri">https://rpubs.com/sbalci/CV</a></p>
+<p><a href="https://sbalci.github.io/" class="uri">https://sbalci.github.io/</a><br />
+<a href="https://github.com/sbalci" class="uri">https://github.com/sbalci</a><br />
+—</p>
+</div>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>Bu bir derlemedir, mümkün mertebe alıntılara referans vermeye çalıştım.<a href="#fnref1" class="footnote-back">↩</a></p></li>
+</ol>
+</div>
