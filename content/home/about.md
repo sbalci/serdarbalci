@@ -23,7 +23,7 @@ weight = 5
 
 [[education.courses]]
   course = "MD Pathologist"
-  institution = "Hacettepe University Faculty of Medicine DEpartment of Pathology"
+  institution = "Hacettepe University Faculty of Medicine Department of Pathology"
   year = 2010
 
 
