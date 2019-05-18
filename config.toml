@@ -290,10 +290,10 @@ enableGitInfo = true
   url = "#about"
   weight = 1
 
-[[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 2
+# [[menu.main]]
+#  name = "Publications"
+#  url = "#publications_selected"
+#  weight = 2
 
 [[menu.main]]
   name = "Posts"
@@ -305,15 +305,15 @@ enableGitInfo = true
   url = "#USCAP2019Tweets"
   weight = 4
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 5
+# [[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 5
 
-[[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 6
+# [[menu.main]]
+#  name = "Tutorials"
+#  url = "/tutorial/"
+#  weight = 6
 
 [[menu.main]]
   name = "Contact"
