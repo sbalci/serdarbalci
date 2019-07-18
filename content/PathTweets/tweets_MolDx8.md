@@ -1,3 +1,4 @@
-title: tweets_MolDx818093
+title: tweets_MolDx818095
 
-{% embed url='https://twitter.com/JClinPath_BMJ/status/1145965529330573312' %}
+{% embed url='https://twitter.com/PathologyAlerts/status/1149877933105909761' %}
+{% embed url='https://twitter.com/PathologyAlerts/status/1149877997001945088' %}

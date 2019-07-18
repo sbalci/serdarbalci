@@ -1,3 +1,4 @@
-title: tweets_BSTpath818093
+title: tweets_BSTpath818095
 
-{% embed url='https://twitter.com/Rami_AlRohil/status/1148421654860783616' %}
+{% embed url='https://twitter.com/huda_path/status/1150071455738224640' %}
+{% embed url='https://twitter.com/wshonpath/status/1144600314856607744' %}

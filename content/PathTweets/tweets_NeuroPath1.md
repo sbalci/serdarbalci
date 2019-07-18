@@ -1,7 +1,6 @@
-title: tweets_NeuroPath118093
+title: tweets_NeuroPath118095
 
-{% embed url='https://twitter.com/pathologiste08/status/1147290753250582528' %}
-{% embed url='https://twitter.com/pdiamandisii/status/1147860986407333889' %}
-{% embed url='https://twitter.com/Hlashuel/status/1147855504187809793' %}
-{% embed url='https://twitter.com/DrRolaAli/status/1146484703190540288' %}
-{% embed url='https://twitter.com/realToddLab/status/1145028320251305984' %}
+{% embed url='https://twitter.com/PathologyWeek19/status/1149362969303588865' %}
+{% embed url='https://twitter.com/pathologyCast/status/1145854388306681862' %}
+{% embed url='https://twitter.com/FRodriguezNP/status/1145815814303436800' %}
+{% embed url='https://twitter.com/microRNApro/status/1145522812070838272' %}

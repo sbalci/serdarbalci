@@ -1,3 +1,4 @@
-title: tweets_grosspath1018093
+title: tweets_grosspath1018095
 
-{% embed url='https://twitter.com/kis_lorand/status/1147935266088337409' %}
+{% embed url='https://twitter.com/preethijaison/status/1149240634466656257' %}
+{% embed url='https://twitter.com/DrMarkOng/status/1145786337729097728' %}
