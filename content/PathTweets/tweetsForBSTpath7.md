@@ -1,17 +1,17 @@
 ---
-title: # tweetsForBSTpath
+title: tweetsForBSTpath
 author: Serdar Balci
 date: '2019-08-02'
-slug: # tweetsForBSTpath
+slug: tweetsForBSTpath
 categories:
-- R
-- tweets
-- pathology
-- # tweetsForBSTpath
+  - R
+  - tweets
+  - pathology
+  - tweetsForBSTpath
 tags: []
 image:
-caption: ''
-focal_point: ''
+  caption: ''
+  focal_point: ''
 ---
 
 

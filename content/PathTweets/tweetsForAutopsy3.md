@@ -1,17 +1,17 @@
 ---
-title: # tweetsForAutopsy
+title: tweetsForAutopsy
 author: Serdar Balci
 date: '2019-08-02'
-slug: # tweetsForAutopsy
+slug: tweetsForAutopsy
 categories:
-- R
-- tweets
-- pathology
-- # tweetsForAutopsy
+  - R
+  - tweets
+  - pathology
+  - tweetsForAutopsy
 tags: []
 image:
-caption: ''
-focal_point: ''
+  caption: ''
+  focal_point: ''
 ---
 
 
