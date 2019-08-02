@@ -1,13 +1,13 @@
 ---
-title: tweetsForCytopath
+title: Pathology Tweets For Cytopath - 2
 author: Serdar Balci
 date: '2019-08-02'
-slug: tweetsForCytopath
+slug: tweetsForCytopath2
 categories:
   - R
   - tweets
   - pathology
-  - tweetsForCytopath
+  - #Cytopath
 tags: []
 image:
   caption: ''

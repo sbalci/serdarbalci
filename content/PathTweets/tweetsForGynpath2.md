@@ -1,13 +1,13 @@
 ---
-title: tweetsForGynpath
+title: Pathology Tweets For Gynpath - 2
 author: Serdar Balci
 date: '2019-08-02'
-slug: tweetsForGynpath
+slug: tweetsForGynpath2
 categories:
   - R
   - tweets
   - pathology
-  - tweetsForGynpath
+  - #Gynpath
 tags: []
 image:
   caption: ''

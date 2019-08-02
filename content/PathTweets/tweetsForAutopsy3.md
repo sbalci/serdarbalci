@@ -1,13 +1,13 @@
 ---
-title: tweetsForAutopsy
+title: Pathology Tweets For Autopsy - 3
 author: Serdar Balci
 date: '2019-08-02'
-slug: tweetsForAutopsy
+slug: tweetsForAutopsy3
 categories:
   - R
   - tweets
   - pathology
-  - tweetsForAutopsy
+  - #Autopsy
 tags: []
 image:
   caption: ''

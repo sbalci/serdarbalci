@@ -1,13 +1,13 @@
 ---
-title: tweetsForENTPath
+title: Pathology Tweets For ENTPath - 5
 author: Serdar Balci
 date: '2019-08-02'
-slug: tweetsForENTPath
+slug: tweetsForENTPath5
 categories:
   - R
   - tweets
   - pathology
-  - tweetsForENTPath
+  - #ENTPath
 tags: []
 image:
   caption: ''

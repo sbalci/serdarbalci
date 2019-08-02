@@ -1,13 +1,13 @@
 ---
-title: tweetsForBreastPath
+title: Pathology Tweets For BreastPath - 1
 author: Serdar Balci
 date: '2019-08-02'
-slug: tweetsForBreastPath
+slug: tweetsForBreastPath1
 categories:
   - R
   - tweets
   - pathology
-  - tweetsForBreastPath
+  - #BreastPath
 tags: []
 image:
   caption: ''
