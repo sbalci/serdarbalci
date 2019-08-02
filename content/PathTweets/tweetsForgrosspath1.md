@@ -1,13 +1,13 @@
 ---
-title: Pathology Tweets For ENTPath - 5
+title: Pathology Tweets For grosspath - 1
 author: Serdar Balci
 date: '2019-08-02'
-slug: tweetsForENTPath5
+slug: tweetsForgrosspath1
 categories:
   - R
   - tweets
   - pathology
-  - ENTPath
+  - grosspath
 tags: []
 image:
   caption: ''
@@ -15,15 +15,15 @@ image:
 ---
 
 
-{{< tweet 1156629832987566080 >}}
+{{< tweet 1152974330118098945 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149137721761206272 >}}
+{{< tweet 1147935266088337409 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146126304141619202 >}}
+{{< tweet 1147872296503300096 >}}
 <br>
 <br>
 <hr>
