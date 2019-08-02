@@ -1,0 +1,21 @@
+---
+title: Pathology Tweets For CardiacPath - 8
+author: Serdar Balci
+date: '2019-08-02'
+slug: tweetsForCardiacPath8
+categories:
+  - R
+  - tweets
+  - pathology
+  - CardiacPath
+tags: []
+image:
+  caption: ''
+  focal_point: ''
+---
+
+
+{{< tweet 1157261099458322432 >}}
+<br>
+<br>
+<hr>
