@@ -300,15 +300,15 @@ enableGitInfo = true
   url = "#posts"
   weight = 2
 
-[[menu.main]]
-  name = "USCAP2019Tweets"
-  url = "#USCAP2019Tweets"
-  weight = 3
+# [[menu.main]]
+#   name = "USCAP2019Tweets"
+#   url = "#USCAP2019Tweets"
+#   weight = 3
 
 [[menu.main]]
   name = "Pathology Tweet Collection"
   url = "#PathTweets"
-  weight = 4
+  weight = 3
 
 
 # [[menu.main]]
