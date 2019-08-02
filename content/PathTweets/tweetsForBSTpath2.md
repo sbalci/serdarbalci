@@ -7,7 +7,7 @@ categories:
   - R
   - tweets
   - pathology
-  - #BSTpath
+  - BSTpath
 tags: []
 image:
   caption: ''

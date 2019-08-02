@@ -7,7 +7,7 @@ categories:
   - R
   - tweets
   - pathology
-  - #Autopsy
+  - Autopsy
 tags: []
 image:
   caption: ''
