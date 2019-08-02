@@ -7,7 +7,7 @@ categories:
   - R
   - tweets
   - pathology
-  - #ENTPath
+  - ENTPath
 tags: []
 image:
   caption: ''

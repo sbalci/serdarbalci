@@ -7,7 +7,7 @@ categories:
   - R
   - tweets
   - pathology
-  - #Cytopath
+  - Cytopath
 tags: []
 image:
   caption: ''

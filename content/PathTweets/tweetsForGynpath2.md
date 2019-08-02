@@ -7,7 +7,7 @@ categories:
   - R
   - tweets
   - pathology
-  - #Gynpath
+  - Gynpath
 tags: []
 image:
   caption: ''

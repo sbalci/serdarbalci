@@ -7,7 +7,7 @@ categories:
   - R
   - tweets
   - pathology
-  - #BreastPath
+  - BreastPath
 tags: []
 image:
   caption: ''
