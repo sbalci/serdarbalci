@@ -203,3 +203,6 @@ image:
 <br>
 <br>
 <hr>
+
+
+See other#gipathpages [here](https://serdarbalci.netlify.com/categories/gipath/

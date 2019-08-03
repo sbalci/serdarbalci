@@ -19,3 +19,6 @@ image:
 <br>
 <br>
 <hr>
+
+
+See other#EndoPathpages [here](https://serdarbalci.netlify.com/categories/EndoPath/

@@ -35,3 +35,6 @@ image:
 <br>
 <br>
 <hr>
+
+
+See other#Gynpathpages [here](https://serdarbalci.netlify.com/categories/Gynpath/

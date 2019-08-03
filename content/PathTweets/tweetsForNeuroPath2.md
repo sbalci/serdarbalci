@@ -59,3 +59,6 @@ image:
 <br>
 <br>
 <hr>
+
+
+See other#NeuroPathpages [here](https://serdarbalci.netlify.com/categories/NeuroPath/

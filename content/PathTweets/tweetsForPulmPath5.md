@@ -31,3 +31,6 @@ image:
 <br>
 <br>
 <hr>
+
+
+See other#PulmPathpages [here](https://serdarbalci.netlify.com/categories/PulmPath/

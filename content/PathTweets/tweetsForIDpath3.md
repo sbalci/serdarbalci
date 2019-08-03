@@ -31,3 +31,6 @@ image:
 <br>
 <br>
 <hr>
+
+
+See other#IDpathpages [here](https://serdarbalci.netlify.com/categories/IDpath/

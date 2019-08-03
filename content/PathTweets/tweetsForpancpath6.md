@@ -67,3 +67,6 @@ image:
 <br>
 <br>
 <hr>
+
+
+See other#pancpathpages [here](https://serdarbalci.netlify.com/categories/pancpath/

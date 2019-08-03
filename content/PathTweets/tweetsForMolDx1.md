@@ -19,3 +19,6 @@ image:
 <br>
 <br>
 <hr>
+
+
+See other#MolDxpages [here](https://serdarbalci.netlify.com/categories/MolDx/

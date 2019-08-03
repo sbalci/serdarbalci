@@ -43,3 +43,6 @@ image:
 <br>
 <br>
 <hr>
+
+
+See other#grosspathpages [here](https://serdarbalci.netlify.com/categories/grosspath/

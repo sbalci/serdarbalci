@@ -39,3 +39,6 @@ image:
 <br>
 <br>
 <hr>
+
+
+See other#ENTPathpages [here](https://serdarbalci.netlify.com/categories/ENTPath/

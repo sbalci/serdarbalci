@@ -43,3 +43,6 @@ image:
 <br>
 <br>
 <hr>
+
+
+See other#gupathpages [here](https://serdarbalci.netlify.com/categories/gupath/

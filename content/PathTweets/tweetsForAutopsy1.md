@@ -43,3 +43,6 @@ image:
 <br>
 <br>
 <hr>
+
+
+See other#Autopsypages [here](https://serdarbalci.netlify.com/categories/Autopsy/

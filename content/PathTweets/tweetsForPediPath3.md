@@ -35,3 +35,6 @@ image:
 <br>
 <br>
 <hr>
+
+
+See other#PediPathpages [here](https://serdarbalci.netlify.com/categories/PediPath/

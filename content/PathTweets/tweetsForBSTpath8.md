@@ -39,3 +39,6 @@ image:
 <br>
 <br>
 <hr>
+
+
+See other#BSTpathpages [here](https://serdarbalci.netlify.com/categories/BSTpath/
