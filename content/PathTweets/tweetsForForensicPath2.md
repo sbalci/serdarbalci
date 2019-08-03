@@ -15,22 +15,11 @@ image:
 ---
 
 
-{{< tweet 1152463968319025152 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1152463832742281216 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1148640713820819456 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154832637195890688 >}}
+{{< tweet 1157131311997280257 >}}
 <br>
 <br>
 <hr>
 
 
-See other#ForensicPathpages [here](https://serdarbalci.netlify.com/categories/ForensicPath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#ForensicPathpages here: https://serdarbalci.netlify.com/categories/ForensicPath/

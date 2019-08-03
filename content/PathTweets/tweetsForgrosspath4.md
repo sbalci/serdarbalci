@@ -15,14 +15,11 @@ image:
 ---
 
 
-{{< tweet 1152974330118098945 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1146013547878604801 >}}
+{{< tweet 1145786337729097728 >}}
 <br>
 <br>
 <hr>
 
 
-See other#grosspathpages [here](https://serdarbalci.netlify.com/categories/grosspath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#grosspathpages here: https://serdarbalci.netlify.com/categories/grosspath/

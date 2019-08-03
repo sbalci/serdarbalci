@@ -15,54 +15,47 @@ image:
 ---
 
 
+{{< tweet 1153302815709769728 >}}
+<br>
+<br>
+<hr>
+{{< tweet 857158023260889089 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1151171303476518914 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156314490851536897 >}}
+{{< tweet 1156829830635298816 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154398649390182400 >}}
+{{< tweet 1157271345853542401 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1150801087810691072 >}}
+{{< tweet 1156577518692065281 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1150542600761487362 >}}
+{{< tweet 1155906523236843520 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1150464873148702720 >}}
+{{< tweet 1151898927420985344 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149329854430662656 >}}
+{{< tweet 1153318183790682113 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149109916646465536 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1149053767309856773 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1147232588467232769 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1155474797553496066 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1155435476549033985 >}}
+{{< tweet 1147879092282413067 >}}
 <br>
 <br>
 <hr>
 
 
-See other#Cytopathpages [here](https://serdarbalci.netlify.com/categories/Cytopath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#Cytopathpages here: https://serdarbalci.netlify.com/categories/Cytopath/

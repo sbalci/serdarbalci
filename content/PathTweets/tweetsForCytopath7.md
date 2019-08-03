@@ -15,70 +15,95 @@ image:
 ---
 
 
-{{< tweet 1156168055686356993 >}}
+{{< tweet 1005173990669934599 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156158744545435650 >}}
+{{< tweet 1156779470583291905 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151937998373543936 >}}
+{{< tweet 1154382291273207811 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153911055648563201 >}}
+{{< tweet 1151810088186843136 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151153020396363778 >}}
+{{< tweet 1151447199353593856 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1150882731473195008 >}}
+{{< tweet 1151819403014615042 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151086827509620737 >}}
+{{< tweet 1151702134091583494 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151096136008175616 >}}
+{{< tweet 1152897003883573249 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149053595813367813 >}}
+{{< tweet 1152906316484161537 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149292016280449025 >}}
+{{< tweet 1153622785442365441 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149700842968297472 >}}
+{{< tweet 1148548348951109633 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149212530591653889 >}}
+{{< tweet 1148187971310559235 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149656889388486656 >}}
+{{< tweet 1147936565819269121 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149274130996445184 >}}
+{{< tweet 1146079363345133569 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149473697566081024 >}}
+{{< tweet 1154831556852273152 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149283444125577216 >}}
+{{< tweet 1154571711679008768 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154807628897423360 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154736233169477633 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154772929210703874 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154737805966184459 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154757557971496960 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154708942209073152 >}}
 <br>
 <br>
 <hr>
 
 
-See other#Cytopathpages [here](https://serdarbalci.netlify.com/categories/Cytopath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#Cytopathpages here: https://serdarbalci.netlify.com/categories/Cytopath/

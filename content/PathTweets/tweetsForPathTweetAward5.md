@@ -1,0 +1,93 @@
+---
+title: Pathology Tweets For PathTweetAward - 5
+author: Serdar Balci
+date: '2019-08-03'
+slug: tweetsForPathTweetAward5
+categories:
+  - R
+  - tweets
+  - pathology
+  - PathTweetAward
+tags: []
+image:
+  caption: ''
+  focal_point: ''
+---
+
+
+{{< tweet 1156183526162800641 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156188445737308161 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156206789056069633 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150464873148702720 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150226257688375296 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150538896494796801 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150155476610535424 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150495194384609281 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150446735413665792 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150453969677901825 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150455900966199297 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150218159745617921 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1148934019305889798 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1148697515702796288 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1148668050482302978 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1148965502137618433 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155161825207439361 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155301395823767552 >}}
+<br>
+<br>
+<hr>
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#PathTweetAwardpages here: https://serdarbalci.netlify.com/categories/PathTweetAward/

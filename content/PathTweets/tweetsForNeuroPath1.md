@@ -15,38 +15,47 @@ image:
 ---
 
 
-{{< tweet 1157436133099204608 >}}
+{{< tweet 1157266992858042374 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153528432342589443 >}}
+{{< tweet 1156961790040969217 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157339650580598785 >}}
+{{< tweet 1157227968596500480 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1137059536861302784 >}}
+{{< tweet 1157228896707850241 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148987152128237568 >}}
+{{< tweet 1149849948994695174 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148981705299988482 >}}
+{{< tweet 1147860986407333889 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1145522812070838272 >}}
+{{< tweet 1147855504187809793 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146794404952399873 >}}
+{{< tweet 1146484703190540288 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147745482879328256 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145575427198472194 >}}
 <br>
 <br>
 <hr>
 
 
-See other#NeuroPathpages [here](https://serdarbalci.netlify.com/categories/NeuroPath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#NeuroPathpages here: https://serdarbalci.netlify.com/categories/NeuroPath/

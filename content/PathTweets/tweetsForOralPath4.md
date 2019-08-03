@@ -15,10 +15,15 @@ image:
 ---
 
 
-{{< tweet 1154022848392044545 >}}
+{{< tweet 1150888090161954817 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147114398101716994 >}}
 <br>
 <br>
 <hr>
 
 
-See other#OralPathpages [here](https://serdarbalci.netlify.com/categories/OralPath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#OralPathpages here: https://serdarbalci.netlify.com/categories/OralPath/

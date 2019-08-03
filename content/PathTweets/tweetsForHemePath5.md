@@ -27,42 +27,31 @@ image:
 <br>
 <br>
 <hr>
-{{< tweet 1156828404165021698 >}}
+{{< tweet 1157430267331698688 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156828450088476678 >}}
+{{< tweet 1157429987756130304 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157285433035898882 >}}
+{{< tweet 1157303542555848704 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156565678364585984 >}}
+{{< tweet 1156257179483234311 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155902546638249986 >}}
+{{< tweet 1156255341329469443 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152285743701794816 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1146194015206825984 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145988787916419072 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1146240507552718848 >}}
+{{< tweet 1153149707591409669 >}}
 <br>
 <br>
 <hr>
 
 
-See other#HemePathpages [here](https://serdarbalci.netlify.com/categories/HemePath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#HemePathpages here: https://serdarbalci.netlify.com/categories/HemePath/

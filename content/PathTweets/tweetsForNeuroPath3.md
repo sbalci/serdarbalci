@@ -19,42 +19,67 @@ image:
 <br>
 <br>
 <hr>
-{{< tweet 1156212598200786944 >}}
+{{< tweet 1157673511772708864 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153466987181248512 >}}
+{{< tweet 1157017164026695680 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151560470848929792 >}}
+{{< tweet 1157007474177773568 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152595216878186496 >}}
+{{< tweet 1155813211440144384 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148568672115548160 >}}
+{{< tweet 1156028074187563008 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148564195463651328 >}}
+{{< tweet 1150856267507937282 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148359363674947590 >}}
+{{< tweet 1150870608764461061 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146462692309209095 >}}
+{{< tweet 1149631201293918208 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154513081231298560 >}}
+{{< tweet 1149630669531693057 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1149311581190180864 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147385323099435008 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1144986789406527488 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1144557806361751552 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1144399536753790976 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1144266194796589057 >}}
 <br>
 <br>
 <hr>
 
 
-See other#NeuroPathpages [here](https://serdarbalci.netlify.com/categories/NeuroPath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#NeuroPathpages here: https://serdarbalci.netlify.com/categories/NeuroPath/

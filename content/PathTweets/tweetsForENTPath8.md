@@ -19,14 +19,15 @@ image:
 <br>
 <br>
 <hr>
-{{< tweet 1156629832987566080 >}}
+{{< tweet 1154022848392044545 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147521106183458816 >}}
+{{< tweet 1146078140378177536 >}}
 <br>
 <br>
 <hr>
 
 
-See other#ENTPathpages [here](https://serdarbalci.netlify.com/categories/ENTPath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#ENTPathpages here: https://serdarbalci.netlify.com/categories/ENTPath/

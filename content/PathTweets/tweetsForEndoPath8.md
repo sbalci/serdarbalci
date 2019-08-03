@@ -19,6 +19,11 @@ image:
 <br>
 <br>
 <hr>
+{{< tweet 1154405775680450562 >}}
+<br>
+<br>
+<hr>
 
 
-See other#EndoPathpages [here](https://serdarbalci.netlify.com/categories/EndoPath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#EndoPathpages here: https://serdarbalci.netlify.com/categories/EndoPath/

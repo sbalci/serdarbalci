@@ -15,10 +15,11 @@ image:
 ---
 
 
-{{< tweet 1147799244021096454 >}}
+{{< tweet 1157578708003315712 >}}
 <br>
 <br>
 <hr>
 
 
-See other#EyePathpages [here](https://serdarbalci.netlify.com/categories/EyePath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#EyePathpages here: https://serdarbalci.netlify.com/categories/EyePath/

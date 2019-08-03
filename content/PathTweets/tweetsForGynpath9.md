@@ -15,26 +15,43 @@ image:
 ---
 
 
-{{< tweet 1149323916961341441 >}}
+{{< tweet 1156538290964770817 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149174696950161408 >}}
+{{< tweet 1155905674284605440 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148989819315531777 >}}
+{{< tweet 1152842194480324609 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147234146747592704 >}}
+{{< tweet 1154024110386606080 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147198434035798017 >}}
+{{< tweet 1154067293430665216 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1152631054739660802 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146464243023114240 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147465439980720128 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146126521565896705 >}}
 <br>
 <br>
 <hr>
 
 
-See other#Gynpathpages [here](https://serdarbalci.netlify.com/categories/Gynpath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#Gynpathpages here: https://serdarbalci.netlify.com/categories/Gynpath/

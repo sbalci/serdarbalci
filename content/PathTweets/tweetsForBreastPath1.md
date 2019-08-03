@@ -15,18 +15,27 @@ image:
 ---
 
 
-{{< tweet 1157376302019690496 >}}
+{{< tweet 1157716455108022273 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148902089604653056 >}}
+{{< tweet 1155819858673766400 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155227618406535168 >}}
+{{< tweet 1149993968828133378 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1144660912122617856 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145516334404517891 >}}
 <br>
 <br>
 <hr>
 
 
-See other#BreastPathpages [here](https://serdarbalci.netlify.com/categories/BreastPath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#BreastPathpages here: https://serdarbalci.netlify.com/categories/BreastPath/

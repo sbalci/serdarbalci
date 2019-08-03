@@ -15,66 +15,43 @@ image:
 ---
 
 
-{{< tweet 1157344410188824577 >}}
+{{< tweet 1156679615500509186 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155968610159882240 >}}
+{{< tweet 1156341415158407173 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151961311493808128 >}}
+{{< tweet 1156304339213934593 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148335944375963656 >}}
+{{< tweet 1153436696127647744 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146083803162656768 >}}
+{{< tweet 1150902900320854019 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154551228702945280 >}}
+{{< tweet 1149072109878034433 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154532881097617408 >}}
+{{< tweet 1147187367712833541 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154525777276227584 >}}
+{{< tweet 1155434712162295808 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154460711621419009 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154456765385154561 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154454924291379201 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154449681939697664 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154437505040769025 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154414567587532801 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154408817209348097 >}}
+{{< tweet 1155433469004144640 >}}
 <br>
 <br>
 <hr>
 
 
-See other#Autopsypages [here](https://serdarbalci.netlify.com/categories/Autopsy/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#Autopsypages here: https://serdarbalci.netlify.com/categories/Autopsy/

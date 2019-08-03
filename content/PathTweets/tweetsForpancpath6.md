@@ -15,58 +15,35 @@ image:
 ---
 
 
-{{< tweet 1156076822620098560 >}}
+{{< tweet 1152212707266969606 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1150112005325565952 >}}
+{{< tweet 1154959789916602369 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155158823708925952 >}}
+{{< tweet 1154953685778104323 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155155485278035968 >}}
+{{< tweet 1154945321946030080 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155168992102891527 >}}
+{{< tweet 1154937750535229440 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155188104225021954 >}}
+{{< tweet 1154929784310423561 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155488139017891840 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1155137166860804096 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1155170293377376260 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1155173236092657666 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1155154930744905730 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1155156861244416001 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1155154293126651905 >}}
+{{< tweet 1154928085302743041 >}}
 <br>
 <br>
 <hr>
 
 
-See other#pancpathpages [here](https://serdarbalci.netlify.com/categories/pancpath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#pancpathpages here: https://serdarbalci.netlify.com/categories/pancpath/

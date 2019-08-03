@@ -19,22 +19,19 @@ image:
 <br>
 <br>
 <hr>
-{{< tweet 1151156164165623810 >}}
+{{< tweet 1156218215942492160 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151047501719461889 >}}
+{{< tweet 1152363899523653632 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147594774121086976 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1147577055380459520 >}}
+{{< tweet 1154669316274442241 >}}
 <br>
 <br>
 <hr>
 
 
-See other#PediPathpages [here](https://serdarbalci.netlify.com/categories/PediPath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#PediPathpages here: https://serdarbalci.netlify.com/categories/PediPath/

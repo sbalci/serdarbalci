@@ -15,22 +15,39 @@ image:
 ---
 
 
-{{< tweet 1152254625313165312 >}}
+{{< tweet 1153875304827330560 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151231770332979201 >}}
+{{< tweet 1150071455738224640 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149801279356579840 >}}
+{{< tweet 1148699099870486528 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1144674173278703619 >}}
+{{< tweet 1148659530038951937 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1148674820483235840 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1148638604828262400 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1148619835015925760 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154931870716628993 >}}
 <br>
 <br>
 <hr>
 
 
-See other#BSTpathpages [here](https://serdarbalci.netlify.com/categories/BSTpath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#BSTpathpages here: https://serdarbalci.netlify.com/categories/BSTpath/

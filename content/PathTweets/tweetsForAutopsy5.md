@@ -15,74 +15,43 @@ image:
 ---
 
 
+{{< tweet 1157659936589000705 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1156876107536142336 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156679615500509186 >}}
+{{< tweet 1156285603778105344 >}}
 <br>
 <br>
 <hr>
-{{< tweet 786901326735220736 >}}
+{{< tweet 1156265067681320960 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156707550324232192 >}}
+{{< tweet 1153270144681955329 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155938764549607424 >}}
+{{< tweet 1153125681515126784 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154189977615511554 >}}
+{{< tweet 1153087273363263488 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154186704032370688 >}}
+{{< tweet 1152939747721003008 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154179713302241281 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154169696826068998 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1151448828299448321 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1147999112748589056 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1147947129509277696 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1147873934806671361 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1147350469125246976 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145829617107968000 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145729383606489088 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145615741963644928 >}}
+{{< tweet 1150663844605386752 >}}
 <br>
 <br>
 <hr>
 
 
-See other#Autopsypages [here](https://serdarbalci.netlify.com/categories/Autopsy/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#Autopsypages here: https://serdarbalci.netlify.com/categories/Autopsy/

@@ -15,18 +15,43 @@ image:
 ---
 
 
-{{< tweet 1152974330118098945 >}}
+{{< tweet 1156568705398124545 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147935266088337409 >}}
+{{< tweet 1156296586080739329 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147872296503300096 >}}
+{{< tweet 1156520368787599360 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1153115453163823104 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1149779387513835520 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1149968487512756225 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147777480083869697 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146472906161106945 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1144418221677862912 >}}
 <br>
 <br>
 <hr>
 
 
-See other#grosspathpages [here](https://serdarbalci.netlify.com/categories/grosspath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#grosspathpages here: https://serdarbalci.netlify.com/categories/grosspath/

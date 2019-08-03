@@ -21,4 +21,5 @@ image:
 <hr>
 
 
-See other#IDpathpages [here](https://serdarbalci.netlify.com/categories/IDpath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#IDpathpages here: https://serdarbalci.netlify.com/categories/IDpath/

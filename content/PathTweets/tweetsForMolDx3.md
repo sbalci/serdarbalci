@@ -15,26 +15,51 @@ image:
 ---
 
 
-{{< tweet 1156834657918435328 >}}
+{{< tweet 1157368328148725761 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156834703288209410 >}}
+{{< tweet 1151462637848465410 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152367660623192064 >}}
+{{< tweet 1151479786012860421 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153107479582187521 >}}
+{{< tweet 1151464759037964290 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151688101351383040 >}}
+{{< tweet 1151477041138753541 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147357812714065920 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1144986789406527488 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1144987512408084485 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147357733638852609 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1144987200100155397 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145513321761857537 >}}
 <br>
 <br>
 <hr>
 
 
-See other#MolDxpages [here](https://serdarbalci.netlify.com/categories/MolDx/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#MolDxpages here: https://serdarbalci.netlify.com/categories/MolDx/

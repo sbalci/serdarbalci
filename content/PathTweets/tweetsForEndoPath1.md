@@ -15,10 +15,11 @@ image:
 ---
 
 
-{{< tweet 1148806613156999168 >}}
+{{< tweet 1151230043592581125 >}}
 <br>
 <br>
 <hr>
 
 
-See other#EndoPathpages [here](https://serdarbalci.netlify.com/categories/EndoPath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#EndoPathpages here: https://serdarbalci.netlify.com/categories/EndoPath/

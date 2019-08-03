@@ -19,10 +19,15 @@ image:
 <br>
 <br>
 <hr>
-{{< tweet 1150116861046136832 >}}
+{{< tweet 1153857840848654336 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150755667428462592 >}}
 <br>
 <br>
 <hr>
 
 
-See other#SurgPathpages [here](https://serdarbalci.netlify.com/categories/SurgPath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#SurgPathpages here: https://serdarbalci.netlify.com/categories/SurgPath/

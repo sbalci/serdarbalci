@@ -15,26 +15,31 @@ image:
 ---
 
 
+{{< tweet 839321355728322564 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1138516331991576576 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1157672779816341504 >}}
+<br>
+<br>
+<hr>
 {{< tweet 963602286374244352 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155906128368345094 >}}
+{{< tweet 1148977555665539072 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155891783345328128 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1144580981367529472 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145705093775294464 >}}
+{{< tweet 1148806613156999168 >}}
 <br>
 <br>
 <hr>
 
 
-See other#ENTPathpages [here](https://serdarbalci.netlify.com/categories/ENTPath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#ENTPathpages here: https://serdarbalci.netlify.com/categories/ENTPath/

@@ -15,34 +15,11 @@ image:
 ---
 
 
-{{< tweet 1156838147273166848 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1155906128368345094 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1151505788038344704 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153115453163823104 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145356432289804288 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145356433732620289 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145723879005937664 >}}
+{{< tweet 1148966989781774336 >}}
 <br>
 <br>
 <hr>
 
 
-See other#SurgPathpages [here](https://serdarbalci.netlify.com/categories/SurgPath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#SurgPathpages here: https://serdarbalci.netlify.com/categories/SurgPath/

@@ -15,14 +15,15 @@ image:
 ---
 
 
-{{< tweet 1148662164913307648 >}}
+{{< tweet 1150116861046136832 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148661436517965825 >}}
+{{< tweet 1146586587146403843 >}}
 <br>
 <br>
 <hr>
 
 
-See other#CardiacPathpages [here](https://serdarbalci.netlify.com/categories/CardiacPath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#CardiacPathpages here: https://serdarbalci.netlify.com/categories/CardiacPath/

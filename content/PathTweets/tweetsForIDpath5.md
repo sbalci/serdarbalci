@@ -15,26 +15,11 @@ image:
 ---
 
 
-{{< tweet 1156616759321010176 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1156646019226058755 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1156646081939333120 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1156616823611297793 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1151502577055555586 >}}
+{{< tweet 1150483085395447812 >}}
 <br>
 <br>
 <hr>
 
 
-See other#IDpathpages [here](https://serdarbalci.netlify.com/categories/IDpath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#IDpathpages here: https://serdarbalci.netlify.com/categories/IDpath/

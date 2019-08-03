@@ -15,26 +15,43 @@ image:
 ---
 
 
-{{< tweet 1157337916865204225 >}}
+{{< tweet 1157552162991484930 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156050781461762048 >}}
+{{< tweet 1155990954739769345 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1140991224804982784 >}}
+{{< tweet 1154398649390182400 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148229861410070533 >}}
+{{< tweet 1154388643496308742 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154408566641635328 >}}
+{{< tweet 1149307228274511872 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147250441291542528 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147119009126653952 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146207549265469440 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155435476549033985 >}}
 <br>
 <br>
 <hr>
 
 
-See other#gupathpages [here](https://serdarbalci.netlify.com/categories/gupath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#gupathpages here: https://serdarbalci.netlify.com/categories/gupath/

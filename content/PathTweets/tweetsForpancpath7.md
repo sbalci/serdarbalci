@@ -15,14 +15,11 @@ image:
 ---
 
 
-{{< tweet 1150112005325565952 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1155626944735698945 >}}
+{{< tweet 1154765105650905088 >}}
 <br>
 <br>
 <hr>
 
 
-See other#pancpathpages [here](https://serdarbalci.netlify.com/categories/pancpath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#pancpathpages here: https://serdarbalci.netlify.com/categories/pancpath/

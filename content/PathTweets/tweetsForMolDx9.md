@@ -15,10 +15,19 @@ image:
 ---
 
 
-{{< tweet 1145965529330573312 >}}
+{{< tweet 1156834657918435328 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156834703288209410 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155904864234430466 >}}
 <br>
 <br>
 <hr>
 
 
-See other#MolDxpages [here](https://serdarbalci.netlify.com/categories/MolDx/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#MolDxpages here: https://serdarbalci.netlify.com/categories/MolDx/

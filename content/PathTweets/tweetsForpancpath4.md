@@ -15,66 +15,47 @@ image:
 ---
 
 
-{{< tweet 1156076822620098560 >}}
+{{< tweet 1111384884226879488 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153885806857207808 >}}
+{{< tweet 1155158823708925952 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146033302136115207 >}}
+{{< tweet 1155155485278035968 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154409571387138048 >}}
+{{< tweet 1155168992102891527 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154424500655677440 >}}
+{{< tweet 1155188104225021954 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154425765624209408 >}}
+{{< tweet 1155488139017891840 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154417386969292801 >}}
+{{< tweet 1155137166860804096 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154426072102047744 >}}
+{{< tweet 1155170293377376260 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154418827305857024 >}}
+{{< tweet 1155173236092657666 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154408679430602753 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154411879969775617 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154412099604553729 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154424229057703938 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154422018709659649 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154419579285856258 >}}
+{{< tweet 1155154930744905730 >}}
 <br>
 <br>
 <hr>
 
 
-See other#pancpathpages [here](https://serdarbalci.netlify.com/categories/pancpath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#pancpathpages here: https://serdarbalci.netlify.com/categories/pancpath/

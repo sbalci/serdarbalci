@@ -15,14 +15,19 @@ image:
 ---
 
 
-{{< tweet 1147932456542199808 >}}
+{{< tweet 1157252671805546496 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149022401637883906 >}}
+{{< tweet 1147934711358132230 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147932268230565889 >}}
 <br>
 <br>
 <hr>
 
 
-See other#PulmPathpages [here](https://serdarbalci.netlify.com/categories/PulmPath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#PulmPathpages here: https://serdarbalci.netlify.com/categories/PulmPath/

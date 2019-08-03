@@ -15,26 +15,31 @@ image:
 ---
 
 
-{{< tweet 1154354870411022336 >}}
+{{< tweet 1148293905722630145 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1150800222546747393 >}}
+{{< tweet 1148293467866566657 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149331941197582337 >}}
+{{< tweet 1148560377879367680 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146914109201534977 >}}
+{{< tweet 1148559029616238592 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146914506687336448 >}}
+{{< tweet 1148222261448630272 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1148221577911296000 >}}
 <br>
 <br>
 <hr>
 
 
-See other#PulmPathpages [here](https://serdarbalci.netlify.com/categories/PulmPath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other#PulmPathpages here: https://serdarbalci.netlify.com/categories/PulmPath/
