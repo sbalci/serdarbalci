@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For OralPath - 2
 author: Serdar Balci
-date: '2019-08-02'
+date: '2019-08-03'
 slug: tweetsForOralPath2
 categories:
   - R
@@ -15,11 +15,11 @@ image:
 ---
 
 
-{{< tweet 1121828759374450688 >}}
+{{< tweet 1154802223337136133 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154022848392044545 >}}
+{{< tweet 1155583632083423237 >}}
 <br>
 <br>
 <hr>

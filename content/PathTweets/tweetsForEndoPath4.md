@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For EndoPath - 4
 author: Serdar Balci
-date: '2019-08-02'
+date: '2019-08-03'
 slug: tweetsForEndoPath4
 categories:
   - R
@@ -19,7 +19,7 @@ image:
 <br>
 <br>
 <hr>
-{{< tweet 1151230043592581125 >}}
+{{< tweet 1154405775680450562 >}}
 <br>
 <br>
 <hr>

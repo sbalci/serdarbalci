@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For SurgPath - 6
 author: Serdar Balci
-date: '2019-08-02'
+date: '2019-08-03'
 slug: tweetsForSurgPath6
 categories:
   - R
@@ -15,31 +15,23 @@ image:
 ---
 
 
-{{< tweet 1149444191270899712 >}}
+{{< tweet 1155819858673766400 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1144987512408084485 >}}
+{{< tweet 1151230043592581125 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147227522280697856 >}}
+{{< tweet 1151231770332979201 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147240258540584962 >}}
+{{< tweet 1149877997001945088 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147234146747592704 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1147203665465397248 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1147198434035798017 >}}
+{{< tweet 1145434872611295234 >}}
 <br>
 <br>
 <hr>

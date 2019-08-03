@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For ENTPath - 7
 author: Serdar Balci
-date: '2019-08-02'
+date: '2019-08-03'
 slug: tweetsForENTPath7
 categories:
   - R
@@ -15,31 +15,23 @@ image:
 ---
 
 
-{{< tweet 1151927220790845440 >}}
+{{< tweet 1153769515009921025 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156872503421263872 >}}
+{{< tweet 1154064904690786304 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149137721761206272 >}}
+{{< tweet 1149767468329721856 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146126304141619202 >}}
+{{< tweet 1146006669782061057 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155496791363768321 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1155414112421195777 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1155412524910678016 >}}
+{{< tweet 1147195076772356097 >}}
 <br>
 <br>
 <hr>

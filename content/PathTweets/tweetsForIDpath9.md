@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For IDpath - 9
 author: Serdar Balci
-date: '2019-08-02'
+date: '2019-08-03'
 slug: tweetsForIDpath9
 categories:
   - R

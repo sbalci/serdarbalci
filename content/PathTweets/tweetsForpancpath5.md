@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For pancpath - 5
 author: Serdar Balci
-date: '2019-08-02'
+date: '2019-08-03'
 slug: tweetsForpancpath5
 categories:
   - R
@@ -15,7 +15,19 @@ image:
 ---
 
 
-{{< tweet 1155670515668754432 >}}
+{{< tweet 1156906876015169536 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156827986013933568 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156827938555404290 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145356433732620289 >}}
 <br>
 <br>
 <hr>

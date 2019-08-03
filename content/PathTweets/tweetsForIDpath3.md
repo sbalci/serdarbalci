@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For IDpath - 3
 author: Serdar Balci
-date: '2019-08-02'
+date: '2019-08-03'
 slug: tweetsForIDpath3
 categories:
   - R
@@ -15,7 +15,7 @@ image:
 ---
 
 
-{{< tweet 1156616759321010176 >}}
+{{< tweet 1156646081939333120 >}}
 <br>
 <br>
 <hr>
@@ -23,15 +23,11 @@ image:
 <br>
 <br>
 <hr>
-{{< tweet 1156646081939333120 >}}
+{{< tweet 1151194964489101313 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156616823611297793 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1151502577055555586 >}}
+{{< tweet 1151156164165623810 >}}
 <br>
 <br>
 <hr>

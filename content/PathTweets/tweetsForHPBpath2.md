@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For HPBpath - 2
 author: Serdar Balci
-date: '2019-08-02'
+date: '2019-08-03'
 slug: tweetsForHPBpath2
 categories:
   - R
@@ -15,7 +15,7 @@ image:
 ---
 
 
-{{< tweet 1146033302136115207 >}}
+{{< tweet 1145356433732620289 >}}
 <br>
 <br>
 <hr>

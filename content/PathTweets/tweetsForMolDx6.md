@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For MolDx - 6
 author: Serdar Balci
-date: '2019-08-02'
+date: '2019-08-03'
 slug: tweetsForMolDx6
 categories:
   - R
@@ -15,31 +15,19 @@ image:
 ---
 
 
-{{< tweet 1151553318038228993 >}}
+{{< tweet 1155819858673766400 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147357812714065920 >}}
+{{< tweet 1151231770332979201 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1144986789406527488 >}}
+{{< tweet 1149877933105909761 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1144987512408084485 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1147357733638852609 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1144987200100155397 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145513321761857537 >}}
+{{< tweet 1149877997001945088 >}}
 <br>
 <br>
 <hr>

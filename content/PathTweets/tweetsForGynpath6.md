@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For Gynpath - 6
 author: Serdar Balci
-date: '2019-08-02'
+date: '2019-08-03'
 slug: tweetsForGynpath6
 categories:
   - R
@@ -15,19 +15,39 @@ image:
 ---
 
 
-{{< tweet 1149323916961341441 >}}
+{{< tweet 1156568705398124545 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147338532589068289 >}}
+{{< tweet 1156296586080739329 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147234146747592704 >}}
+{{< tweet 1154033166006521857 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147198434035798017 >}}
+{{< tweet 1151226433768812544 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146792273843068928 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145624172388855808 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146472906161106945 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146486623435182081 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145369007584927745 >}}
 <br>
 <br>
 <hr>
