@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For Gynpath - 3
 author: Serdar Balci
-date: '2019-08-03'
+date: '2019-08-04'
 slug: tweetsForGynpath3
 categories:
   - R
@@ -15,51 +15,43 @@ image:
 ---
 
 
-{{< tweet 1157468068400025600 >}}
+{{< tweet 1052201065427415041 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157368328148725761 >}}
+{{< tweet 1152611605630377984 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152272002218123266 >}}
+{{< tweet 1152272991914483713 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1150933313537937408 >}}
+{{< tweet 1147955281403568134 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149633112827027456 >}}
+{{< tweet 1148374266435571713 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149609447259422720 >}}
+{{< tweet 1148465493394767872 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147514521562558470 >}}
+{{< tweet 1148305325675728899 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147195651391930368 >}}
+{{< tweet 1148295840169156608 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147502019726512129 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1147508950276947969 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1147338532589068289 >}}
+{{< tweet 1154669316274442241 >}}
 <br>
 <br>
 <hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other#Gynpathpages here: https://serdarbalci.netlify.com/categories/Gynpath/
+See other #Gynpath pages here: https://serdarbalci.netlify.com/categories/Gynpath/

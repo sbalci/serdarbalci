@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For gipath - 6
 author: Serdar Balci
-date: '2019-08-03'
+date: '2019-08-04'
 slug: tweetsForgipath6
 categories:
   - R
@@ -15,123 +15,111 @@ image:
 ---
 
 
-{{< tweet 1157296292156100611 >}}
+{{< tweet 1156761028069380096 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156279612957253632 >}}
+{{< tweet 1156315278982225920 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156240873300082688 >}}
+{{< tweet 1153941758482345985 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156102926772920322 >}}
+{{< tweet 1152228151113576450 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152212707266969606 >}}
+{{< tweet 1153708412527452160 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152545149920129024 >}}
+{{< tweet 1153857840848654336 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153791165025488897 >}}
+{{< tweet 1151242681915465728 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152566117459775488 >}}
+{{< tweet 1151232115629076482 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152440116213952512 >}}
+{{< tweet 1151231723251912705 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148703998142275584 >}}
+{{< tweet 1151194964489101313 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148673147777892352 >}}
+{{< tweet 1151168847015288833 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148270714107117569 >}}
+{{< tweet 1151156164165623810 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148224985149915136 >}}
+{{< tweet 1151153316572946434 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148296276066414593 >}}
+{{< tweet 1149875556852359170 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148587403579416577 >}}
+{{< tweet 1149817101806448640 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148215829596708864 >}}
+{{< tweet 1149755751797264385 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148623327642210310 >}}
+{{< tweet 1149875222734147584 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1144578288179994625 >}}
+{{< tweet 1149850187805995008 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146739372756275201 >}}
+{{< tweet 1149779013411491845 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146145515429670916 >}}
+{{< tweet 1149034188110213120 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154959789916602369 >}}
+{{< tweet 1146415997378686976 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154953685778104323 >}}
+{{< tweet 1145705561419161600 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154945321946030080 >}}
+{{< tweet 1147132318416379909 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154914176193761281 >}}
+{{< tweet 1147060057596682246 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154937750535229440 >}}
+{{< tweet 1147525056412733440 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154929784310423561 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154928085302743041 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154903639418425345 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154882838048714754 >}}
+{{< tweet 1145210445550247941 >}}
 <br>
 <br>
 <hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other#gipathpages here: https://serdarbalci.netlify.com/categories/gipath/
+See other #gipath pages here: https://serdarbalci.netlify.com/categories/gipath/

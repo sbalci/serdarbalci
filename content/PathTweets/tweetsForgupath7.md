@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For gupath - 7
 author: Serdar Balci
-date: '2019-08-03'
+date: '2019-08-04'
 slug: tweetsForgupath7
 categories:
   - R
@@ -15,67 +15,151 @@ image:
 ---
 
 
-{{< tweet 1157239528551325698 >}}
+{{< tweet 1156168055686356993 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156689026717560832 >}}
+{{< tweet 1156158744545435650 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154382291273207811 >}}
+{{< tweet 1142150115932692480 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151810088186843136 >}}
+{{< tweet 1153795960025206786 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151447199353593856 >}}
+{{< tweet 1151720452924039169 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151819403014615042 >}}
+{{< tweet 1152009661727404032 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151702134091583494 >}}
+{{< tweet 1153780902813528066 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152897003883573249 >}}
+{{< tweet 1151086827509620737 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152906316484161537 >}}
+{{< tweet 1151096136008175616 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153622785442365441 >}}
+{{< tweet 1149292016280449025 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148548348951109633 >}}
+{{< tweet 1149692834380996608 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148187971310559235 >}}
+{{< tweet 1149274130996445184 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146495758490693633 >}}
+{{< tweet 1149473697566081024 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146423319807311872 >}}
+{{< tweet 1149283444125577216 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154708942209073152 >}}
+{{< tweet 1144654316097216514 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1144417959953104896 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146789240975421440 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147461438010793984 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146738173218893824 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145125043011293184 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146375276600942592 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1144975554019516416 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146771894546436099 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1144985476702593025 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1144571894697533440 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146747482812112898 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147470751341019136 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1144992416321212417 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145904429893378053 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1144959197227999232 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145849061905457153 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1144934788354195456 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1144562582591815680 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1144925478857453568 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1144700229809086464 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1144492788441944064 >}}
 <br>
 <br>
 <hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other#gupathpages here: https://serdarbalci.netlify.com/categories/gupath/
+See other #gupath pages here: https://serdarbalci.netlify.com/categories/gupath/

@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For HPBpath - 3
 author: Serdar Balci
-date: '2019-08-03'
+date: '2019-08-04'
 slug: tweetsForHPBpath3
 categories:
   - R
@@ -19,10 +19,7 @@ image:
 <br>
 <br>
 <hr>
-{{< tweet 1154772929210703874 >}}
-<br>
-<br>
-<hr>
 
 
-See other#HPBpathpages [here](https://serdarbalci.netlify.com/categories/HPBpath/
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #HPBpath pages here: https://serdarbalci.netlify.com/categories/HPBpath/

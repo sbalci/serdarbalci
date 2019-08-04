@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For Autopsy - 3
 author: Serdar Balci
-date: '2019-08-03'
+date: '2019-08-04'
 slug: tweetsForAutopsy3
 categories:
   - R
@@ -15,51 +15,67 @@ image:
 ---
 
 
-{{< tweet 1153732359797313538 >}}
+{{< tweet 1151891280974290944 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153711641659346951 >}}
+{{< tweet 1152147044657553408 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153664196002963456 >}}
+{{< tweet 1151961311493808128 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153643381211508738 >}}
+{{< tweet 1150763570012934144 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153628136753553409 >}}
+{{< tweet 1153266228808470528 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152023326337859585 >}}
+{{< tweet 1148299711230697472 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1150980706119516160 >}}
+{{< tweet 1148399476815646721 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147476455888228352 >}}
+{{< tweet 1148362276623114240 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1144987200100155397 >}}
+{{< tweet 1148335944375963656 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1144543030986313728 >}}
+{{< tweet 1145834850928267264 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1144492788441944064 >}}
+{{< tweet 1154623232877613057 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154551228702945280 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154532881097617408 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154525777276227584 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154460711621419009 >}}
 <br>
 <br>
 <hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other#Autopsypages here: https://serdarbalci.netlify.com/categories/Autopsy/
+See other #Autopsy pages here: https://serdarbalci.netlify.com/categories/Autopsy/

@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For NeuroPath - 4
 author: Serdar Balci
-date: '2019-08-03'
+date: '2019-08-04'
 slug: tweetsForNeuroPath4
 categories:
   - R
@@ -15,31 +15,55 @@ image:
 ---
 
 
-{{< tweet 1157389103790350337 >}}
+{{< tweet 1156755071469850626 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157372589393764352 >}}
+{{< tweet 1157318357584162816 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156889949465169922 >}}
+{{< tweet 1153158031481290753 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156331892041572352 >}}
+{{< tweet 1152223079411539969 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1145854388306681862 >}}
+{{< tweet 1154224175558660100 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1145815814303436800 >}}
+{{< tweet 1153731692315762689 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1151879739344347137 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1151857319149355008 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1148249236129091584 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147935951727013889 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145835303757705216 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154408817209348097 >}}
 <br>
 <br>
 <hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other#NeuroPathpages here: https://serdarbalci.netlify.com/categories/NeuroPath/
+See other #NeuroPath pages here: https://serdarbalci.netlify.com/categories/NeuroPath/

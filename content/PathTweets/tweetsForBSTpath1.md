@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For BSTpath - 1
 author: Serdar Balci
-date: '2019-08-03'
+date: '2019-08-04'
 slug: tweetsForBSTpath1
 categories:
   - R
@@ -15,27 +15,27 @@ image:
 ---
 
 
-{{< tweet 1157692983598178305 >}}
+{{< tweet 1148966989781774336 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152254625313165312 >}}
+{{< tweet 1148699099870486528 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151231770332979201 >}}
+{{< tweet 1148659530038951937 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149801279356579840 >}}
+{{< tweet 1148674820483235840 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1144674173278703619 >}}
+{{< tweet 1154931870716628993 >}}
 <br>
 <br>
 <hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other#BSTpathpages here: https://serdarbalci.netlify.com/categories/BSTpath/
+See other #BSTpath pages here: https://serdarbalci.netlify.com/categories/BSTpath/

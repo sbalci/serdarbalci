@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For pancpath - 8
 author: Serdar Balci
-date: '2019-08-03'
+date: '2019-08-04'
 slug: tweetsForpancpath8
 categories:
   - R
@@ -19,67 +19,31 @@ image:
 <br>
 <br>
 <hr>
-{{< tweet 1156076822620098560 >}}
+{{< tweet 1099716199166861313 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153885806857207808 >}}
+{{< tweet 1155670515668754432 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146033302136115207 >}}
+{{< tweet 1155158823708925952 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154409571387138048 >}}
+{{< tweet 1155155485278035968 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154424500655677440 >}}
+{{< tweet 1155168992102891527 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154425765624209408 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154417386969292801 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154426072102047744 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154418827305857024 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154408679430602753 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154411879969775617 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154412099604553729 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154424229057703938 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154422018709659649 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154419579285856258 >}}
+{{< tweet 1155188104225021954 >}}
 <br>
 <br>
 <hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other#pancpathpages here: https://serdarbalci.netlify.com/categories/pancpath/
+See other #pancpath pages here: https://serdarbalci.netlify.com/categories/pancpath/

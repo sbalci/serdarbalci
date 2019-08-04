@@ -1,13 +1,13 @@
 ---
-title: Pathology Tweets For EndoPath - 9
+title: Pathology Tweets For EyePath - 5
 author: Serdar Balci
 date: '2019-08-04'
-slug: tweetsForEndoPath9
+slug: tweetsForEyePath5
 categories:
   - R
   - tweets
   - pathology
-  - EndoPath
+  - EyePath
 tags: []
 image:
   caption: ''
@@ -15,11 +15,11 @@ image:
 ---
 
 
-{{< tweet 1150304486155587584 >}}
+{{< tweet 1147799244021096454 >}}
 <br>
 <br>
 <hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #EndoPath pages here: https://serdarbalci.netlify.com/categories/EndoPath/
+See other #EyePath pages here: https://serdarbalci.netlify.com/categories/EyePath/

@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For HemePath - 1
 author: Serdar Balci
-date: '2019-08-03'
+date: '2019-08-04'
 slug: tweetsForHemePath1
 categories:
   - R
@@ -15,59 +15,43 @@ image:
 ---
 
 
-{{< tweet 1157285433035898882 >}}
+{{< tweet 1088131168627814400 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157092376860606464 >}}
+{{< tweet 1157303542555848704 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156469176342667264 >}}
+{{< tweet 1156801421305450497 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155828556506783751 >}}
+{{< tweet 1156255341329469443 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153507932421705729 >}}
+{{< tweet 1156242665605861377 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151311704065748992 >}}
+{{< tweet 1156242545648852993 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151257789194473477 >}}
+{{< tweet 1154012220445077505 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151233322485465089 >}}
+{{< tweet 1153749563255197696 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149842458387161088 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1149999912051990528 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145988787916419072 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1146240507552718848 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145345710843260928 >}}
+{{< tweet 1154918595404738561 >}}
 <br>
 <br>
 <hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other#HemePathpages here: https://serdarbalci.netlify.com/categories/HemePath/
+See other #HemePath pages here: https://serdarbalci.netlify.com/categories/HemePath/

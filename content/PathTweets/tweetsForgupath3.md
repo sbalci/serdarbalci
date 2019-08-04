@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For gupath - 3
 author: Serdar Balci
-date: '2019-08-03'
+date: '2019-08-04'
 slug: tweetsForgupath3
 categories:
   - R
@@ -15,111 +15,51 @@ image:
 ---
 
 
-{{< tweet 1156955100524482561 >}}
+{{< tweet 1157337916865204225 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156061376311386112 >}}
+{{< tweet 1156689026717560832 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149274130996445184 >}}
+{{< tweet 1154382291273207811 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149473697566081024 >}}
+{{< tweet 1151810088186843136 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149283444125577216 >}}
+{{< tweet 1151447199353593856 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1144417959953104896 >}}
+{{< tweet 1151819403014615042 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146789240975421440 >}}
+{{< tweet 1151702134091583494 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147461438010793984 >}}
+{{< tweet 1152897003883573249 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146738173218893824 >}}
+{{< tweet 1152906316484161537 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1145125043011293184 >}}
+{{< tweet 1153622785442365441 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146375276600942592 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1144975554019516416 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1146771894546436099 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1144985476702593025 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1144571894697533440 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1146747482812112898 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1147470751341019136 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1144992416321212417 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145904429893378053 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1144959197227999232 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145849061905457153 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1144934788354195456 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1144562582591815680 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1144925478857453568 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1144492788441944064 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1144299597172334592 >}}
+{{< tweet 1154708942209073152 >}}
 <br>
 <br>
 <hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other#gupathpages here: https://serdarbalci.netlify.com/categories/gupath/
+See other #gupath pages here: https://serdarbalci.netlify.com/categories/gupath/

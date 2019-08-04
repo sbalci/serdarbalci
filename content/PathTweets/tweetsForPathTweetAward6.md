@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathTweetAward - 6
 author: Serdar Balci
-date: '2019-08-03'
+date: '2019-08-04'
 slug: tweetsForPathTweetAward6
 categories:
   - R
@@ -15,107 +15,119 @@ image:
 ---
 
 
-{{< tweet 1154225974050983936 >}}
+{{< tweet 1157219042572328960 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153836574058008579 >}}
+{{< tweet 1156469176342667264 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152716238621163522 >}}
+{{< tweet 1155790304596910080 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1150020187300777989 >}}
+{{< tweet 1155775364595101697 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148794403353440257 >}}
+{{< tweet 1152242880066572290 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148792290330251264 >}}
+{{< tweet 1152611285529444353 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148802887243509767 >}}
+{{< tweet 1154000885426610176 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148788980164571138 >}}
+{{< tweet 1153341729157685248 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148807487186972673 >}}
+{{< tweet 1153182938369933312 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148789429550624768 >}}
+{{< tweet 1152969061757702145 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148790768980627456 >}}
+{{< tweet 1152162333579329537 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148799147795013632 >}}
+{{< tweet 1152600958175604736 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148745251080867840 >}}
+{{< tweet 1153943446027042819 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148746597951528960 >}}
+{{< tweet 1151477657302949889 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148747581440311296 >}}
+{{< tweet 1151166822558945280 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148362883899826177 >}}
+{{< tweet 1151164278927327232 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148610722407915522 >}}
+{{< tweet 1149968487512756225 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148634109759119360 >}}
+{{< tweet 1149944276404580352 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148294416735580160 >}}
+{{< tweet 1149891025860612096 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148597298257174529 >}}
+{{< tweet 1149832435804311552 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148220901533659136 >}}
+{{< tweet 1149373316026765313 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148623081772060673 >}}
+{{< tweet 1149059231317929985 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155072905690021890 >}}
+{{< tweet 1149287112304467968 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154938758384406528 >}}
+{{< tweet 1149286931425112064 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154936456256708609 >}}
+{{< tweet 1149727442896150528 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145111786368176130 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146243678513573889 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147628760474292224 >}}
 <br>
 <br>
 <hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other#PathTweetAwardpages here: https://serdarbalci.netlify.com/categories/PathTweetAward/
+See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories/PathTweetAward/

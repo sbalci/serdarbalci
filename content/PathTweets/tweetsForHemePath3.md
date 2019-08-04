@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For HemePath - 3
 author: Serdar Balci
-date: '2019-08-03'
+date: '2019-08-04'
 slug: tweetsForHemePath3
 categories:
   - R
@@ -15,119 +15,63 @@ image:
 ---
 
 
-{{< tweet 1157498045455634432 >}}
+{{< tweet 995030605497819136 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156765072590561281 >}}
+{{< tweet 1157851055088185344 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157056585409204226 >}}
+{{< tweet 1157363567294857217 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156567663352647680 >}}
+{{< tweet 1156218215942492160 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155876663361622018 >}}
+{{< tweet 1154382291273207811 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149274130996445184 >}}
+{{< tweet 1151810088186843136 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149473697566081024 >}}
+{{< tweet 1151447199353593856 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149614858909827073 >}}
+{{< tweet 1151819403014615042 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147461438010793984 >}}
+{{< tweet 1151702134091583494 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146738173218893824 >}}
+{{< tweet 1152897003883573249 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146375276600942592 >}}
+{{< tweet 1152906316484161537 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1144975554019516416 >}}
+{{< tweet 1153622785442365441 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146771894546436099 >}}
+{{< tweet 1153287712914518017 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1144985476702593025 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1144571894697533440 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1146747482812112898 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1144992416321212417 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1147098547654942720 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1146384593928544257 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145391840952274944 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1144959197227999232 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145849061905457153 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1144934788354195456 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1144562582591815680 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1144596311196557313 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1144925478857453568 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145286607727185921 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1144413877863628801 >}}
+{{< tweet 1154708942209073152 >}}
 <br>
 <br>
 <hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other#HemePathpages here: https://serdarbalci.netlify.com/categories/HemePath/
+See other #HemePath pages here: https://serdarbalci.netlify.com/categories/HemePath/

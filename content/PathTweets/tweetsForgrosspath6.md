@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For grosspath - 6
 author: Serdar Balci
-date: '2019-08-03'
+date: '2019-08-04'
 slug: tweetsForgrosspath6
 categories:
   - R
@@ -15,31 +15,27 @@ image:
 ---
 
 
-{{< tweet 1153380565023907842 >}}
+{{< tweet 1157703965695455232 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148224985149915136 >}}
+{{< tweet 1156568705398124545 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148296276066414593 >}}
+{{< tweet 1156296586080739329 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146372839232233480 >}}
+{{< tweet 1149968487512756225 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154959789916602369 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154928085302743041 >}}
+{{< tweet 1144418221677862912 >}}
 <br>
 <br>
 <hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other#grosspathpages here: https://serdarbalci.netlify.com/categories/grosspath/
+See other #grosspath pages here: https://serdarbalci.netlify.com/categories/grosspath/

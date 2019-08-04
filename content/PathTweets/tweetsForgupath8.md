@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For gupath - 8
 author: Serdar Balci
-date: '2019-08-03'
+date: '2019-08-04'
 slug: tweetsForgupath8
 categories:
   - R
@@ -15,27 +15,35 @@ image:
 ---
 
 
-{{< tweet 1157337916865204225 >}}
+{{< tweet 1157552162991484930 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156050781461762048 >}}
+{{< tweet 1156955100524482561 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1140991224804982784 >}}
+{{< tweet 1156061376311386112 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148229861410070533 >}}
+{{< tweet 1155990954739769345 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154408566641635328 >}}
+{{< tweet 1149307228274511872 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147250441291542528 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1144299597172334592 >}}
 <br>
 <br>
 <hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other#gupathpages here: https://serdarbalci.netlify.com/categories/gupath/
+See other #gupath pages here: https://serdarbalci.netlify.com/categories/gupath/
