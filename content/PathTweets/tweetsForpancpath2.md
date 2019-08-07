@@ -143,6 +143,14 @@ image:
 <br>
 <br>
 <hr>
+{{< tweet 1154409571387138048 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154424500655677440 >}}
+<br>
+<br>
+<hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
