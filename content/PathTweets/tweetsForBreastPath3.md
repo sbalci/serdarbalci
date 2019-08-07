@@ -159,14 +159,6 @@ image:
 <br>
 <br>
 <hr>
-{{< tweet 1154458551097577472 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154458015627505664 >}}
-<br>
-<br>
-<hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.

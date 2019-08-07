@@ -115,6 +115,10 @@ image:
 <br>
 <br>
 <hr>
+{{< tweet 1155507289522135042 >}}
+<br>
+<br>
+<hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
