@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For grosspath - 5
 author: Serdar Balci
-date: '2019-08-07'
+date: '2019-08-08'
 slug: tweetsForgrosspath5
 categories:
   - R
@@ -19,23 +19,15 @@ image:
 <br>
 <br>
 <hr>
-{{< tweet 1157703965695455232 >}}
+{{< tweet 1154804880202186752 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156568705398124545 >}}
+{{< tweet 1153407723293282304 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156296586080739329 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1149968487512756225 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1144418221677862912 >}}
+{{< tweet 1145786337729097728 >}}
 <br>
 <br>
 <hr>

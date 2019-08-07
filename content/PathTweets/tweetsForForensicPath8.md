@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For ForensicPath - 8
 author: Serdar Balci
-date: '2019-08-07'
+date: '2019-08-08'
 slug: tweetsForForensicPath8
 categories:
   - R
@@ -19,19 +19,15 @@ image:
 <br>
 <br>
 <hr>
-{{< tweet 1156865568651251713 >}}
+{{< tweet 1156246255569461248 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156865238748356609 >}}
+{{< tweet 1148640713820819456 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156870953470693376 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1148999109602185216 >}}
+{{< tweet 1154832637195890688 >}}
 <br>
 <br>
 <hr>
