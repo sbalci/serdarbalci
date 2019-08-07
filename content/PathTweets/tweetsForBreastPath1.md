@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For BreastPath - 1
 author: Serdar Balci
-date: '2019-08-04'
+date: '2019-08-07'
 slug: tweetsForBreastPath1
 categories:
   - R
@@ -15,15 +15,31 @@ image:
 ---
 
 
-{{< tweet 1158000911593148418 >}}
+{{< tweet 1158855849420476416 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148693542614773762 >}}
+{{< tweet 1157716455108022273 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155227618406535168 >}}
+{{< tweet 1155819858673766400 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1153441356976721922 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1149993968828133378 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1144660912122617856 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145516334404517891 >}}
 <br>
 <br>
 <hr>

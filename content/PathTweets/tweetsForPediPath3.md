@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PediPath - 3
 author: Serdar Balci
-date: '2019-08-04'
+date: '2019-08-07'
 slug: tweetsForPediPath3
 categories:
   - R
@@ -19,23 +19,19 @@ image:
 <br>
 <br>
 <hr>
-{{< tweet 1106974434399797251 >}}
+{{< tweet 1157468068400025600 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156218215942492160 >}}
+{{< tweet 1149632002628284418 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154669316274442241 >}}
+{{< tweet 1149614858909827073 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154474771544862720 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154474725919170561 >}}
+{{< tweet 1144492788441944064 >}}
 <br>
 <br>
 <hr>

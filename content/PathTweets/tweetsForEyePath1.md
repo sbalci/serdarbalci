@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For EyePath - 1
 author: Serdar Balci
-date: '2019-08-03'
+date: '2019-08-07'
 slug: tweetsForEyePath1
 categories:
   - R
@@ -22,4 +22,4 @@ image:
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other#EyePathpages here: https://serdarbalci.netlify.com/categories/EyePath/
+See other #EyePath pages here: https://serdarbalci.netlify.com/categories/EyePath/

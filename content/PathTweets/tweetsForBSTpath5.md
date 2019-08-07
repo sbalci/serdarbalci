@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For BSTpath - 5
 author: Serdar Balci
-date: '2019-08-04'
+date: '2019-08-07'
 slug: tweetsForBSTpath5
 categories:
   - R
@@ -23,11 +23,11 @@ image:
 <br>
 <br>
 <hr>
-{{< tweet 1149801279356579840 >}}
+{{< tweet 1156283741309943808 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1144674173278703619 >}}
+{{< tweet 1148966989781774336 >}}
 <br>
 <br>
 <hr>

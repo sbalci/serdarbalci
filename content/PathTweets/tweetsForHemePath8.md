@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For HemePath - 8
 author: Serdar Balci
-date: '2019-08-04'
+date: '2019-08-07'
 slug: tweetsForHemePath8
 categories:
   - R
@@ -15,15 +15,39 @@ image:
 ---
 
 
-{{< tweet 1156765072590561281 >}}
+{{< tweet 1155240929290313728 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155876663361622018 >}}
+{{< tweet 1158166325358989312 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155545591004434433 >}}
+{{< tweet 1158200838524952583 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156196049561636864 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156050781461762048 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154229973215076353 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1153287712914518017 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1153334748942675969 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154408566641635328 >}}
 <br>
 <br>
 <hr>
