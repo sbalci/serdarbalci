@@ -38,14 +38,6 @@ See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories
 <br>
 <br>
 <hr>
-{{< tweet 1151540405810409472 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1151601431272706049 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1152016914585022464 >}}
 <br>
 <br>
@@ -170,14 +162,6 @@ See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories
 <br>
 <br>
 <hr>
-{{< tweet 1146699213847322625 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145800848892674048 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1146953598192037889 >}}
 <br>
 <br>
@@ -231,6 +215,10 @@ See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories
 <br>
 <hr>
 {{< tweet 1146225134509969408 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147268035889307648 >}}
 <br>
 <br>
 <hr>

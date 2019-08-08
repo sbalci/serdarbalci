@@ -94,14 +94,6 @@ See other #gipath pages here: https://serdarbalci.netlify.com/categories/gipath/
 <br>
 <br>
 <hr>
-{{< tweet 1146939454638002176 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145877517393264641 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1144578288179994625 >}}
 <br>
 <br>

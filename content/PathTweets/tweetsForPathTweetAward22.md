@@ -182,6 +182,22 @@ See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories
 <br>
 <br>
 <hr>
+{{< tweet 1144779909438541824 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147784400962281472 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147047439599382528 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145882091177107462 >}}
+<br>
+<br>
+<hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.

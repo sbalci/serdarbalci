@@ -22,10 +22,6 @@ See other #Autopsy pages here: https://serdarbalci.netlify.com/categories/Autops
 <br>
 <br>
 <hr>
-{{< tweet 1154454924291379201 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1154449681939697664 >}}
 <br>
 <br>
