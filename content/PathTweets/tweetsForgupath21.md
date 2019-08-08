@@ -19,10 +19,6 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #gupath pages here: https://serdarbalci.netlify.com/categories/gupath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1158688188652818433 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1158152192102191104 >}}
 <br>
 <br>
