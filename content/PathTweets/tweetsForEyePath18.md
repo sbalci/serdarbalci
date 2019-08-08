@@ -19,10 +19,6 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EyePath pages here: https://serdarbalci.netlify.com/categories/EyePath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1158779159478489089 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1158645131211415553 >}}
 <br>
 <br>
@@ -48,10 +44,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1156973764904722432 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1156078654662819842 >}}
 <br>
 <br>
 <hr>
