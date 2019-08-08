@@ -22,19 +22,11 @@ See other #NeuroPath pages here: https://serdarbalci.netlify.com/categories/Neur
 <br>
 <br>
 <hr>
-{{< tweet 1156212598200786944 >}}
+{{< tweet 1156331892041572352 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151879739344347137 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1144693370310336512 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1144557806361751552 >}}
+{{< tweet 1146168131129417728 >}}
 <br>
 <br>
 <hr>

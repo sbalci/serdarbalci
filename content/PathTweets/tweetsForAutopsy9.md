@@ -22,11 +22,23 @@ See other #Autopsy pages here: https://serdarbalci.netlify.com/categories/Autops
 <br>
 <br>
 <hr>
-{{< tweet 1150015724921982976 >}}
+{{< tweet 1151106406965219328 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1150014435332939777 >}}
+{{< tweet 1151068989889499137 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154851910580670464 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154869192421707776 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154796139281092608 >}}
 <br>
 <br>
 <hr>

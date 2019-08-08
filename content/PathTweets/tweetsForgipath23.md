@@ -18,39 +18,71 @@ image:
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
 See other #gipath pages here: https://serdarbalci.netlify.com/categories/gipath/See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1158081711810449414 >}}
+{{< tweet 1156597760050622469 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1158051405871091723 >}}
+{{< tweet 1156610160141336576 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153941758482345985 >}}
+{{< tweet 1156594848855670784 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152228151113576450 >}}
+{{< tweet 1156565678364585984 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153708412527452160 >}}
+{{< tweet 1153997509095755782 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153857840848654336 >}}
+{{< tweet 1154396391344615424 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146939454638002176 >}}
+{{< tweet 1154336371630387200 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1145877517393264641 >}}
+{{< tweet 1154385826429714432 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1144578288179994625 >}}
+{{< tweet 1146671864854515712 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145754941979541504 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145754922631204874 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146415997378686976 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145705561419161600 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147132318416379909 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147060057596682246 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147525056412733440 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147577055380459520 >}}
 <br>
 <br>
 <hr>

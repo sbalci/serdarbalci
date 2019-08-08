@@ -18,23 +18,7 @@ image:
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
 See other #grosspath pages here: https://serdarbalci.netlify.com/categories/grosspath/See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1153380565023907842 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1147935266088337409 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1147872296503300096 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1147465439980720128 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1147777480083869697 >}}
+{{< tweet 1155831043225788416 >}}
 <br>
 <br>
 <hr>

@@ -22,23 +22,35 @@ See other #gipath pages here: https://serdarbalci.netlify.com/categories/gipath/
 <br>
 <br>
 <hr>
-{{< tweet 1157759201223086080 >}}
+{{< tweet 1153349143189950468 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152566117459775488 >}}
+{{< tweet 1153203699478458368 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152440116213952512 >}}
+{{< tweet 1153217501477711872 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1145365861865349121 >}}
+{{< tweet 1153153122287738880 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1145210445550247941 >}}
+{{< tweet 1146145515429670916 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146449072867487744 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146164157391278080 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146404191969189890 >}}
 <br>
 <br>
 <hr>
