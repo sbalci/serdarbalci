@@ -1,8 +1,8 @@
 ---
-title: Pathology Tweets For Autopsy - 2
+title: Pathology Tweets For Autopsy - 22
 author: Serdar Balci
 date: '2019-08-08'
-slug: tweetsForAutopsy2
+slug: tweetsForAutopsy22
 categories:
   - R
   - tweets
@@ -15,43 +15,35 @@ image:
 ---
 
 
-{{< tweet 1156867623642177537 >}}
+{{< tweet 1154189977615511554 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156226790244933632 >}}
+{{< tweet 1154186704032370688 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152553841499496448 >}}
+{{< tweet 1154179713302241281 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152299534195789825 >}}
+{{< tweet 1154169696826068998 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152273726815256578 >}}
+{{< tweet 1154096471395962883 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1145615741963644928 >}}
+{{< tweet 1154088955614076929 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1145420526158045186 >}}
+{{< tweet 1144987200100155397 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1145075754637701120 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145105416721960968 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145072727046459393 >}}
+{{< tweet 1147187367712833541 >}}
 <br>
 <br>
 <hr>

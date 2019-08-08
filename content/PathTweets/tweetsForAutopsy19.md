@@ -1,0 +1,41 @@
+---
+title: Pathology Tweets For Autopsy - 19
+author: Serdar Balci
+date: '2019-08-08'
+slug: tweetsForAutopsy19
+categories:
+  - R
+  - tweets
+  - pathology
+  - Autopsy
+tags: []
+image:
+  caption: ''
+  focal_point: ''
+---
+
+
+{{< tweet 1150112156333027330 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147999112748589056 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147947129509277696 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147873934806671361 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147350469125246976 >}}
+<br>
+<br>
+<hr>
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #Autopsy pages here: https://serdarbalci.netlify.com/categories/Autopsy/
