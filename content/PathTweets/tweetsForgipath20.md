@@ -1,0 +1,89 @@
+---
+title: Pathology Tweets For gipath - 20
+author: Serdar Balci
+date: '2019-08-08'
+slug: tweetsForgipath20
+categories:
+  - R
+  - tweets
+  - pathology
+  - gipath
+tags: []
+image:
+  caption: ''
+  focal_point: ''
+---
+
+
+{{< tweet 1156597760050622469 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156610160141336576 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156594848855670784 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1152545149920129024 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1153791165025488897 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1153997509095755782 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154396391344615424 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154336371630387200 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154385826429714432 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147833375681470464 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145776331902210048 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146671864854515712 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145754941979541504 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145754922631204874 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146415997378686976 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145705561419161600 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147132318416379909 >}}
+<br>
+<br>
+<hr>
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #gipath pages here: https://serdarbalci.netlify.com/categories/gipath/
