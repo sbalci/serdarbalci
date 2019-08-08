@@ -50,10 +50,6 @@ See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories
 <br>
 <br>
 <hr>
-{{< tweet 1154786792656257025 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1154779213993512962 >}}
 <br>
 <br>

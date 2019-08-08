@@ -86,7 +86,7 @@ See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories
 <br>
 <br>
 <hr>
-{{< tweet 1146545040740769792 >}}
+{{< tweet 1152016914585022464 >}}
 <br>
 <br>
 <hr>

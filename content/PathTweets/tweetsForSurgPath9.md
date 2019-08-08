@@ -66,10 +66,6 @@ See other #SurgPath pages here: https://serdarbalci.netlify.com/categories/SurgP
 <br>
 <br>
 <hr>
-{{< tweet 1151129602884063236 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1150884953565138944 >}}
 <br>
 <br>
@@ -114,10 +110,6 @@ See other #SurgPath pages here: https://serdarbalci.netlify.com/categories/SurgP
 <br>
 <br>
 <hr>
-{{< tweet 1155043390154842114 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1155011978638831617 >}}
 <br>
 <br>
@@ -158,10 +150,6 @@ See other #SurgPath pages here: https://serdarbalci.netlify.com/categories/SurgP
 <br>
 <br>
 <hr>
-{{< tweet 1154827300975734784 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1154814536123396096 >}}
 <br>
 <br>
@@ -175,6 +163,22 @@ See other #SurgPath pages here: https://serdarbalci.netlify.com/categories/SurgP
 <br>
 <hr>
 {{< tweet 1154794931174723584 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154787054024351744 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154627762973487105 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154784150819184640 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154783036975788032 >}}
 <br>
 <br>
 <hr>

@@ -38,6 +38,10 @@ See other #gipath pages here: https://serdarbalci.netlify.com/categories/gipath/
 <br>
 <br>
 <hr>
+{{< tweet 1156218215942492160 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1152566117459775488 >}}
 <br>
 <br>

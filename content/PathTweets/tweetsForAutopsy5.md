@@ -38,6 +38,10 @@ See other #Autopsy pages here: https://serdarbalci.netlify.com/categories/Autops
 <br>
 <br>
 <hr>
+{{< tweet 1152147044657553408 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1145420526158045186 >}}
 <br>
 <br>
