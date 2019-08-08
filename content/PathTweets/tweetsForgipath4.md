@@ -15,6 +15,9 @@ image:
 ---
 
 
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #gipath pages here: https://serdarbalci.netlify.com/categories/gipath/
+
 {{< tweet 1111384884226879488 >}}
 <br>
 <br>

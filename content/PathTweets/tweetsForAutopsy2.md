@@ -15,6 +15,9 @@ image:
 ---
 
 
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #Autopsy pages here: https://serdarbalci.netlify.com/categories/Autopsy/
+
 {{< tweet 1156867623642177537 >}}
 <br>
 <br>

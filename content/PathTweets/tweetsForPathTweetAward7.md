@@ -15,6 +15,9 @@ image:
 ---
 
 
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories/PathTweetAward/
+
 {{< tweet 1159113126308175872 >}}
 <br>
 <br>

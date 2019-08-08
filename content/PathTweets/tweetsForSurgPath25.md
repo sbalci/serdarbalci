@@ -15,6 +15,9 @@ image:
 ---
 
 
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #SurgPath pages here: https://serdarbalci.netlify.com/categories/SurgPath/
+
 {{< tweet 1156321359208701952 >}}
 <br>
 <br>

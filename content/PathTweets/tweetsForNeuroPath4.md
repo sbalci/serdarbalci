@@ -15,6 +15,9 @@ image:
 ---
 
 
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #NeuroPath pages here: https://serdarbalci.netlify.com/categories/NeuroPath/
+
 {{< tweet 1159147234321190913 >}}
 <br>
 <br>

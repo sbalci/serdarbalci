@@ -15,6 +15,9 @@ image:
 ---
 
 
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #grosspath pages here: https://serdarbalci.netlify.com/categories/grosspath/
+
 {{< tweet 1156195643704119297 >}}
 <br>
 <br>
