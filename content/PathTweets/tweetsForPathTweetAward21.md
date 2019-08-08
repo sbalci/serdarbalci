@@ -16,7 +16,8 @@ image:
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories/PathTweetAward/See selected social media based textbook project here: http://www.patolojinotlari.com/
+See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories/PathTweetAward/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
 
 {{< tweet 1158783803864825857 >}}
 <br>
@@ -73,4 +74,5 @@ See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories/PathTweetAward/See selected social media based textbook project here: http://www.patolojinotlari.com/
+See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories/PathTweetAward/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/

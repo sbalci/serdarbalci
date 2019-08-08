@@ -1,0 +1,90 @@
+---
+title: Pathology Tweets For pancpath - 9
+author: Serdar Balci
+date: '2019-08-08'
+slug: tweetsForpancpath9
+categories:
+  - R
+  - tweets
+  - pathology
+  - pancpath
+tags: []
+image:
+  caption: ''
+  focal_point: ''
+---
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #pancpath pages here: https://serdarbalci.netlify.com/categories/pancpath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
+
+{{< tweet 712152791175860224 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156800130340851712 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1117790717991096321 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150862339345965057 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1151104259892502537 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1151887237384167425 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154959789916602369 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154953685778104323 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154945321946030080 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154937750535229440 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154929784310423561 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154928085302743041 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154880147444641792 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154857347728195586 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154850728009228294 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154856672294313987 >}}
+<br>
+<br>
+<hr>
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #pancpath pages here: https://serdarbalci.netlify.com/categories/pancpath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/

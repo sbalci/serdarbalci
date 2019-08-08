@@ -1,0 +1,122 @@
+---
+title: Pathology Tweets For BSTpath - 7
+author: Serdar Balci
+date: '2019-08-08'
+slug: tweetsForBSTpath7
+categories:
+  - R
+  - tweets
+  - pathology
+  - BSTpath
+tags: []
+image:
+  caption: ''
+  focal_point: ''
+---
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #BSTpath pages here: https://serdarbalci.netlify.com/categories/BSTpath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
+
+{{< tweet 763378410294878209 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1159338901695320069 >}}
+<br>
+<br>
+<hr>
+{{< tweet 793453906504265728 >}}
+<br>
+<br>
+<hr>
+{{< tweet 793379387563311104 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1157711449621446656 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1157676511073316864 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1151621506599985152 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1151580068835184641 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1151407225862098944 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155726803660505088 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155648878244519938 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155561058142019584 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155538184144654336 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155484011575369729 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155079627821350913 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155474797553496066 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155430195781935104 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155074446274809856 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155062052144238592 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155061812175548417 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155096664765620225 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155066618843729920 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155115447836119041 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155074386128461825 >}}
+<br>
+<br>
+<hr>
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #BSTpath pages here: https://serdarbalci.netlify.com/categories/BSTpath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/

@@ -16,7 +16,8 @@ image:
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #SurgPath pages here: https://serdarbalci.netlify.com/categories/SurgPath/See selected social media based textbook project here: http://www.patolojinotlari.com/
+See other #SurgPath pages here: https://serdarbalci.netlify.com/categories/SurgPath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
 
 {{< tweet 1159054364083814400 >}}
 <br>
@@ -117,4 +118,5 @@ See other #SurgPath pages here: https://serdarbalci.netlify.com/categories/SurgP
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #SurgPath pages here: https://serdarbalci.netlify.com/categories/SurgPath/See selected social media based textbook project here: http://www.patolojinotlari.com/
+See other #SurgPath pages here: https://serdarbalci.netlify.com/categories/SurgPath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/

@@ -1,0 +1,242 @@
+---
+title: Pathology Tweets For IDpath - 9
+author: Serdar Balci
+date: '2019-08-08'
+slug: tweetsForIDpath9
+categories:
+  - R
+  - tweets
+  - pathology
+  - IDpath
+tags: []
+image:
+  caption: ''
+  focal_point: ''
+---
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #IDpath pages here: https://serdarbalci.netlify.com/categories/IDpath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
+
+{{< tweet 1059175966138945536 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155096062086045696 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1151218352699912192 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1159295183755849730 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1158539555668205574 >}}
+<br>
+<br>
+<hr>
+{{< tweet 923254624357728256 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1139841137383022592 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1158799755000131591 >}}
+<br>
+<br>
+<hr>
+{{< tweet 873236728105926656 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1157697355962994690 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1157714512553938947 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1157558287677698048 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1157471107370426368 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156180322565918722 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156109127120314369 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156115672075821056 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156115996815560704 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156114787333545984 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156112118107856901 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156114592004808704 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156115162346270722 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156113633228800005 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156111874116726786 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156115437882630145 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156152138042658818 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156114257592930305 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156115104594845696 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156115562805760001 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156115893765791745 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156113426927837184 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156113224116428800 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156113393834713089 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1151026966428028928 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1153280966133239809 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1153280958759616512 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150846741735981056 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1151070765888016384 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150778094531125248 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1151121116133351430 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150748330604953600 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150736236446752768 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1151119118361382912 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1151103415709290496 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1151052983007924225 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155011978638831617 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154977849444429824 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154932716783198210 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154937462055211008 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154892639784898561 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154851507457712128 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154856778498301953 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154855404817588225 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154818676002054144 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154627762973487105 >}}
+<br>
+<br>
+<hr>
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #IDpath pages here: https://serdarbalci.netlify.com/categories/IDpath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/

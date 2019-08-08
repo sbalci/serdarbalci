@@ -16,7 +16,8 @@ image:
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #Autopsy pages here: https://serdarbalci.netlify.com/categories/Autopsy/See selected social media based textbook project here: http://www.patolojinotlari.com/
+See other #Autopsy pages here: https://serdarbalci.netlify.com/categories/Autopsy/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
 
 {{< tweet 1157154890143027202 >}}
 <br>
@@ -25,4 +26,5 @@ See other #Autopsy pages here: https://serdarbalci.netlify.com/categories/Autops
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #Autopsy pages here: https://serdarbalci.netlify.com/categories/Autopsy/See selected social media based textbook project here: http://www.patolojinotlari.com/
+See other #Autopsy pages here: https://serdarbalci.netlify.com/categories/Autopsy/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/

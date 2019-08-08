@@ -1,0 +1,162 @@
+---
+title: Pathology Tweets For EyePath - 22
+author: Serdar Balci
+date: '2019-08-08'
+slug: tweetsForEyePath22
+categories:
+  - R
+  - tweets
+  - pathology
+  - EyePath
+tags: []
+image:
+  caption: ''
+  focal_point: ''
+---
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #EyePath pages here: https://serdarbalci.netlify.com/categories/EyePath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
+
+{{< tweet 1158592648082538501 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1158806738923073536 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1158752043840004096 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1158201330915299329 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1158182273985892354 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156694929877458949 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156676522075459584 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156655984263213057 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154344941830770688 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154392732095393792 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154401442180079624 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147956444433723393 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147955682471239682 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147887651866984448 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147309181927641088 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145767812180455424 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146365586064183296 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146130206966419456 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147579745267331072 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146418653446975491 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147143217865003008 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147868082410545154 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147815090114240512 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145990524408606720 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145716332207493121 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147430163426217986 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147490587035209728 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147217363084959745 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146040952768946177 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147090356456120320 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145754157531484162 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146492595780182016 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147709728010756096 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147799244021096454 >}}
+<br>
+<br>
+<hr>
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #EyePath pages here: https://serdarbalci.netlify.com/categories/EyePath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/

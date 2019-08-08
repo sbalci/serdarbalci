@@ -1,0 +1,82 @@
+---
+title: Pathology Tweets For Cytopath - 12
+author: Serdar Balci
+date: '2019-08-08'
+slug: tweetsForCytopath12
+categories:
+  - R
+  - tweets
+  - pathology
+  - Cytopath
+tags: []
+image:
+  caption: ''
+  focal_point: ''
+---
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #Cytopath pages here: https://serdarbalci.netlify.com/categories/Cytopath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
+
+{{< tweet 1158671320403652608 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1157250835618967552 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156131412736483328 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150124866185515010 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150125065108938753 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150088749591748609 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150065894648877057 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150055466115981313 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150040581134901250 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150020146326622208 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1153305053437915137 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1152232756300005376 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1149437619044065281 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1153138707546935296 >}}
+<br>
+<br>
+<hr>
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #Cytopath pages here: https://serdarbalci.netlify.com/categories/Cytopath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/

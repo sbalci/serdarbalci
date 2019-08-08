@@ -1,0 +1,38 @@
+---
+title: Pathology Tweets For ENTPath - 15
+author: Serdar Balci
+date: '2019-08-08'
+slug: tweetsForENTPath15
+categories:
+  - R
+  - tweets
+  - pathology
+  - ENTPath
+tags: []
+image:
+  caption: ''
+  focal_point: ''
+---
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #ENTPath pages here: https://serdarbalci.netlify.com/categories/ENTPath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
+
+{{< tweet 1157339814909247488 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1157331599228309505 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1152250596617064454 >}}
+<br>
+<br>
+<hr>
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #ENTPath pages here: https://serdarbalci.netlify.com/categories/ENTPath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
