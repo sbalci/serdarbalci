@@ -38,6 +38,10 @@ See other #NeuroPath pages here: https://serdarbalci.netlify.com/categories/Neur
 <br>
 <br>
 <hr>
+{{< tweet 1150510469242937350 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1154513081231298560 >}}
 <br>
 <br>

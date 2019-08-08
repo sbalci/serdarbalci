@@ -90,6 +90,10 @@ See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories
 <br>
 <br>
 <hr>
+{{< tweet 1153677971787591681 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1145111786368176130 >}}
 <br>
 <br>
