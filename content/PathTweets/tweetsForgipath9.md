@@ -16,7 +16,7 @@ image:
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #gipath pages here: https://serdarbalci.netlify.com/categories/gipath/
+See other #gipath pages here: https://serdarbalci.netlify.com/categories/gipath/See selected social media based textbook project here: http://www.patolojinotlari.com/
 
 {{< tweet 1099716199166861313 >}}
 <br>
@@ -41,4 +41,4 @@ See other #gipath pages here: https://serdarbalci.netlify.com/categories/gipath/
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #gipath pages here: https://serdarbalci.netlify.com/categories/gipath/
+See other #gipath pages here: https://serdarbalci.netlify.com/categories/gipath/See selected social media based textbook project here: http://www.patolojinotlari.com/
