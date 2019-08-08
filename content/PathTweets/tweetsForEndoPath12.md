@@ -19,10 +19,6 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EndoPath pages here: https://serdarbalci.netlify.com/categories/EndoPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1159103493304545281 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1159103087740706816 >}}
 <br>
 <br>
@@ -1163,10 +1159,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1159074771109384192 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1159133051756130305 >}}
 <br>
 <br>
@@ -2019,19 +2011,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1157400429703180289 >}}
+{{< tweet 1159107255167520769 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157399373161984000 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1157399277964079104 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1157398426767822849 >}}
+{{< tweet 1159120477207457792 >}}
 <br>
 <br>
 <hr>
@@ -4019,19 +4003,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1156144375023321089 >}}
+{{< tweet 1157386730783301632 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156144373525958656 >}}
+{{< tweet 1157448991887335426 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156144341552783362 >}}
+{{< tweet 1157423619145981953 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156144287907627009 >}}
+{{< tweet 1157148552235143172 >}}
 <br>
 <br>
 <hr>
@@ -6019,19 +6003,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1150218579444490241 >}}
+{{< tweet 1156127750605828096 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1150218461248815104 >}}
+{{< tweet 1156127747959164929 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1150218434556452869 >}}
+{{< tweet 1156127627314204672 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1150214843678547968 >}}
+{{< tweet 1156127585970995200 >}}
 <br>
 <br>
 <hr>
@@ -8016,6 +8000,22 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1153295090930073600 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1153245985885380609 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1152239197958365184 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1153051861198495750 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1153076601548156930 >}}
 <br>
 <br>
 <hr>

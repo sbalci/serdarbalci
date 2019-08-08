@@ -19,22 +19,6 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EndoPath pages here: https://serdarbalci.netlify.com/categories/EndoPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1158209807331069952 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1158921209020653568 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1158821167807049733 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1158462093559042048 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1158838319779913729 >}}
 <br>
 <br>
@@ -2019,19 +2003,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1157208163013124098 >}}
+{{< tweet 1158778082515230725 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157208051159429120 >}}
+{{< tweet 1158778012046909443 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157207891511668736 >}}
+{{< tweet 1158382909226700800 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157207554570670080 >}}
+{{< tweet 1158777872871411712 >}}
 <br>
 <br>
 <hr>
@@ -4019,19 +4003,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1155907856618512384 >}}
+{{< tweet 1157073120097792000 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155907390606204928 >}}
+{{< tweet 1157072891487358976 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155907122682462209 >}}
+{{< tweet 1157072823061364741 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155906727218466816 >}}
+{{< tweet 1157072688608792577 >}}
 <br>
 <br>
 <hr>
@@ -6019,19 +6003,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1149641708667166720 >}}
+{{< tweet 1155814168487796737 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149641656733335554 >}}
+{{< tweet 1155977583499939840 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149461435774144513 >}}
+{{< tweet 1155853691964071936 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149641386762764288 >}}
+{{< tweet 1156051540198608896 >}}
 <br>
 <br>
 <hr>
@@ -8016,6 +8000,22 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1149279012902055941 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1149278834753187840 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1149278575465361408 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1149277274971267073 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1149275715487113216 >}}
 <br>
 <br>
 <hr>
