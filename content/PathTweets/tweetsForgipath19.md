@@ -18,10 +18,6 @@ image:
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
 See other #gipath pages here: https://serdarbalci.netlify.com/categories/gipath/See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1158598755496521728 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1158352145181290496 >}}
 <br>
 <br>
@@ -55,6 +51,10 @@ See other #gipath pages here: https://serdarbalci.netlify.com/categories/gipath/
 <br>
 <hr>
 {{< tweet 1148673147777892352 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1148270714107117569 >}}
 <br>
 <br>
 <hr>

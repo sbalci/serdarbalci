@@ -50,6 +50,10 @@ See other #Autopsy pages here: https://serdarbalci.netlify.com/categories/Autops
 <br>
 <br>
 <hr>
+{{< tweet 1154456765385154561 >}}
+<br>
+<br>
+<hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.

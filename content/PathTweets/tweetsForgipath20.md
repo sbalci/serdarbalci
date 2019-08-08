@@ -30,10 +30,6 @@ See other #gipath pages here: https://serdarbalci.netlify.com/categories/gipath/
 <br>
 <br>
 <hr>
-{{< tweet 1148270714107117569 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1148224985149915136 >}}
 <br>
 <br>

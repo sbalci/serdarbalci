@@ -54,6 +54,14 @@ See other #gipath pages here: https://serdarbalci.netlify.com/categories/gipath/
 <br>
 <br>
 <hr>
+{{< tweet 1154457016007397376 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154456293765107712 >}}
+<br>
+<br>
+<hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.

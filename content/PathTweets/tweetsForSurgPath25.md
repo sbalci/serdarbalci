@@ -26,14 +26,6 @@ See other #SurgPath pages here: https://serdarbalci.netlify.com/categories/SurgP
 <br>
 <br>
 <hr>
-{{< tweet 1153951274838179840 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1152934412914450434 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1154188385835241472 >}}
 <br>
 <br>
@@ -115,10 +107,6 @@ See other #SurgPath pages here: https://serdarbalci.netlify.com/categories/SurgP
 <br>
 <hr>
 {{< tweet 1154043561991651328 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1147275965871116290 >}}
 <br>
 <br>
 <hr>
