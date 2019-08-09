@@ -19,123 +19,23 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #CardiacPath pages here: https://serdarbalci.netlify.com/categories/CardiacPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1158129757399048192 >}}
+{{< tweet 1153326503398182918 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1159191147685777409 >}}
+{{< tweet 1153726474261635072 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1120488993160925184 >}}
+{{< tweet 1153686943932256257 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1158075218612641792 >}}
+{{< tweet 1152359957335072769 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1158004326914093056 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1157971150774964224 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1157961099968417792 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1157962168245112833 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1156268152679849984 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153316614151925760 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153316162928881664 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153267013969752064 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1152333191283433473 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153260195344191496 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153244690717773824 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153223716995833856 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1151409591323807747 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153181796516782080 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153171882545278977 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153152024189403136 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153036288355983364 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153023847920222208 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1152726423259553792 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1152939964646273024 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1146034985012514816 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1146034215328370693 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1146009308850741249 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145986467824656384 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145870582296272896 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145305753105944576 >}}
+{{< tweet 1153606961872564227 >}}
 <br>
 <br>
 <hr>

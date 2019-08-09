@@ -19,47 +19,19 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #MolDx pages here: https://serdarbalci.netlify.com/categories/MolDx/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 661615748914130944 >}}
+{{< tweet 1159288505492803585 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1117031564901343233 >}}
+{{< tweet 1159172256066654209 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1159163734193004547 >}}
+{{< tweet 1159178551209472006 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1140324207051583494 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1159185780918628358 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1156937212333871105 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1159150490195812355 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1157728143337316352 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154358411317960705 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1157923214770745345 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1157758098993557507 >}}
+{{< tweet 1151946413112090624 >}}
 <br>
 <br>
 <hr>
@@ -87,10 +59,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1151796270131892225 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1151612683323695104 >}}
 <br>
 <br>
@@ -111,31 +79,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1144471220710100998 >}}
+{{< tweet 1151530040733110272 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1144427196032987136 >}}
+{{< tweet 1151512857726652418 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155721536424296453 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1155648355630010369 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1155612006164180994 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1155660215141855232 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1155623798026059778 >}}
+{{< tweet 1151503656145051649 >}}
 <br>
 <br>
 <hr>

@@ -19,11 +19,15 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #NeuroPath pages here: https://serdarbalci.netlify.com/categories/NeuroPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1147168406052823040 >}}
+{{< tweet 1155972778761129984 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147578472199610369 >}}
+{{< tweet 1155938693804281856 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154964562929573890 >}}
 <br>
 <br>
 <hr>

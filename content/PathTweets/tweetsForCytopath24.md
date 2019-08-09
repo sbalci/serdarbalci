@@ -19,103 +19,59 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #Cytopath pages here: https://serdarbalci.netlify.com/categories/Cytopath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1158014910242201603 >}}
+{{< tweet 1154841318042079232 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1158059002586107904 >}}
+{{< tweet 1155784410668654593 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155209643288944641 >}}
+{{< tweet 1155975838325542912 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156996855051497477 >}}
+{{< tweet 1155983352970637313 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1158120048395018240 >}}
+{{< tweet 1154398649390182400 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157050004500037632 >}}
+{{< tweet 1154154887623708672 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156831754034065408 >}}
+{{< tweet 1154831556852273152 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157332759981035521 >}}
+{{< tweet 1154571711679008768 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1158162656974516224 >}}
+{{< tweet 1154807628897423360 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153856910778650624 >}}
+{{< tweet 1154772929210703874 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154217902675042305 >}}
+{{< tweet 1154737805966184459 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154234027466997761 >}}
+{{< tweet 1154757557971496960 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151898927420985344 >}}
+{{< tweet 1154737913437011968 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154220654528516097 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153360524773662724 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154216587332902912 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154178844527665155 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154179652686143494 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1151475068813361153 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154099146665672704 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153476649180180480 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1146552120943898624 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1144948092078297088 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1147227083812327427 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1144715841658859520 >}}
+{{< tweet 1154708942209073152 >}}
 <br>
 <br>
 <hr>

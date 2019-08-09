@@ -19,67 +19,35 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #Cytopath pages here: https://serdarbalci.netlify.com/categories/Cytopath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1158539128063123456 >}}
+{{< tweet 1156588406106972162 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1158372246890713090 >}}
+{{< tweet 1156577518692065281 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1158369899275853830 >}}
+{{< tweet 1156578820448763906 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1158385772958904321 >}}
+{{< tweet 1156596140495781890 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156872503421263872 >}}
+{{< tweet 1156594864181710848 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156869265066250240 >}}
+{{< tweet 1146384813471031296 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155776482955935744 >}}
+{{< tweet 1145697594808721409 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156016097503543296 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1156017352233779200 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1155955339025502214 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1148774758105931776 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1148760902247649280 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1148759774206541824 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1148732141167140864 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1148719748953325569 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1148625778906664960 >}}
+{{< tweet 1146190581170868224 >}}
 <br>
 <br>
 <hr>
