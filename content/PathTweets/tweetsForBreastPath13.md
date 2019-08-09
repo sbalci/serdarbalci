@@ -43,6 +43,18 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1157366464233508864 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1153089774355243009 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1153260163471593472 >}}
+<br>
+<br>
+<hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.

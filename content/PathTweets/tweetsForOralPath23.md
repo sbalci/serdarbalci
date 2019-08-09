@@ -1,13 +1,13 @@
 ---
-title: Pathology Tweets For Autopsy - 23
+title: Pathology Tweets For OralPath - 23
 author: Serdar Balci
 date: '2019-08-09'
-slug: tweetsForAutopsy23
+slug: tweetsForOralPath23
 categories:
   - R
   - tweets
   - pathology
-  - Autopsy
+  - OralPath
 tags: []
 image:
   caption: ''
@@ -16,27 +16,15 @@ image:
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #Autopsy pages here: https://serdarbalci.netlify.com/categories/Autopsy/ 
+See other #OralPath pages here: https://serdarbalci.netlify.com/categories/OralPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1147641830550450176 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1147115382781743105 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1147540646141530112 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1147476455888228352 >}}
+{{< tweet 1154022848392044545 >}}
 <br>
 <br>
 <hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #Autopsy pages here: https://serdarbalci.netlify.com/categories/Autopsy/ 
+See other #OralPath pages here: https://serdarbalci.netlify.com/categories/OralPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/

@@ -19,14 +19,6 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #gipath pages here: https://serdarbalci.netlify.com/categories/gipath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1153750546630807553 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154128108880060416 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1153377314220195840 >}}
 <br>
 <br>
@@ -44,14 +36,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1153708412527452160 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145124690639433730 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1147157600028495874 >}}
 <br>
 <br>
 <hr>
