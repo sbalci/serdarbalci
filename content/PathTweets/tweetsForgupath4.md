@@ -19,6 +19,10 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #gupath pages here: https://serdarbalci.netlify.com/categories/gupath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
+{{< tweet 931975414670434304 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1137196896479408128 >}}
 <br>
 <br>
@@ -27,7 +31,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 880445487064772608 >}}
+<br>
+<br>
+<hr>
+{{< tweet 968826662984003584 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1157636609396936706 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1158023505792905216 >}}
 <br>
 <br>
 <hr>
@@ -55,6 +71,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1152631815301206019 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1152624267579858945 >}}
 <br>
 <br>
@@ -63,7 +83,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1145689513064325120 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1145616059610947584 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145536682113941505 >}}
 <br>
 <br>
 <hr>

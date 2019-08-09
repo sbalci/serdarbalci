@@ -39,10 +39,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1148327057656442880 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1148037441166741504 >}}
 <br>
 <br>
@@ -60,6 +56,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1148051563937705984 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1144580981367529472 >}}
 <br>
 <br>
 <hr>
