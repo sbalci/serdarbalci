@@ -19,10 +19,6 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EndoPath pages here: https://serdarbalci.netlify.com/categories/EndoPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1159222754400489472 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1159142508242309120 >}}
 <br>
 <br>
@@ -1935,10 +1931,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1159108623743606784 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1159107745745920001 >}}
 <br>
 <br>
@@ -2019,19 +2011,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1157561213288689664 >}}
+{{< tweet 1159100039202914305 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157560795443519488 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1157555155308568576 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1157554073673129984 >}}
+{{< tweet 1159098870183284736 >}}
 <br>
 <br>
 <hr>
@@ -4019,19 +4003,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1156155083769274369 >}}
+{{< tweet 1157408780017029120 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156155025380401152 >}}
+{{< tweet 1157365453087367168 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156155023174164480 >}}
+{{< tweet 1157401072689958915 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156155007726579712 >}}
+{{< tweet 1157397328472313856 >}}
 <br>
 <br>
 <hr>
@@ -6019,19 +6003,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1150651201194643456 >}}
+{{< tweet 1156142683993194497 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1150646149273071616 >}}
+{{< tweet 1156142678645465088 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1150645159190769665 >}}
+{{< tweet 1156142597624041478 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1150640537201979392 >}}
+{{< tweet 1156142578342825984 >}}
 <br>
 <br>
 <hr>
@@ -8019,19 +8003,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1154414912610996224 >}}
+{{< tweet 1150138583472324609 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154414733413486601 >}}
+{{< tweet 1150138390618071040 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154414567587532801 >}}
+{{< tweet 1150137570002657281 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154414561346367488 >}}
+{{< tweet 1150136665333104640 >}}
 <br>
 <br>
 <hr>

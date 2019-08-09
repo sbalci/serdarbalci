@@ -1,13 +1,13 @@
 ---
-title: Pathology Tweets For Cytopath - 14
+title: Pathology Tweets For PediPath - 21
 author: Serdar Balci
 date: '2019-08-09'
-slug: tweetsForCytopath14
+slug: tweetsForPediPath21
 categories:
   - R
   - tweets
   - pathology
-  - Cytopath
+  - PediPath
 tags: []
 image:
   caption: ''
@@ -16,31 +16,39 @@ image:
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #Cytopath pages here: https://serdarbalci.netlify.com/categories/Cytopath/ 
+See other #PediPath pages here: https://serdarbalci.netlify.com/categories/PediPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1159121308795338752 >}}
+{{< tweet 1158759731110060032 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1158950823679758336 >}}
+{{< tweet 1158806013744766980 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157317294567170048 >}}
+{{< tweet 1154040300370718721 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152636255945015296 >}}
+{{< tweet 1148127343833047041 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153314681496514560 >}}
+{{< tweet 1148037139218784256 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147951507612061698 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147796321098539008 >}}
 <br>
 <br>
 <hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #Cytopath pages here: https://serdarbalci.netlify.com/categories/Cytopath/ 
+See other #PediPath pages here: https://serdarbalci.netlify.com/categories/PediPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
