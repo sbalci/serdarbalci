@@ -19,95 +19,67 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #SurgPath pages here: https://serdarbalci.netlify.com/categories/SurgPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1158802466097565699 >}}
+{{< tweet 1157445479845834752 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157464496690126848 >}}
+{{< tweet 1152070685935587330 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156551536039747585 >}}
+{{< tweet 1157371487747284992 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156783263207194624 >}}
+{{< tweet 1157339093698830336 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156814566031892480 >}}
+{{< tweet 1145584117003759617 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156425210360299520 >}}
+{{< tweet 1145404386438524933 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156027842175488001 >}}
+{{< tweet 1145344999619358720 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154401194393030659 >}}
+{{< tweet 1145355148773883909 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148624583144148992 >}}
+{{< tweet 1145313335379922945 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148623375054585856 >}}
+{{< tweet 1145216361175629824 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148578709772935168 >}}
+{{< tweet 1145178686930468864 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148577432707850240 >}}
+{{< tweet 1145114633226870784 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148568391671865344 >}}
+{{< tweet 1144827834478813184 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148563466724110337 >}}
+{{< tweet 1145092327473647616 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148536353522638848 >}}
+{{< tweet 1145071103041130496 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148255031239618561 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1148516820514746368 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1148505903760576513 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1148493385281548289 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1148464073425739776 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1148423514359246849 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1148408720650637315 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1148393737191600133 >}}
+{{< tweet 1145010510779174912 >}}
 <br>
 <br>
 <hr>

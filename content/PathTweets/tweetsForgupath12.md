@@ -1,13 +1,13 @@
 ---
-title: Pathology Tweets For gupath - 12
+title: Pathology Tweets For GUPath - 12
 author: Serdar Balci
 date: '2019-08-09'
-slug: tweetsForgupath12
+slug: tweetsForGUPath12
 categories:
   - R
   - tweets
   - pathology
-  - gupath
+  - GUPath
 tags: []
 image:
   caption: ''
@@ -16,39 +16,83 @@ image:
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #gupath pages here: https://serdarbalci.netlify.com/categories/gupath/ 
+See other #GUPath pages here: https://serdarbalci.netlify.com/categories/GUPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1158815106505068545 >}}
+{{< tweet 1159857147699761153 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157386844528660481 >}}
+{{< tweet 1159859982738833408 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1150077075803594753 >}}
+{{< tweet 1159837990409166848 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1150034653417529344 >}}
+{{< tweet 1149551379075088384 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153337714063921153 >}}
+{{< tweet 1149550508379533312 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1143972395440660488 >}}
+{{< tweet 1149542931272851457 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149220711724126211 >}}
+{{< tweet 1149543069793918976 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1149547864114122752 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1149548233183518720 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1149544596558381056 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1149534465984569347 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1149543458786275328 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1149468762497699842 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1149307228274511872 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1149279012902055941 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1149053767309856773 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1149049570648891392 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1149013502725636103 >}}
 <br>
 <br>
 <hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #gupath pages here: https://serdarbalci.netlify.com/categories/gupath/ 
+See other #GUPath pages here: https://serdarbalci.netlify.com/categories/GUPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/

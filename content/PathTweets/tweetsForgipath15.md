@@ -1,13 +1,13 @@
 ---
-title: Pathology Tweets For gipath - 15
+title: Pathology Tweets For GIPath - 15
 author: Serdar Balci
 date: '2019-08-09'
-slug: tweetsForgipath15
+slug: tweetsForGIPath15
 categories:
   - R
   - tweets
   - pathology
-  - gipath
+  - GIPath
 tags: []
 image:
   caption: ''
@@ -16,59 +16,67 @@ image:
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #gipath pages here: https://serdarbalci.netlify.com/categories/gipath/ 
+See other #GIPath pages here: https://serdarbalci.netlify.com/categories/GIPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1157014710191104001 >}}
+{{< tweet 1158426976065130496 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156611895236972549 >}}
+{{< tweet 1158758160494202880 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157277939739832321 >}}
+{{< tweet 1148006946638667776 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157324698449002497 >}}
+{{< tweet 1147931289049321477 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156274258013753347 >}}
+{{< tweet 1147839040043016192 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156906876015169536 >}}
+{{< tweet 1145356432289804288 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155883587910197249 >}}
+{{< tweet 1145356433732620289 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156076822620098560 >}}
+{{< tweet 1147777480083869697 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149779387513835520 >}}
+{{< tweet 1147833375681470464 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149803355637723136 >}}
+{{< tweet 1146671864854515712 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149790019185500160 >}}
+{{< tweet 1145754941979541504 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149795070947811331 >}}
+{{< tweet 1146415997378686976 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145705561419161600 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147132318416379909 >}}
 <br>
 <br>
 <hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #gipath pages here: https://serdarbalci.netlify.com/categories/gipath/ 
+See other #GIPath pages here: https://serdarbalci.netlify.com/categories/GIPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/

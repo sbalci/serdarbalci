@@ -1,13 +1,13 @@
 ---
-title: Pathology Tweets For gipath - 8
+title: Pathology Tweets For GIPath - 8
 author: Serdar Balci
 date: '2019-08-09'
-slug: tweetsForgipath8
+slug: tweetsForGIPath8
 categories:
   - R
   - tweets
   - pathology
-  - gipath
+  - GIPath
 tags: []
 image:
   caption: ''
@@ -16,111 +16,55 @@ image:
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #gipath pages here: https://serdarbalci.netlify.com/categories/gipath/ 
+See other #GIPath pages here: https://serdarbalci.netlify.com/categories/GIPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1159042628106838017 >}}
+{{< tweet 1156610160141336576 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156668092434571283 >}}
+{{< tweet 1156597760050622469 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156203636613165056 >}}
+{{< tweet 1150837835081146368 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1150112005325565952 >}}
+{{< tweet 1151096417714409472 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149790834122002432 >}}
+{{< tweet 1150832883818520581 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1150867093639827456 >}}
+{{< tweet 1150826903974158336 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151502577055555586 >}}
+{{< tweet 1150829192050819072 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1150806090130558977 >}}
+{{< tweet 1150857953924329473 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149703843971661824 >}}
+{{< tweet 1150833424028065792 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1099716199166861313 >}}
+{{< tweet 1150833831240511488 >}}
 <br>
 <br>
 <hr>
-{{< tweet 920970368504000514 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1156761028069380096 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1151331023747203072 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1151242681915465728 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1151232115629076482 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1151231723251912705 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1151194964489101313 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1151168847015288833 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1151156164165623810 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1151153316572946434 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1155156861244416001 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1155154293126651905 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1155178520928227329 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1155158359408033793 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1155172770462031873 >}}
+{{< tweet 1151119118361382912 >}}
 <br>
 <br>
 <hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #gipath pages here: https://serdarbalci.netlify.com/categories/gipath/ 
+See other #GIPath pages here: https://serdarbalci.netlify.com/categories/GIPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/

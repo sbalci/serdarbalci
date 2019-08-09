@@ -19,119 +19,51 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #Cytopath pages here: https://serdarbalci.netlify.com/categories/Cytopath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1158284930138423296 >}}
+{{< tweet 1156050781461762048 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153847196716081152 >}}
+{{< tweet 1155906523236843520 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1158204086904340486 >}}
+{{< tweet 1155884502553698304 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1158201129043398656 >}}
+{{< tweet 1154883309954064386 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156611997187936256 >}}
+{{< tweet 1154831556852273152 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156593253304741888 >}}
+{{< tweet 1154571711679008768 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156586900272177153 >}}
+{{< tweet 1154807628897423360 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156579388860829697 >}}
+{{< tweet 1154772929210703874 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156570718458589185 >}}
+{{< tweet 1154737805966184459 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154374672731037696 >}}
+{{< tweet 1154757557971496960 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154386747268194304 >}}
+{{< tweet 1154737913437011968 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154382291273207811 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1151810088186843136 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1151447199353593856 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1151819403014615042 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1151702134091583494 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1152897003883573249 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1152906316484161537 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153622785442365441 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153311439504982016 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153687269494181888 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1152979641159864323 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1152981552286097409 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1152980605304496128 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154050530676596736 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153319119854473216 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1146086731910975494 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145127105144877057 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145674440619040768 >}}
+{{< tweet 1154708942209073152 >}}
 <br>
 <br>
 <hr>

@@ -19,55 +19,31 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #Cytopath pages here: https://serdarbalci.netlify.com/categories/Cytopath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1149321913392439296 >}}
+{{< tweet 1157250835618967552 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1158735733756182528 >}}
+{{< tweet 1157375628154482689 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156822381048020992 >}}
+{{< tweet 1145684405803016192 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156017352233779200 >}}
+{{< tweet 1145112063418740736 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155955339025502214 >}}
+{{< tweet 1145313335379922945 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154398649390182400 >}}
+{{< tweet 1145071101443076096 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154154887623708672 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153898905098215424 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1148625778906664960 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1148548348951109633 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1148187971310559235 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1148522952616480769 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1147936565819269121 >}}
+{{< tweet 1144944121037185024 >}}
 <br>
 <br>
 <hr>

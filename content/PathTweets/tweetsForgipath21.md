@@ -1,13 +1,13 @@
 ---
-title: Pathology Tweets For gipath - 21
+title: Pathology Tweets For GIPath - 21
 author: Serdar Balci
 date: '2019-08-09'
-slug: tweetsForgipath21
+slug: tweetsForGIPath21
 categories:
   - R
   - tweets
   - pathology
-  - gipath
+  - GIPath
 tags: []
 image:
   caption: ''
@@ -16,47 +16,63 @@ image:
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #gipath pages here: https://serdarbalci.netlify.com/categories/gipath/ 
+See other #GIPath pages here: https://serdarbalci.netlify.com/categories/GIPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1113276594871783425 >}}
+{{< tweet 1157285433035898882 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148335203376517121 >}}
+{{< tweet 1156693037843697664 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148301060794191873 >}}
+{{< tweet 1156586923718258688 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148188498505162752 >}}
+{{< tweet 1157284246177898498 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148037964989116416 >}}
+{{< tweet 1156926985551122433 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148204847763734528 >}}
+{{< tweet 1156667187651862534 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148006946638667776 >}}
+{{< tweet 1156565678364585984 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147935266088337409 >}}
+{{< tweet 1144659932215533569 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147931289049321477 >}}
+{{< tweet 1144492788441944064 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1144255650417041414 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155158823708925952 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155533774198902784 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155488139017891840 >}}
 <br>
 <br>
 <hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #gipath pages here: https://serdarbalci.netlify.com/categories/gipath/ 
+See other #GIPath pages here: https://serdarbalci.netlify.com/categories/GIPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/

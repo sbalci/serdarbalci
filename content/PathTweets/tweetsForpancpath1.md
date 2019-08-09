@@ -1,13 +1,13 @@
 ---
-title: Pathology Tweets For pancpath - 1
+title: Pathology Tweets For PancPath - 1
 author: Serdar Balci
 date: '2019-08-09'
-slug: tweetsForpancpath1
+slug: tweetsForPancPath1
 categories:
   - R
   - tweets
   - pathology
-  - pancpath
+  - PancPath
 tags: []
 image:
   caption: ''
@@ -16,39 +16,23 @@ image:
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #pancpath pages here: https://serdarbalci.netlify.com/categories/pancpath/ 
+See other #PancPath pages here: https://serdarbalci.netlify.com/categories/PancPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1159185760857337856 >}}
+{{< tweet 1159055969789390848 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157429121024221184 >}}
+{{< tweet 1159479374846017538 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1158091635541983232 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1158015736406839296 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153940882766348289 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1146162649589141504 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1146575970947649536 >}}
+{{< tweet 1154265372033290245 >}}
 <br>
 <br>
 <hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #pancpath pages here: https://serdarbalci.netlify.com/categories/pancpath/ 
+See other #PancPath pages here: https://serdarbalci.netlify.com/categories/PancPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/

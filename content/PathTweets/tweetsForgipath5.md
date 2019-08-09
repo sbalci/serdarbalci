@@ -1,13 +1,13 @@
 ---
-title: Pathology Tweets For gipath - 5
+title: Pathology Tweets For GIPath - 5
 author: Serdar Balci
 date: '2019-08-09'
-slug: tweetsForgipath5
+slug: tweetsForGIPath5
 categories:
   - R
   - tweets
   - pathology
-  - gipath
+  - GIPath
 tags: []
 image:
   caption: ''
@@ -16,26 +16,18 @@ image:
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #gipath pages here: https://serdarbalci.netlify.com/categories/gipath/ 
+See other #GIPath pages here: https://serdarbalci.netlify.com/categories/GIPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1057551606110150656 >}}
+{{< tweet 1157747191995412480 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1133826514200465411 >}}
+{{< tweet 1157676511073316864 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157759201223086080 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1157768282423869441 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1156218215942492160 >}}
+{{< tweet 1152875237358178305 >}}
 <br>
 <br>
 <hr>
@@ -43,16 +35,8 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1145365861865349121 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145210445550247941 >}}
-<br>
-<br>
-<hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #gipath pages here: https://serdarbalci.netlify.com/categories/gipath/ 
+See other #GIPath pages here: https://serdarbalci.netlify.com/categories/GIPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/

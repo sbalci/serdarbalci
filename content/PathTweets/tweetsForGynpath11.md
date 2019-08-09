@@ -1,13 +1,13 @@
 ---
-title: Pathology Tweets For Gynpath - 11
+title: Pathology Tweets For GynPath - 11
 author: Serdar Balci
 date: '2019-08-09'
-slug: tweetsForGynpath11
+slug: tweetsForGynPath11
 categories:
   - R
   - tweets
   - pathology
-  - Gynpath
+  - GynPath
 tags: []
 image:
   caption: ''
@@ -16,67 +16,59 @@ image:
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #Gynpath pages here: https://serdarbalci.netlify.com/categories/Gynpath/ 
+See other #GynPath pages here: https://serdarbalci.netlify.com/categories/GynPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1159252982376161280 >}}
+{{< tweet 1156968921989169152 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1159176447556276225 >}}
+{{< tweet 1155747477330546689 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1159164699122049026 >}}
+{{< tweet 1152194819076214784 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1159162510542589955 >}}
+{{< tweet 1151872965681659904 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1159124790822735872 >}}
+{{< tweet 989516190841221121 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1159120874080854016 >}}
+{{< tweet 1097585091373686784 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1159103520362192904 >}}
+{{< tweet 1121724132616560640 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157046140229050368 >}}
+{{< tweet 1149837564335001600 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157562114090971137 >}}
+{{< tweet 1149816347783835648 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1150657274106413057 >}}
+{{< tweet 1149732804311289862 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1150582193002934275 >}}
+{{< tweet 1149292016280449025 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1150540630688456704 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1150533329013432330 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1150495262055555073 >}}
+{{< tweet 1149644406212792320 >}}
 <br>
 <br>
 <hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #Gynpath pages here: https://serdarbalci.netlify.com/categories/Gynpath/ 
+See other #GynPath pages here: https://serdarbalci.netlify.com/categories/GynPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/

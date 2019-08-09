@@ -19,39 +19,35 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #MolDx pages here: https://serdarbalci.netlify.com/categories/MolDx/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1158320882571448320 >}}
+{{< tweet 1157445514582827008 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1158290400047751168 >}}
+{{< tweet 1157375601159917568 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1158735489261813760 >}}
+{{< tweet 1145331933175525377 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155940355637821440 >}}
+{{< tweet 1145523325814394880 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148623915834630145 >}}
+{{< tweet 1145345710843260928 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148574571538391041 >}}
+{{< tweet 1144925281821560832 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148521873258504197 >}}
+{{< tweet 1145149949090267137 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148508625951838209 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1148466897752612864 >}}
+{{< tweet 1145110690346295296 >}}
 <br>
 <br>
 <hr>

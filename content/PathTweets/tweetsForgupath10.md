@@ -1,13 +1,13 @@
 ---
-title: Pathology Tweets For gupath - 10
+title: Pathology Tweets For GUPath - 10
 author: Serdar Balci
 date: '2019-08-09'
-slug: tweetsForgupath10
+slug: tweetsForGUPath10
 categories:
   - R
   - tweets
   - pathology
-  - gupath
+  - GUPath
 tags: []
 image:
   caption: ''
@@ -16,51 +16,59 @@ image:
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #gupath pages here: https://serdarbalci.netlify.com/categories/gupath/ 
+See other #GUPath pages here: https://serdarbalci.netlify.com/categories/GUPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1158724561921294337 >}}
+{{< tweet 1061081380015136769 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157473666139136001 >}}
+{{< tweet 781827939688034305 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157414276849709057 >}}
+{{< tweet 1157241510074736641 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157552162991484930 >}}
+{{< tweet 736200130911559680 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157490703821393925 >}}
+{{< tweet 767263846603948033 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157527771385606144 >}}
+{{< tweet 1153190342222647296 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156168055686356993 >}}
+{{< tweet 1149220711724126211 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156158744545435650 >}}
+{{< tweet 1152287228049199105 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154737805966184459 >}}
+{{< tweet 1152945325897916416 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154708942209073152 >}}
+{{< tweet 1140991224804982784 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1153324723385851904 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1153343070076882944 >}}
 <br>
 <br>
 <hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #gupath pages here: https://serdarbalci.netlify.com/categories/gupath/ 
+See other #GUPath pages here: https://serdarbalci.netlify.com/categories/GUPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
