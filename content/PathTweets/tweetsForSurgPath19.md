@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For SurgPath - 19
 author: Serdar Balci
-date: '2019-08-08'
+date: '2019-08-09'
 slug: tweetsForSurgPath19
 categories:
   - R
@@ -71,10 +71,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1154963877420920832 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1155930537023832064 >}}
 <br>
 <br>
@@ -140,6 +136,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1148648350046011393 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1148624583144148992 >}}
 <br>
 <br>
 <hr>

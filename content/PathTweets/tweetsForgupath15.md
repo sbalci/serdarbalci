@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For gupath - 15
 author: Serdar Balci
-date: '2019-08-08'
+date: '2019-08-09'
 slug: tweetsForgupath15
 categories:
   - R

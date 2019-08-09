@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For gupath - 24
 author: Serdar Balci
-date: '2019-08-08'
+date: '2019-08-09'
 slug: tweetsForgupath24
 categories:
   - R
@@ -56,6 +56,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1154180316627685377 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1152315395711414272 >}}
 <br>
 <br>
 <hr>

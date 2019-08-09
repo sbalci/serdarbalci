@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For Autopsy - 2
 author: Serdar Balci
-date: '2019-08-08'
+date: '2019-08-09'
 slug: tweetsForAutopsy2
 categories:
   - R
@@ -28,10 +28,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1156341415158407173 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153711641659346951 >}}
 <br>
 <br>
 <hr>

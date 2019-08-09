@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For IDpath - 7
 author: Serdar Balci
-date: '2019-08-08'
+date: '2019-08-09'
 slug: tweetsForIDpath7
 categories:
   - R
@@ -107,10 +107,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1155658622938038272 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1155625302862831621 >}}
 <br>
 <br>
@@ -140,6 +136,18 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1155080083562008577 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155077162233470978 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155079948450828289 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155066022027771904 >}}
 <br>
 <br>
 <hr>

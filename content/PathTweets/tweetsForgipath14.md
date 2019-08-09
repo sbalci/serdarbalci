@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For gipath - 14
 author: Serdar Balci
-date: '2019-08-08'
+date: '2019-08-09'
 slug: tweetsForgipath14
 categories:
   - R

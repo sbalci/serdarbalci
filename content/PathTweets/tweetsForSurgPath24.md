@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For SurgPath - 24
 author: Serdar Balci
-date: '2019-08-08'
+date: '2019-08-09'
 slug: tweetsForSurgPath24
 categories:
   - R
@@ -28,54 +28,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1156537602612375552 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153971182707757062 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153635772039172097 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1152206237448040448 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1151730042554081287 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153634377676386305 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1151795934574944256 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153966753019416577 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1151482865642663936 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1152205198774820865 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1152525395918409729 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153221513568374786 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1151796988490346497 >}}
 <br>
 <br>
 <hr>
@@ -160,6 +112,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1154180748976373760 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154173230938296331 >}}
 <br>
 <br>
 <hr>
@@ -288,6 +244,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1147198434035798017 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146460766188580864 >}}
 <br>
 <br>
 <hr>

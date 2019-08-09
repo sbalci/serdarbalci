@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For BSTpath - 12
 author: Serdar Balci
-date: '2019-08-08'
+date: '2019-08-09'
 slug: tweetsForBSTpath12
 categories:
   - R
