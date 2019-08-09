@@ -19,43 +19,35 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #ENTPath pages here: https://serdarbalci.netlify.com/categories/ENTPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1146144665663619072 >}}
+{{< tweet 1145112208931733509 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146107307312537601 >}}
+{{< tweet 1145075754637701120 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146093840362811392 >}}
+{{< tweet 1145105416721960968 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146078140378177536 >}}
+{{< tweet 1145046545387143168 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146067786226999296 >}}
+{{< tweet 1144858212694315008 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146056221293592576 >}}
+{{< tweet 1144663378222354432 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146015417187442689 >}}
+{{< tweet 1156084850581000193 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146009023533031424 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145899698911420417 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145069935565123584 >}}
+{{< tweet 1155742126371692544 >}}
 <br>
 <br>
 <hr>

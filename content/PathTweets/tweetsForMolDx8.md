@@ -19,75 +19,87 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #MolDx pages here: https://serdarbalci.netlify.com/categories/MolDx/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1156641396402601986 >}}
+{{< tweet 1158648970668908545 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156633243313156097 >}}
+{{< tweet 1158647664399003649 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156598162724925446 >}}
+{{< tweet 1158637517169557505 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156598159906398208 >}}
+{{< tweet 1158565628829208583 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157569215811006464 >}}
+{{< tweet 1158455105286373376 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151019010353520641 >}}
+{{< tweet 1158453917392523264 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151032351419449344 >}}
+{{< tweet 1158407392528351233 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151103447695089665 >}}
+{{< tweet 1158357674708414464 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151121116133351430 >}}
+{{< tweet 1157911099930566658 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151462637848465410 >}}
+{{< tweet 1158332061654159360 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151479786012860421 >}}
+{{< tweet 1158331893814874112 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151464759037964290 >}}
+{{< tweet 1158320882571448320 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1150833831240511488 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1151477041138753541 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1151026580044386304 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1150977635691978752 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1150815362373623808 >}}
+{{< tweet 1158136979797630976 >}}
 <br>
 <br>
 <hr>
 {{< tweet 1150759654194110464 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150573160405905408 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150423871629221888 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150422454797553664 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150420694121025536 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150359264915070976 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150141229335584768 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150104477556494337 >}}
 <br>
 <br>
 <hr>
