@@ -19,75 +19,91 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PulmPath pages here: https://serdarbalci.netlify.com/categories/PulmPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1159850234295595009 >}}
+{{< tweet 1159264470117621766 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1159770168907698176 >}}
+{{< tweet 1159188994338512896 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1159583626989883392 >}}
+{{< tweet 1158663211585064960 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1159507213762912256 >}}
+{{< tweet 1158051405871091723 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1159464424073236482 >}}
+{{< tweet 1157726382643765248 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153751858760028161 >}}
+{{< tweet 1153032979087810565 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151483078197620736 >}}
+{{< tweet 1153943446027042819 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152981552286097409 >}}
+{{< tweet 1151477657302949889 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152980605304496128 >}}
+{{< tweet 1153318632220499970 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151884618406211584 >}}
+{{< tweet 1153747801114841088 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152026827583397889 >}}
+{{< tweet 1153726474261635072 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153909203343249409 >}}
+{{< tweet 1146886176713916417 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152451164631269377 >}}
+{{< tweet 1144645631182561281 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152292821744922625 >}}
+{{< tweet 1146835293074526210 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152928168543756288 >}}
+{{< tweet 1146803183085395968 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152370179415912448 >}}
+{{< tweet 1146495882411552768 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154205743123329024 >}}
+{{< tweet 1146789991630196737 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154164974547275782 >}}
+{{< tweet 1146756595415580672 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146749091726204928 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146705928038862848 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146686113236393984 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146670813505961984 >}}
 <br>
 <br>
 <hr>

@@ -19,11 +19,15 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #BreastPath pages here: https://serdarbalci.netlify.com/categories/BreastPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1156995695376773120 >}}
+{{< tweet 1158796665387569152 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156964316102443010 >}}
+{{< tweet 1158538170730000384 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1158783178233921536 >}}
 <br>
 <br>
 <hr>
@@ -31,19 +35,43 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1145786494704951296 >}}
+{{< tweet 1155765362820026368 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1145687276359507968 >}}
+{{< tweet 1155802813093388288 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1145648510584467456 >}}
+{{< tweet 1154104344075264004 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1145292669511512064 >}}
+{{< tweet 1156027842175488001 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1148442066017538054 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1148623753334575104 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1148606661281701888 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1148578646694797312 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1148547701077893120 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1148473809479053312 >}}
 <br>
 <br>
 <hr>

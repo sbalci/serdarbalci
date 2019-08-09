@@ -19,55 +19,111 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #Gynpath pages here: https://serdarbalci.netlify.com/categories/Gynpath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 218326609185349632 >}}
+{{< tweet 1052201065427415041 >}}
 <br>
 <br>
 <hr>
-{{< tweet 560107893446676480 >}}
+{{< tweet 1074040622904832000 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154975979980201984 >}}
+{{< tweet 918583834849042433 >}}
 <br>
 <br>
 <hr>
-{{< tweet 793379387563311104 >}}
+{{< tweet 1123121876023291904 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1159849451541999616 >}}
+{{< tweet 1040223078062665728 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156968921989169152 >}}
+{{< tweet 1159143391218819074 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152319124632195072 >}}
+{{< tweet 1157944871807795201 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153168160050307073 >}}
+{{< tweet 1158029188995125248 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153149707591409669 >}}
+{{< tweet 1158000885101924352 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153121189578936321 >}}
+{{< tweet 1157574435236433920 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153108512605495296 >}}
+{{< tweet 1157986037173407746 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153112711829475328 >}}
+{{< tweet 1158029963926396930 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1157836515390697472 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1152726423259553792 >}}
 <br>
 <br>
 <hr>
 {{< tweet 1152848782913966081 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1152701882802069505 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1152621369559007232 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1152618011339251712 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145679917885087746 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145767147202863106 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145746589862043649 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145738178013388800 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145734611017838592 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145611194683838465 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145493267158581248 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145404386438524933 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145369007584927745 >}}
 <br>
 <br>
 <hr>

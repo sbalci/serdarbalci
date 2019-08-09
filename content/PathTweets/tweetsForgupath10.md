@@ -19,63 +19,43 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #gupath pages here: https://serdarbalci.netlify.com/categories/gupath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1159011570879533056 >}}
+{{< tweet 1158724561921294337 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1159009588945018881 >}}
+{{< tweet 1157473666139136001 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148519335373283328 >}}
+{{< tweet 1157414276849709057 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1158804845228449800 >}}
+{{< tweet 1157552162991484930 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1158771784239525888 >}}
+{{< tweet 1157490703821393925 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1158747602898345990 >}}
+{{< tweet 1157527771385606144 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1158598593994997760 >}}
+{{< tweet 1156168055686356993 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1158577679181836288 >}}
+{{< tweet 1156158744545435650 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153190342222647296 >}}
+{{< tweet 1154737805966184459 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149220711724126211 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1152287228049199105 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1152945325897916416 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1140991224804982784 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153324723385851904 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153343070076882944 >}}
+{{< tweet 1154708942209073152 >}}
 <br>
 <br>
 <hr>
