@@ -1,0 +1,138 @@
+---
+title: Pathology Tweets For IDPath - 49
+author: Serdar Balci
+date: '2019-08-10'
+slug: tweetsForIDPath49
+categories:
+  - R
+  - tweets
+  - pathology
+  - IDPath
+tags: []
+image:
+  caption: ''
+  focal_point: ''
+---
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #IDPath pages here: https://serdarbalci.netlify.com/categories/IDPath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
+
+{{< tweet 1155676327443349504 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1090402771826667520 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155454542147772419 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155290763565195265 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155227848791269378 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1158571035366572033 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1158718225070395392 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1159173744801320961 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1160027190903345152 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1159136519661244416 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1159281968690991104 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1158789653098631170 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1157930616761081856 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1157414897472462848 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1159513352005136385 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1159501946325258240 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1159482420711890944 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1159456206144049154 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1159436576579096576 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1153334289049772036 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1153741569796837376 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1153732359797313538 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1152480118419275776 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1151194964489101313 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1153328611153383425 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147984180820750336 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156084850581000193 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1144229907230339073 >}}
+<br>
+<br>
+<hr>
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #IDPath pages here: https://serdarbalci.netlify.com/categories/IDPath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
