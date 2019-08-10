@@ -1,0 +1,66 @@
+---
+title: Pathology Tweets For PathTweetAward - 32
+author: Serdar Balci
+date: '2019-08-10'
+slug: tweetsForPathTweetAward32
+categories:
+  - R
+  - tweets
+  - pathology
+  - PathTweetAward
+tags: []
+image:
+  caption: ''
+  focal_point: ''
+---
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories/PathTweetAward/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
+
+{{< tweet 1159864528009457664 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1157780921405313024 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155864988042612739 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154220654528516097 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1149561483656695808 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146868117131284482 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146166285841002496 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146552120943898624 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146392436542857217 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146392241293778945 >}}
+<br>
+<br>
+<hr>
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories/PathTweetAward/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
