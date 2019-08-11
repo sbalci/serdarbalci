@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathTweetAward - 12
 author: Serdar Balci
-date: '2019-08-10'
+date: '2019-08-11'
 slug: tweetsForPathTweetAward12
 categories:
   - R
