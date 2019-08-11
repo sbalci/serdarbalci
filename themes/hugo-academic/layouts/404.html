@@ -15,7 +15,7 @@
   {{ end }}
   {{ end }}
 
-  {{ $pubs_len := len (where .Site.RegularPages "Section" "publication") }}
+<!--  {{ $pubs_len := len (where .Site.RegularPages "Section" "publication") }}
   {{ if gt $pubs_len 0 }}
   <h2>{{ i18n "publications" }}</h2>
   {{ range first 5 (where .Site.RegularPages "Section" "publication") }}
@@ -44,6 +44,8 @@
   </ul>
   {{ end }}
   {{ end }}
+
+-->
 
 </div>
 {{ partial "footer_container.html" . }}
