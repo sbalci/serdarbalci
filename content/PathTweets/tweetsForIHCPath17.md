@@ -1,13 +1,13 @@
 ---
-title: Pathology Tweets For PathArticles - 2
+title: Pathology Tweets For IHCPath - 17
 author: Serdar Balci
 date: '2019-08-12'
-slug: tweetsForPathArticles2
+slug: tweetsForIHCPath17
 categories:
   - R
   - tweets
   - pathology
-  - PathArticles
+  - IHCPath
 tags: []
 image:
   caption: ''
@@ -16,23 +16,15 @@ image:
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #PathArticles pages here: https://serdarbalci.netlify.com/categories/PathArticles/ 
+See other #IHCPath pages here: https://serdarbalci.netlify.com/categories/IHCPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1158401910120034306 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1156084522246725634 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145859632637890565 >}}
+{{< tweet 919498395064004608 >}}
 <br>
 <br>
 <hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #PathArticles pages here: https://serdarbalci.netlify.com/categories/PathArticles/ 
+See other #IHCPath pages here: https://serdarbalci.netlify.com/categories/IHCPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
