@@ -1,13 +1,13 @@
 ---
-title: Pathology Tweets For PathArticles - 5
+title: Pathology Tweets For Autopsy - 27
 author: Serdar Balci
 date: '2019-08-13'
-slug: tweetsForPathArticles5
+slug: tweetsForAutopsy27
 categories:
   - R
   - tweets
   - pathology
-  - PathArticles
+  - Autopsy
 tags: []
 image:
   caption: ''
@@ -16,23 +16,23 @@ image:
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #PathArticles pages here: https://serdarbalci.netlify.com/categories/PathArticles/ 
+See other #Autopsy pages here: https://serdarbalci.netlify.com/categories/Autopsy/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1153401393291714561 >}}
+{{< tweet 938502076614582272 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147251502467166208 >}}
+{{< tweet 1158375338864517120 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147243783475597312 >}}
+{{< tweet 1145033206170677248 >}}
 <br>
 <br>
 <hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #PathArticles pages here: https://serdarbalci.netlify.com/categories/PathArticles/ 
+See other #Autopsy pages here: https://serdarbalci.netlify.com/categories/Autopsy/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
