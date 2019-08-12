@@ -1,0 +1,50 @@
+---
+title: Pathology Tweets For IDPath - 31
+author: Serdar Balci
+date: '2019-08-12'
+slug: tweetsForIDPath31
+categories:
+  - R
+  - tweets
+  - pathology
+  - IDPath
+tags: []
+image:
+  caption: ''
+  focal_point: ''
+---
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #IDPath pages here: https://serdarbalci.netlify.com/categories/IDPath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
+
+{{< tweet 877508014198185986 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1158773762139074560 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1157976354023006208 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146657182836056065 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146566338544132096 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154698008099020800 >}}
+<br>
+<br>
+<hr>
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #IDPath pages here: https://serdarbalci.netlify.com/categories/IDPath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
