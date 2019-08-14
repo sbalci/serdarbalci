@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For Autopsy - 11
 author: Serdar Balci
-date: '2019-08-13'
+date: '2019-08-14'
 slug: tweetsForAutopsy11
 categories:
   - R

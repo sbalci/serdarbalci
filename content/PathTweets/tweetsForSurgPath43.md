@@ -1,0 +1,46 @@
+---
+title: Pathology Tweets For SurgPath - 43
+author: Serdar Balci
+date: '2019-08-14'
+slug: tweetsForSurgPath43
+categories:
+  - R
+  - tweets
+  - pathology
+  - SurgPath
+tags: []
+image:
+  caption: ''
+  focal_point: ''
+---
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #SurgPath pages here: https://serdarbalci.netlify.com/categories/SurgPath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
+
+{{< tweet 1135543815903764482 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150850100459126784 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1149691718104731648 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1149680520084828160 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1149676029755236354 >}}
+<br>
+<br>
+<hr>
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #SurgPath pages here: https://serdarbalci.netlify.com/categories/SurgPath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
