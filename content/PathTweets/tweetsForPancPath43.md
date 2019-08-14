@@ -27,19 +27,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1095498999451344896 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1133732180985651200 >}}
 <br>
 <br>
 <hr>
-{{< tweet 591681815984889857 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1155943421959217153 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154424500655677440 >}}
+{{< tweet 1156050991789293570 >}}
 <br>
 <br>
 <hr>

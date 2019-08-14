@@ -27,7 +27,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 801182593525817345 >}}
+{{< tweet 958794727771525123 >}}
 <br>
 <br>
 <hr>

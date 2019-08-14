@@ -19,11 +19,11 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #BSTPath pages here: https://serdarbalci.netlify.com/categories/BSTPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1089133867028471808 >}}
+{{< tweet 1157002664707842053 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1005715724076060672 >}}
+{{< tweet 1089133867028471808 >}}
 <br>
 <br>
 <hr>
@@ -59,23 +59,35 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 486208497218883584 >}}
-<br>
-<br>
-<hr>
-{{< tweet 486206794176286721 >}}
-<br>
-<br>
-<hr>
 {{< tweet 486203106947248128 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157860221617942529 >}}
+{{< tweet 1161374156077899777 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147472115794419713 >}}
+{{< tweet 1161361182143459329 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1160918369597566979 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1149293569645015040 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156549095508627456 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1147525674372075522 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1155648878244519938 >}}
 <br>
 <br>
 <hr>
