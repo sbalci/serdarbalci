@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For EyePath - 17
 author: Serdar Balci
-date: '2019-08-15'
+date: '2019-08-16'
 slug: tweetsForEyePath17
 categories:
   - R
@@ -19,7 +19,15 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EyePath pages here: https://serdarbalci.netlify.com/categories/EyePath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1161676835442372609 >}}
+{{< tweet 1162084244719427584 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1030068448548843520 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1029340055415021569 >}}
 <br>
 <br>
 <hr>
@@ -35,7 +43,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1015249260290412549 >}}
+{{< tweet 751067321926557696 >}}
 <br>
 <br>
 <hr>
@@ -79,6 +87,14 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1157812318249504769 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1157631092561629189 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1157087466907549696 >}}
 <br>
 <br>
@@ -111,11 +127,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1155094173994737664 >}}
+{{< tweet 1055972292289679362 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154912957911879681 >}}
+{{< tweet 1055791087774650369 >}}
 <br>
 <br>
 <hr>
@@ -143,11 +159,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1053797726956081152 >}}
+{{< tweet 979983663369564165 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1053616527096737793 >}}
+{{< tweet 979862846203838464 >}}
 <br>
 <br>
 <hr>
@@ -167,11 +183,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 978654757106561025 >}}
+{{< tweet 926721912331419648 >}}
 <br>
 <br>
 <hr>
-{{< tweet 978533948165832705 >}}
+{{< tweet 926631300693245952 >}}
 <br>
 <br>
 <hr>
@@ -195,14 +211,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 925815760584302592 >}}
-<br>
-<br>
-<hr>
-{{< tweet 925770454131884033 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1096423394801782784 >}}
 <br>
 <br>
@@ -215,6 +223,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1016734123480813568 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1014962392889987072 >}}
 <br>
 <br>
@@ -223,35 +235,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1013919870629679106 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1012503300158185472 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1011910295953002496 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1158810416258019333 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1122666718000603136 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1079060957056258048 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1078743489016283136 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1078709257934000128 >}}
+{{< tweet 1121803983230656514 >}}
 <br>
 <br>
 <hr>
@@ -263,307 +251,307 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 732931024599015424 >}}
+{{< tweet 770293727608840192 >}}
 <br>
 <br>
 <hr>
-{{< tweet 730848795009896449 >}}
+{{< tweet 768873797504143360 >}}
 <br>
 <br>
 <hr>
-{{< tweet 730847543287005187 >}}
+{{< tweet 767824181367046145 >}}
 <br>
 <br>
 <hr>
-{{< tweet 730846288611315712 >}}
+{{< tweet 766662297477668864 >}}
 <br>
 <br>
 <hr>
-{{< tweet 730489866048376833 >}}
+{{< tweet 603243046650675200 >}}
 <br>
 <br>
 <hr>
-{{< tweet 730431084287119360 >}}
+{{< tweet 603241739835543553 >}}
 <br>
 <br>
 <hr>
-{{< tweet 730428551028199424 >}}
+{{< tweet 603208995554332672 >}}
 <br>
 <br>
 <hr>
-{{< tweet 591685754948038656 >}}
+{{< tweet 601810273645830144 >}}
 <br>
 <br>
 <hr>
-{{< tweet 591269105392607232 >}}
+{{< tweet 431500257663266817 >}}
 <br>
 <br>
 <hr>
-{{< tweet 590915646009008128 >}}
+{{< tweet 431126367703293952 >}}
 <br>
 <br>
 <hr>
-{{< tweet 590911856828620800 >}}
+{{< tweet 431122578774560769 >}}
 <br>
 <br>
 <hr>
-{{< tweet 418072391869534209 >}}
+{{< tweet 430756578644729857 >}}
 <br>
 <br>
 <hr>
-{{< tweet 415516209128689664 >}}
+{{< tweet 430752942799745025 >}}
 <br>
 <br>
 <hr>
-{{< tweet 414081905621880832 >}}
+{{< tweet 430752630567366656 >}}
 <br>
 <br>
 <hr>
-{{< tweet 412984644985163777 >}}
+{{< tweet 429260547142717440 >}}
 <br>
 <br>
 <hr>
-{{< tweet 411573658138996737 >}}
+{{< tweet 1161968685436887041 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1161692732005466113 >}}
+{{< tweet 1161968027073679360 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1161693214644064256 >}}
+{{< tweet 1161959935497781248 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1161692488802983937 >}}
+{{< tweet 1161956234939031553 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1161693979110510592 >}}
+{{< tweet 1161953997994938375 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1161340895544766464 >}}
+{{< tweet 1161937701731471360 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1161336719322570754 >}}
+{{< tweet 1161514133025710080 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1161075787841331200 >}}
+{{< tweet 1161489632976150528 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1161074426554793984 >}}
+{{< tweet 1161481642512437249 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1161068442444869632 >}}
+{{< tweet 1161473968450093056 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1161064899755122690 >}}
+{{< tweet 1161473340449677313 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1161057360951021568 >}}
+{{< tweet 1161465735257849856 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1161053247857205248 >}}
+{{< tweet 1161296533234606081 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1160872810769764352 >}}
+{{< tweet 1161268712672022528 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1160543999809204224 >}}
+{{< tweet 1159281316870987777 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1159930779734032385 >}}
+{{< tweet 1160895026790117376 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1160276023495352320 >}}
+{{< tweet 1160637647922053120 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1160272161518555136 >}}
+{{< tweet 1160744475737673729 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1160269597582536705 >}}
+{{< tweet 1160174002285027330 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1160266837751259136 >}}
+{{< tweet 1158104728422629376 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1159225586717511682 >}}
+{{< tweet 1158086555623235584 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1159218224313110529 >}}
+{{< tweet 1158086235048439808 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1159213819652190208 >}}
+{{< tweet 1158039838903480326 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1159204723062267905 >}}
+{{< tweet 1159738461773021184 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1159822408586596353 >}}
+{{< tweet 1159499258992742400 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1159835014718091265 >}}
+{{< tweet 1159109684625911810 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1159839128222961666 >}}
+{{< tweet 1159320832239427584 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1159161051600080898 >}}
+{{< tweet 1158860484604571648 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157652383033364481 >}}
+{{< tweet 1158851238290739200 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1158232158819037184 >}}
+{{< tweet 1158740217869635585 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157117279869366273 >}}
+{{< tweet 1157289641042731008 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157919978080919553 >}}
+{{< tweet 1159005006198169603 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147181310563278848 >}}
+{{< tweet 1158030079445950465 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147181010423078912 >}}
+{{< tweet 1158031874746437633 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157819868449824769 >}}
+{{< tweet 1158033081783201792 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156597207581286400 >}}
+{{< tweet 1158077492021870598 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157335336797818880 >}}
+{{< tweet 1154289428594135040 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156834381778100224 >}}
+{{< tweet 1157438725594460160 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157339093698830336 >}}
+{{< tweet 1156424389329477632 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157367547940999176 >}}
+{{< tweet 1156412120847642624 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153856910778650624 >}}
+{{< tweet 1154054639228260352 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153650301603405825 >}}
+{{< tweet 1153590835688214528 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153503621650059264 >}}
+{{< tweet 1153590559002333185 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154259182008147968 >}}
+{{< tweet 1153547868508164098 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154255908026966016 >}}
+{{< tweet 1152323962451443715 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154250916222185474 >}}
+{{< tweet 1152362648681533441 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151802209195241472 >}}
+{{< tweet 1152503838366154752 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151801853899956224 >}}
+{{< tweet 1150802855034404867 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151782950066892800 >}}
+{{< tweet 1150795673438023683 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151781735522324482 >}}
+{{< tweet 1150783467325706241 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151774419360133120 >}}
+{{< tweet 1149570615956799488 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153329224402518017 >}}
+{{< tweet 1149540922926886913 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153011895730868224 >}}
+{{< tweet 1149538425625645056 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151150317976920064 >}}
+{{< tweet 1149509953012416515 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148236855357427714 >}}
+{{< tweet 1144478817899040768 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148236561525465088 >}}
+{{< tweet 1155147765510332416 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148230662429667330 >}}
+{{< tweet 1155147326719086592 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148221841925922816 >}}
+{{< tweet 1155142108686278657 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148185263308529664 >}}
+{{< tweet 1155132287152869378 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1144695304823771136 >}}
+{{< tweet 1155130479051464709 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1145730675649073153 >}}
+{{< tweet 1155095527698108417 >}}
 <br>
 <br>
 <hr>

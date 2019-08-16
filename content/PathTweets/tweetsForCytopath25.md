@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For Cytopath - 25
 author: Serdar Balci
-date: '2019-08-15'
+date: '2019-08-16'
 slug: tweetsForCytopath25
 categories:
   - R
@@ -35,7 +35,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1154018342069506048 >}}
+{{< tweet 1157355862635274240 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1149321913392439296 >}}
 <br>
 <br>
 <hr>

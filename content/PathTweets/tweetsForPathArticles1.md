@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathArticles - 1
 author: Serdar Balci
-date: '2019-08-15'
+date: '2019-08-16'
 slug: tweetsForPathArticles1
 categories:
   - R
@@ -31,47 +31,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 854914916838506496 >}}
+{{< tweet 1159184213716828162 >}}
 <br>
 <br>
 <hr>
-{{< tweet 854914719651680256 >}}
+{{< tweet 1151393271203151872 >}}
 <br>
 <br>
 <hr>
-{{< tweet 854797230460604421 >}}
-<br>
-<br>
-<hr>
-{{< tweet 854797152094232576 >}}
-<br>
-<br>
-<hr>
-{{< tweet 854704656953606145 >}}
-<br>
-<br>
-<hr>
-{{< tweet 481458068077948928 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1157271078626050048 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1157167549072592897 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1158023099251605504 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154608685517172736 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1154609492052418560 >}}
+{{< tweet 1153258428753690624 >}}
 <br>
 <br>
 <hr>
