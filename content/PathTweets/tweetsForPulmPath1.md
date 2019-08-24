@@ -19,27 +19,27 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PulmPath pages here: https://serdarbalci.netlify.com/categories/PulmPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 834551978059505664 >}}
+{{< tweet 1154580516718469130 >}}
 <br>
 <br>
 <hr>
-{{< tweet 945593968791900161 >}}
+{{< tweet 1101578157944119301 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151215131075866624 >}}
+{{< tweet 1162688605283921920 >}}
 <br>
 <br>
 <hr>
-{{< tweet 849326035443306497 >}}
+{{< tweet 1159600741616537601 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1162468780150333440 >}}
+{{< tweet 1149517112580329474 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152008595619250176 >}}
+{{< tweet 1146245602591858688 >}}
 <br>
 <br>
 <hr>

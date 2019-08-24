@@ -19,7 +19,31 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathArticles pages here: https://serdarbalci.netlify.com/categories/PathArticles/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 922252864046665738 >}}
+{{< tweet 1145689022406123521 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145455191791063040 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145377850305855488 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145356966245457921 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145355175005003776 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145099218513645568 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1145088416373071873 >}}
 <br>
 <br>
 <hr>
@@ -35,31 +59,31 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1144714165149265921 >}}
+{{< tweet 1109481018405224448 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1144634296256172037 >}}
+{{< tweet 1109137200556335106 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1144624944988352518 >}}
+{{< tweet 1109107754365378560 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1144614406749212674 >}}
+{{< tweet 1109085478743998464 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1144331493252063233 >}}
+{{< tweet 1109080314343620608 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1144298972854439936 >}}
+{{< tweet 1108909750341636097 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1144242389650792448 >}}
+{{< tweet 1108879954794549248 >}}
 <br>
 <br>
 <hr>
@@ -75,31 +99,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1108740156071133186 >}}
+{{< tweet 1074745426501361664 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1108716349394571265 >}}
+{{< tweet 1073704282099253259 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1108575959433633793 >}}
+{{< tweet 1060963652386414592 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1108429007320571904 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1108116357969657856 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1108105902828093441 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1108026055485329408 >}}
+{{< tweet 1055924636188397569 >}}
 <br>
 <br>
 <hr>
@@ -127,19 +139,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1044615423000551424 >}}
+{{< tweet 667740478444539905 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1044615057596985350 >}}
+{{< tweet 667739986419130368 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1040647068090548225 >}}
+{{< tweet 667390783335591936 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1039610604766613505 >}}
+{{< tweet 667068557520424960 >}}
 <br>
 <br>
 <hr>
@@ -167,19 +179,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 664499141779804164 >}}
+{{< tweet 555772686639828992 >}}
 <br>
 <br>
 <hr>
-{{< tweet 664199078675394560 >}}
+{{< tweet 555464458873876481 >}}
 <br>
 <br>
 <hr>
-{{< tweet 663759269913829376 >}}
+{{< tweet 555460673027985408 >}}
 <br>
 <br>
 <hr>
-{{< tweet 663754196781502466 >}}
+{{< tweet 555458299504885761 >}}
 <br>
 <br>
 <hr>
@@ -207,47 +219,51 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 553522549838327808 >}}
+{{< tweet 1165013094655041540 >}}
 <br>
 <br>
 <hr>
-{{< tweet 553228254476529664 >}}
+{{< tweet 1072560957703028737 >}}
 <br>
 <br>
 <hr>
-{{< tweet 551066697382502401 >}}
+{{< tweet 1072555716668518402 >}}
 <br>
 <br>
 <hr>
-{{< tweet 551035256342839297 >}}
+{{< tweet 1162348313783480327 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1164793821642686467 >}}
+{{< tweet 1162076406324453376 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1164796186051481602 >}}
+{{< tweet 1158334851310850050 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1161799411283795968 >}}
+{{< tweet 1150476708698607621 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1161836925994577921 >}}
+{{< tweet 1144991364746219520 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1161345904122716160 >}}
+{{< tweet 1146735405330587648 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156598162724925446 >}}
+{{< tweet 1154616927001559040 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1152488354509926400 >}}
+{{< tweet 1154608685517172736 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154609492052418560 >}}
 <br>
 <br>
 <hr>

@@ -19,6 +19,14 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EyePath pages here: https://serdarbalci.netlify.com/categories/EyePath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
+{{< tweet 1075107719802183681 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1073659628377001985 >}}
+<br>
+<br>
+<hr>
 {{< tweet 441154991257296897 >}}
 <br>
 <br>
@@ -31,11 +39,27 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1066120143963443200 >}}
+<br>
+<br>
+<hr>
+{{< tweet 989526838677417984 >}}
+<br>
+<br>
+<hr>
+{{< tweet 989285216639320064 >}}
+<br>
+<br>
+<hr>
 {{< tweet 988439547942912000 >}}
 <br>
 <br>
 <hr>
-{{< tweet 988077104221667329 >}}
+{{< tweet 931327617474609152 >}}
+<br>
+<br>
+<hr>
+{{< tweet 930799724260495360 >}}
 <br>
 <br>
 <hr>
@@ -43,27 +67,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 930662486545661952 >}}
-<br>
-<br>
-<hr>
-{{< tweet 930346645325148160 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1038130602824921088 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1159087837138051072 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1138858361506717696 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1138770952890802176 >}}
 <br>
 <br>
 <hr>
@@ -87,19 +91,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1157334580451520512 >}}
+{{< tweet 1164175629597782016 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155943421959217153 >}}
+{{< tweet 1155129287990624257 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1145987790053761024 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145986463147941889 >}}
+{{< tweet 1154418827305857024 >}}
 <br>
 <br>
 <hr>

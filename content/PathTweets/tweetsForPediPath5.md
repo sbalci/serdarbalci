@@ -19,6 +19,14 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PediPath pages here: https://serdarbalci.netlify.com/categories/PediPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
+{{< tweet 1079710877471764483 >}}
+<br>
+<br>
+<hr>
+{{< tweet 935038473198641152 >}}
+<br>
+<br>
+<hr>
 {{< tweet 935026927361957888 >}}
 <br>
 <br>
@@ -27,15 +35,27 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 906737681908019200 >}}
+<br>
+<br>
+<hr>
 {{< tweet 687004925017112576 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1158364403391184897 >}}
+{{< tweet 1161138434905432064 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1159373948137680896 >}}
+{{< tweet 1150731482115334145 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150706572223344640 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1149336213293129728 >}}
 <br>
 <br>
 <hr>
