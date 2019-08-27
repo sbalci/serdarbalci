@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For BSTPath - 35
 author: Serdar Balci
-date: '2019-08-26'
+date: '2019-08-27'
 slug: tweetsForBSTPath35
 categories:
   - R
@@ -116,6 +116,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1156272345012719618 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150457177439498241 >}}
 <br>
 <br>
 <hr>
