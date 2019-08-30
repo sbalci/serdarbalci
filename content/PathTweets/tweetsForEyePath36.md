@@ -19,95 +19,71 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EyePath pages here: https://serdarbalci.netlify.com/categories/EyePath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1045238691009114112 >}}
+{{< tweet 580540063328677888 >}}
 <br>
 <br>
 <hr>
-{{< tweet 696330256861569025 >}}
+{{< tweet 1133711484024791040 >}}
 <br>
 <br>
 <hr>
-{{< tweet 309291307732459520 >}}
+{{< tweet 1132261838433923072 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1140959832729460736 >}}
+{{< tweet 1036220410054901760 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1042019193690832896 >}}
+{{< tweet 1036039200800301056 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1041656776146411520 >}}
+{{< tweet 1035133176815833088 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1019287858924998656 >}}
+{{< tweet 964929220026687489 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1017765000776245248 >}}
+{{< tweet 992215670938112002 >}}
 <br>
 <br>
 <hr>
-{{< tweet 997880070772547585 >}}
+{{< tweet 991251429682827265 >}}
 <br>
 <br>
 <hr>
-{{< tweet 938428531033427968 >}}
+{{< tweet 988841326652411904 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1063641338657161216 >}}
+{{< tweet 904068454386470912 >}}
 <br>
 <br>
 <hr>
-{{< tweet 958100178447360002 >}}
+{{< tweet 1059485260960935937 >}}
 <br>
 <br>
 <hr>
-{{< tweet 941368358322298880 >}}
+{{< tweet 494183095784849409 >}}
 <br>
 <br>
 <hr>
-{{< tweet 525305738806427649 >}}
+{{< tweet 1161273197855199232 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1166895953346850817 >}}
+{{< tweet 1160543999809204224 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1164169785162293248 >}}
+{{< tweet 1146460280773402625 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1161301602235506688 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1160949582173335552 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1159116990247854081 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1152667654387326976 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1150402417487425536 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145420216068792320 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1146582416854671361 >}}
+{{< tweet 1155095527698108417 >}}
 <br>
 <br>
 <hr>
