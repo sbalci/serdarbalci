@@ -19,7 +19,23 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #BreastPath pages here: https://serdarbalci.netlify.com/categories/BreastPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1000037539002990592 >}}
+{{< tweet 1079892082200735744 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1050438454117617664 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1164250871930245122 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1160243891787821056 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146333044489502720 >}}
 <br>
 <br>
 <hr>

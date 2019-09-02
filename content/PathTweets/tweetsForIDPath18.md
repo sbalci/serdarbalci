@@ -19,39 +19,23 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #IDPath pages here: https://serdarbalci.netlify.com/categories/IDPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 844162029686546433 >}}
+{{< tweet 832991186126245888 >}}
 <br>
 <br>
 <hr>
-{{< tweet 693144181619998720 >}}
+{{< tweet 1167493638097711104 >}}
 <br>
 <br>
 <hr>
-{{< tweet 575320244736159744 >}}
+{{< tweet 1162546340070645760 >}}
 <br>
 <br>
 <hr>
-{{< tweet 574991822751137793 >}}
+{{< tweet 1158994966997114880 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1168154149189509120 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1167485910755229697 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1164281023699521541 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1161735552619687936 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1151588252853444608 >}}
+{{< tweet 1157367305619173377 >}}
 <br>
 <br>
 <hr>

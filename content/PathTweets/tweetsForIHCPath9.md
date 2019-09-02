@@ -19,27 +19,11 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #IHCPath pages here: https://serdarbalci.netlify.com/categories/IHCPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 834061987663458304 >}}
-<br>
-<br>
-<hr>
-{{< tweet 570944850478166017 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1154394287024562176 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1086778128184283136 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1086415695338827776 >}}
-<br>
-<br>
-<hr>
-{{< tweet 938139606226210816 >}}
+{{< tweet 1084241193523802112 >}}
 <br>
 <br>
 <hr>
@@ -55,11 +39,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1109409028315193345 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1109407403651547136 >}}
+{{< tweet 939243120318992384 >}}
 <br>
 <br>
 <hr>
@@ -75,35 +55,39 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1162381156857393153 >}}
+{{< tweet 727174608957399040 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1162070140915240966 >}}
+{{< tweet 587291723660972032 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1161294117567115264 >}}
+{{< tweet 1167273962948030464 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1161293992690102273 >}}
+{{< tweet 1162144329915408385 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1161294051045531648 >}}
+{{< tweet 1159961330322956288 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1158426976065130496 >}}
+{{< tweet 1160238378643861504 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146482504100143104 >}}
+{{< tweet 1158375876020621313 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1146482552670175233 >}}
+{{< tweet 1157712814368284678 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1152230042094714885 >}}
 <br>
 <br>
 <hr>

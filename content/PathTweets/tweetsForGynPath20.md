@@ -19,19 +19,19 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GynPath pages here: https://serdarbalci.netlify.com/categories/GynPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1057337207898492928 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1057048695609483264 >}}
-<br>
-<br>
-<hr>
 {{< tweet 440888851733569536 >}}
 <br>
 <br>
 <hr>
+{{< tweet 440885134447751168 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1163997195915288576 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1063339858460987392 >}}
 <br>
 <br>
 <hr>
@@ -47,31 +47,23 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1044679601807659008 >}}
+{{< tweet 1167644128542429186 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1162671496856252417 >}}
+{{< tweet 1168200376044199937 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1165733068201582597 >}}
+{{< tweet 1162495530049556480 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1166196146923962369 >}}
+{{< tweet 1158811095664091137 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1160128610658738177 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1158035718410629121 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1148325571706937346 >}}
+{{< tweet 1153319523392450561 >}}
 <br>
 <br>
 <hr>
