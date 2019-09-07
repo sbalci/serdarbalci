@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PediPath - 4
 author: Serdar Balci
-date: '2019-09-06'
+date: '2019-09-07'
 slug: tweetsForPediPath4
 categories:
   - R

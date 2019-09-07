@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathArticles - 34
 author: Serdar Balci
-date: '2019-09-06'
+date: '2019-09-07'
 slug: tweetsForPathArticles34
 categories:
   - R
