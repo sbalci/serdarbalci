@@ -19,43 +19,43 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #ECPNice pages here: https://serdarbalci.netlify.com/categories/ECPNice/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1171429958834515969 >}}
+{{< tweet 1171369725059883013 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1171679637753270272 >}}
+{{< tweet 1171370648377200642 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1171698305761533952 >}}
+{{< tweet 1171700866132393984 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1170978954800447488 >}}
+{{< tweet 1170999278292164608 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1171058101866381312 >}}
+{{< tweet 1171055021468868608 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1170987953822359553 >}}
+{{< tweet 1171360519888015360 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1171062348481802240 >}}
+{{< tweet 1171700832871571456 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1170950923981598720 >}}
+{{< tweet 1171096678897790976 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1171790082166202369 >}}
+{{< tweet 1171815068029374465 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1171322124943990784 >}}
+{{< tweet 1170391684292759553 >}}
 <br>
 <br>
 <hr>
