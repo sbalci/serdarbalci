@@ -310,7 +310,6 @@ enableGitInfo = true
   url = "#PathTweets"
   weight = 3
 
-
 # [[menu.main]]
 #  name = "Projects"
 #  url = "#projects"
