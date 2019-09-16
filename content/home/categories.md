@@ -1,6 +1,6 @@
 +++
 # Tag Cloud widget.
-widget = "tag_cloud"
+widget = "category_cloud"
 active = true
 date = 2017-09-20T00:00:00
 
