@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For SurgPath - 2
 author: Serdar Balci
-date: '2019-09-17'
+date: '2019-09-20'
 slug: tweetsForSurgPath2
 categories:
   - R
