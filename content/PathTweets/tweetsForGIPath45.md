@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For GIPath - 45
 author: Serdar Balci
-date: '2019-09-25'
+date: '2019-09-26'
 slug: tweetsForGIPath45
 categories:
   - R
@@ -19,19 +19,11 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GIPath pages here: https://serdarbalci.netlify.com/categories/GIPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1171452169486135305 >}}
+{{< tweet 1177044456756973569 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1171452160409624576 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1171450892127653890 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1173176272916295680 >}}
+{{< tweet 1171802752927899648 >}}
 <br>
 <br>
 <hr>
