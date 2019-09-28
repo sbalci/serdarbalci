@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For Cytopath - 49
 author: Serdar Balci
-date: '2019-09-27'
+date: '2019-09-28'
 slug: tweetsForCytopath49
 categories:
   - R
@@ -19,23 +19,7 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #Cytopath pages here: https://serdarbalci.netlify.com/categories/Cytopath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1177651179196764160 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1169910351137099777 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1169910226201350144 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1169909995468550144 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1107073693878935552 >}}
+{{< tweet 1168351943909134337 >}}
 <br>
 <br>
 <hr>
@@ -43,19 +27,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 948106061747068928 >}}
-<br>
-<br>
-<hr>
-{{< tweet 947743613999398912 >}}
-<br>
-<br>
-<hr>
 {{< tweet 975873036028006400 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1052303330972786695 >}}
+{{< tweet 1148371592734527488 >}}
 <br>
 <br>
 <hr>
@@ -71,7 +47,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1170637561741623296 >}}
+{{< tweet 1050897263092887553 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1164872900131852288 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1173113569275023360 >}}
 <br>
 <br>
 <hr>

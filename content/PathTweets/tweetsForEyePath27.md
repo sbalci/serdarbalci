@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For EyePath - 27
 author: Serdar Balci
-date: '2019-09-27'
+date: '2019-09-28'
 slug: tweetsForEyePath27
 categories:
   - R
@@ -19,7 +19,11 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EyePath pages here: https://serdarbalci.netlify.com/categories/EyePath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 309119077740326912 >}}
+{{< tweet 1171452725520818176 >}}
+<br>
+<br>
+<hr>
+{{< tweet 601858700261883907 >}}
 <br>
 <br>
 <hr>
@@ -31,23 +35,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1049992357670580226 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1049629955628269569 >}}
+{{< tweet 1148026989695000576 >}}
 <br>
 <br>
 <hr>
 {{< tweet 1048723912186462208 >}}
-<br>
-<br>
-<hr>
-{{< tweet 976480174723055616 >}}
-<br>
-<br>
-<hr>
-{{< tweet 976238551909130240 >}}
 <br>
 <br>
 <hr>
@@ -56,6 +48,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 924501785754025984 >}}
+<br>
+<br>
+<hr>
+{{< tweet 924139283450970112 >}}
 <br>
 <br>
 <hr>
@@ -71,6 +67,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1026030469580840966 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1158810416258019333 >}}
 <br>
 <br>
@@ -79,11 +79,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 687003663458537472 >}}
+{{< tweet 1174589861606510598 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1173954684111007744 >}}
+{{< tweet 1173718596222164993 >}}
 <br>
 <br>
 <hr>
