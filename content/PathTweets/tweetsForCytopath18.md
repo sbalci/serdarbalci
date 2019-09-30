@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For Cytopath - 18
 author: Serdar Balci
-date: '2019-09-30'
+date: '2019-10-01'
 slug: tweetsForCytopath18
 categories:
   - R
@@ -19,15 +19,19 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #Cytopath pages here: https://serdarbalci.netlify.com/categories/Cytopath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1052595295547248640 >}}
+{{< tweet 1129669064865984512 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1164872900131852288 >}}
+{{< tweet 1129543727863685120 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1173113569275023360 >}}
+{{< tweet 930692065452752897 >}}
+<br>
+<br>
+<hr>
+{{< tweet 926357816591478785 >}}
 <br>
 <br>
 <hr>

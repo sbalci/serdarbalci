@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathEdu - 5
 author: Serdar Balci
-date: '2019-09-30'
+date: '2019-10-01'
 slug: tweetsForPathEdu5
 categories:
   - R
@@ -19,67 +19,67 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathEdu pages here: https://serdarbalci.netlify.com/categories/PathEdu/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1178479178661842944 >}}
+{{< tweet 1176091845203562496 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1178457074008760320 >}}
+{{< tweet 708862264783208449 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1178437551885094914 >}}
+{{< tweet 439066386573574144 >}}
 <br>
 <br>
 <hr>
-{{< tweet 512963454526038016 >}}
+{{< tweet 439053536346013696 >}}
 <br>
 <br>
 <hr>
-{{< tweet 973118538465579008 >}}
+{{< tweet 1110625446532706307 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1137802884412792832 >}}
+{{< tweet 1109651046081667074 >}}
 <br>
 <br>
 <hr>
-{{< tweet 968045521310019584 >}}
+{{< tweet 1083097546321526786 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1172508773795028994 >}}
+{{< tweet 1126559555448594432 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1135988566683611137 >}}
+{{< tweet 840191286502162432 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1177393144272424961 >}}
+{{< tweet 695685068359081985 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1177221700129296384 >}}
+{{< tweet 1172162854994108417 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1176564127206137857 >}}
+{{< tweet 1172161325281075202 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1175829938202644481 >}}
+{{< tweet 1171038053638520833 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1175828316739293186 >}}
+{{< tweet 1174036551270985728 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1174216862353244160 >}}
+{{< tweet 1173895507317612544 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1174216802521554944 >}}
+{{< tweet 1173967384270577664 >}}
 <br>
 <br>
 <hr>
