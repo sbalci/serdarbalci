@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For BreastPath - 42
 author: Serdar Balci
-date: '2019-10-08'
+date: '2019-10-09'
 slug: tweetsForBreastPath42
 categories:
   - R
@@ -19,19 +19,11 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #BreastPath pages here: https://serdarbalci.netlify.com/categories/BreastPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 309663269734469632 >}}
+{{< tweet 925226768528654336 >}}
 <br>
 <br>
 <hr>
-{{< tweet 309294670092062721 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1158174751119904768 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1157087466907549696 >}}
+{{< tweet 1040968236571996162 >}}
 <br>
 <br>
 <hr>
