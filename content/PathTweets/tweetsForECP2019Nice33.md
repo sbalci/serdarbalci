@@ -19,7 +19,11 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #ECPNice pages here: https://serdarbalci.netlify.com/categories/ECPNice/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1170967446053949440 >}}
+{{< tweet 1171005795720400896 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1171016447734231040 >}}
 <br>
 <br>
 <hr>
