@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For EyePath - 16
 author: Serdar Balci
-date: '2019-10-12'
+date: '2019-10-13'
 slug: tweetsForEyePath16
 categories:
   - R
@@ -19,71 +19,83 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EyePath pages here: https://serdarbalci.netlify.com/categories/EyePath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1012586765532610560 >}}
+{{< tweet 1177949211825819648 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1012170281777967105 >}}
+{{< tweet 579634653918793729 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1012167889674067968 >}}
+{{< tweet 1032526237846007808 >}}
 <br>
 <br>
 <hr>
-{{< tweet 944935597679849477 >}}
+{{< tweet 1032520811800715265 >}}
 <br>
 <br>
 <hr>
-{{< tweet 944754365113425920 >}}
+{{< tweet 959009481936977923 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1166685570669666305 >}}
+{{< tweet 958888664750202880 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1121419791154188290 >}}
+{{< tweet 958767851506036736 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1161758305133518848 >}}
+{{< tweet 920190219973832704 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1160982965922476033 >}}
+{{< tweet 912659456500039680 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149260703393636352 >}}
+{{< tweet 1065937635217104896 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1181466227941810177 >}}
+{{< tweet 1115250300951113729 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1181414446821851136 >}}
+{{< tweet 1176271703623622657 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1177999932139167745 >}}
+{{< tweet 1104067217283411969 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1174518105273446400 >}}
+{{< tweet 603208995554332672 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1174230057533005825 >}}
+{{< tweet 1180500933932994560 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1174230062117335040 >}}
+{{< tweet 1176135648148959232 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1174230065443422209 >}}
+{{< tweet 1176136768762126336 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1176790657744035841 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1176023025893937153 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1176014568373440513 >}}
 <br>
 <br>
 <hr>

@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathEdu - 1
 author: Serdar Balci
-date: '2019-10-12'
+date: '2019-10-13'
 slug: tweetsForPathEdu1
 categories:
   - R
@@ -19,79 +19,75 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathEdu pages here: https://serdarbalci.netlify.com/categories/PathEdu/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1182512070002130944 >}}
+{{< tweet 309114029140492290 >}}
 <br>
 <br>
 <hr>
-{{< tweet 649657668060078080 >}}
+{{< tweet 1108384566425911296 >}}
 <br>
 <br>
 <hr>
-{{< tweet 920824773810184192 >}}
+{{< tweet 1104055876229447680 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1025817829931732994 >}}
+{{< tweet 1103269000912531456 >}}
 <br>
 <br>
 <hr>
-{{< tweet 945339819651104768 >}}
+{{< tweet 1149036069398155265 >}}
 <br>
 <br>
 <hr>
-{{< tweet 945339008246337537 >}}
+{{< tweet 1146129063599312904 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1122967598801485824 >}}
+{{< tweet 1145742217698578432 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1122889279452192771 >}}
+{{< tweet 1152288442920755200 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1122850531133874177 >}}
+{{< tweet 1116364422086180864 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1179399049675497477 >}}
+{{< tweet 634039722961190912 >}}
 <br>
 <br>
 <hr>
-{{< tweet 439505183374983168 >}}
+{{< tweet 1182182221765058560 >}}
 <br>
 <br>
 <hr>
-{{< tweet 439472701045219328 >}}
+{{< tweet 1180677222912446464 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1181250563775909888 >}}
+{{< tweet 1178775570940907520 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1178423406284460039 >}}
+{{< tweet 1177598810635276292 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1175604938128396288 >}}
+{{< tweet 1177594995647365120 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1174569691752411136 >}}
+{{< tweet 1175460960368287747 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1174028984214052864 >}}
+{{< tweet 1172585380643840001 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1172470352292638720 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1172738158708035585 >}}
+{{< tweet 1172197383192682497 >}}
 <br>
 <br>
 <hr>

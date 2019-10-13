@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathEdu - 33
 author: Serdar Balci
-date: '2019-10-12'
+date: '2019-10-13'
 slug: tweetsForPathEdu33
 categories:
   - R
@@ -19,75 +19,79 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathEdu pages here: https://serdarbalci.netlify.com/categories/PathEdu/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 440489663543775233 >}}
+{{< tweet 781243113817968642 >}}
 <br>
 <br>
 <hr>
-{{< tweet 440311576684273664 >}}
+{{< tweet 781237668101386240 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1114884829521248256 >}}
+{{< tweet 512963454526038016 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156366980938641409 >}}
+{{< tweet 512556690961879040 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155840151513391104 >}}
+{{< tweet 999556150453514241 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156942831547609088 >}}
+{{< tweet 991739367587831809 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1120033051130490880 >}}
+{{< tweet 989023263304056832 >}}
 <br>
 <br>
 <hr>
-{{< tweet 647076833536679936 >}}
+{{< tweet 1151129323954417664 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1182304189462044673 >}}
+{{< tweet 1149409360541564931 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1181028511974187008 >}}
+{{< tweet 1138833810903224320 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1179975793079799809 >}}
+{{< tweet 1175805022225018881 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1175399744979578880 >}}
+{{< tweet 1083404617025810433 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1177177697438633987 >}}
+{{< tweet 1083073678294822912 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1177168487229382656 >}}
+{{< tweet 1083059329706663937 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1177161170790363136 >}}
+{{< tweet 1163933001006235648 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1176927232373264384 >}}
+{{< tweet 571383593697746944 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1174378555465187332 >}}
+{{< tweet 1176519899423944705 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1172818922661220352 >}}
+{{< tweet 1148936645875503104 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1172419858371244032 >}}
 <br>
 <br>
 <hr>

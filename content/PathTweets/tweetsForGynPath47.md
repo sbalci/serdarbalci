@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For GynPath - 47
 author: Serdar Balci
-date: '2019-10-12'
+date: '2019-10-13'
 slug: tweetsForGynPath47
 categories:
   - R
@@ -19,35 +19,67 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GynPath pages here: https://serdarbalci.netlify.com/categories/GynPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 580072464077754369 >}}
+{{< tweet 975986324317528064 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1139691341351231488 >}}
+{{< tweet 975985626486108160 >}}
 <br>
 <br>
 <hr>
-{{< tweet 968415904781320192 >}}
+{{< tweet 975838399461433346 >}}
 <br>
 <br>
 <hr>
-{{< tweet 922373455705645056 >}}
+{{< tweet 708887160477188096 >}}
 <br>
 <br>
 <hr>
-{{< tweet 922372628555251712 >}}
+{{< tweet 708880809252429824 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1178606910121136129 >}}
+{{< tweet 708878027942277121 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1175855906036297729 >}}
+{{< tweet 1063339858460987392 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1173851951613849600 >}}
+{{< tweet 985781644811366400 >}}
+<br>
+<br>
+<hr>
+{{< tweet 985177583133147137 >}}
+<br>
+<br>
+<hr>
+{{< tweet 929531147758968832 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1049825671395123200 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1049823722037829632 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1049817678611959809 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1049816148554977287 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1175696586191646720 >}}
+<br>
+<br>
+<hr>
+{{< tweet 929506888634466304 >}}
 <br>
 <br>
 <hr>
