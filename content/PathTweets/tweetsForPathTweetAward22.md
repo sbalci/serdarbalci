@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathTweetAward - 22
 author: Serdar Balci
-date: '2019-10-16'
+date: '2019-10-18'
 slug: tweetsForPathTweetAward22
 categories:
   - R
@@ -19,39 +19,47 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories/PathTweetAward/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1155629344745807873 >}}
+{{< tweet 1174873151118991360 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1138560541264359424 >}}
+{{< tweet 1176524511799402500 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1175805022225018881 >}}
+{{< tweet 1060324194007674880 >}}
 <br>
 <br>
 <hr>
-{{< tweet 689516449283579905 >}}
+{{< tweet 1060249236418256897 >}}
 <br>
 <br>
 <hr>
-{{< tweet 570318126996426753 >}}
+{{< tweet 735861903126372353 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1178926377942372352 >}}
+{{< tweet 1181448951842652160 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1178893343004098562 >}}
+{{< tweet 1181331179573784578 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1178675053485084672 >}}
+{{< tweet 1180121496376795138 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1173244985266688000 >}}
+{{< tweet 1180159446414180352 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1176690698453753857 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1177125287156473856 >}}
 <br>
 <br>
 <hr>
