@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For EyePath - 10
 author: Serdar Balci
-date: '2019-10-25'
+date: '2019-10-26'
 slug: tweetsForEyePath10
 categories:
   - R
@@ -19,79 +19,91 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EyePath pages here: https://serdarbalci.netlify.com/categories/EyePath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1185214987465379840 >}}
+{{< tweet 1188156431482216448 >}}
 <br>
 <br>
 <hr>
-{{< tweet 579634653918793729 >}}
+{{< tweet 1177398891186130944 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1138966511878492160 >}}
+{{< tweet 1118489934392741889 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1040569523173126145 >}}
+{{< tweet 1117402677992775680 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1040388304808685570 >}}
+{{< tweet 1117221465571487744 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1038757396858851329 >}}
+{{< tweet 1026978604226232320 >}}
 <br>
 <br>
 <hr>
-{{< tweet 922145460164239362 >}}
+{{< tweet 954539417246380032 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1019287858924998656 >}}
+{{< tweet 919807241548468224 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1017765000776245248 >}}
+{{< tweet 904068454386470912 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1138089699552169987 >}}
+{{< tweet 1063641338657161216 >}}
 <br>
 <br>
 <hr>
-{{< tweet 445660946720378880 >}}
+{{< tweet 420678329562562560 >}}
 <br>
 <br>
 <hr>
-{{< tweet 443104070182895616 >}}
+{{< tweet 418790223808823296 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1183447056116932608 >}}
+{{< tweet 1185287442762555393 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1179604930656522240 >}}
+{{< tweet 1183862940790738944 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1178167769533222912 >}}
+{{< tweet 1184163148011593728 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1176493565553324032 >}}
+{{< tweet 1182469333152342019 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1176491182928605185 >}}
+{{< tweet 1182191563184771072 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1176485837267243008 >}}
+{{< tweet 1181781445972508672 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1174782636256088064 >}}
+{{< tweet 1178497195080736769 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1178437551885094914 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1174078383317291008 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1172797364870025216 >}}
 <br>
 <br>
 <hr>

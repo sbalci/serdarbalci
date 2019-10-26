@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For EyePath - 43
 author: Serdar Balci
-date: '2019-10-25'
+date: '2019-10-26'
 slug: tweetsForEyePath43
 categories:
   - R
@@ -19,51 +19,95 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EyePath pages here: https://serdarbalci.netlify.com/categories/EyePath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1115615020027666432 >}}
+{{< tweet 895218221166604288 >}}
 <br>
 <br>
 <hr>
-{{< tweet 961606811437715456 >}}
+{{< tweet 1154369323638509568 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1171426192399859712 >}}
+{{< tweet 1153463294243381248 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1170257706281652225 >}}
+{{< tweet 1153282085655699457 >}}
 <br>
 <br>
 <hr>
-{{< tweet 993755363118743552 >}}
+{{< tweet 1052891721925705728 >}}
 <br>
 <br>
 <hr>
-{{< tweet 933518122052550656 >}}
+{{< tweet 1051442040104411136 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1128453821557104645 >}}
+{{< tweet 978443350939394048 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1179530955175931906 >}}
+{{< tweet 978171535968972800 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1179412782229446657 >}}
+{{< tweet 925634535856906241 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1178376589886705664 >}}
+{{< tweet 925543929520386050 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1172163357777879040 >}}
+{{< tweet 1095099812431777793 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1174809138909630464 >}}
+{{< tweet 1103285853894467584 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154087856958316546 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1118668223631638528 >}}
+<br>
+<br>
+<hr>
+{{< tweet 874268878347567104 >}}
+<br>
+<br>
+<hr>
+{{< tweet 874267608693997568 >}}
+<br>
+<br>
+<hr>
+{{< tweet 489443213875625984 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1184864142638731264 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1184525413365833731 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1182355363049304066 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1181216379288076288 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1177744673034637312 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1177593767550959619 >}}
 <br>
 <br>
 <hr>
