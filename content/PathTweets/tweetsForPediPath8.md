@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PediPath - 8
 author: Serdar Balci
-date: '2019-10-28'
+date: '2019-11-02'
 slug: tweetsForPediPath8
 categories:
   - R
@@ -19,43 +19,35 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PediPath pages here: https://serdarbalci.netlify.com/categories/PediPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 989516190841221121 >}}
+{{< tweet 1181647030508249088 >}}
 <br>
 <br>
 <hr>
-{{< tweet 920891869898227712 >}}
+{{< tweet 1179718664750342145 >}}
 <br>
 <br>
 <hr>
-{{< tweet 438067202433236992 >}}
+{{< tweet 1179716928912416769 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1184956233251545090 >}}
+{{< tweet 1176862552942268416 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1183699158642741255 >}}
+{{< tweet 1175403617957949440 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1181727765252280320 >}}
+{{< tweet 1175436033443414017 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1181637757627764738 >}}
+{{< tweet 1175395306286002176 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1180114117547286529 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1179409969462030341 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1177540917726720005 >}}
+{{< tweet 1171062348481802240 >}}
 <br>
 <br>
 <hr>
