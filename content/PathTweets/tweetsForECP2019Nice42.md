@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For ECPNice - 201942
 author: Serdar Balci
-date: '2019-11-08'
+date: '2019-11-09'
 slug: tweetsForECP2019Nice42
 categories:
   - R
@@ -19,39 +19,27 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #ECPNice pages here: https://serdarbalci.netlify.com/categories/ECPNice/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1170391684292759553 >}}
+{{< tweet 1171190164011593728 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1170386173191217152 >}}
+{{< tweet 1171363150060503040 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1170387073179824128 >}}
+{{< tweet 1171326219905916928 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1170416520033394689 >}}
+{{< tweet 1171326027659993088 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1170400760124887046 >}}
+{{< tweet 1171082388820176896 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1170377058742145024 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1169767096772898823 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1170069570129924096 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1169859038865055757 >}}
+{{< tweet 1171056417035436034 >}}
 <br>
 <br>
 <hr>
