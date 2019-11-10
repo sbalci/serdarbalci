@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For NeuroPath - 34
 author: Serdar Balci
-date: '2019-11-09'
+date: '2019-11-10'
 slug: tweetsForNeuroPath34
 categories:
   - R
@@ -23,11 +23,23 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1177042051885481985 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1177023901932511232 >}}
+<br>
+<br>
+<hr>
 {{< tweet 998829436370763777 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1182393772128309249 >}}
+{{< tweet 1192882196614303744 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1188083505747636230 >}}
 <br>
 <br>
 <hr>
