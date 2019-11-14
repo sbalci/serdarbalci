@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For GynPath - 33
 author: Serdar Balci
-date: '2019-11-13'
+date: '2019-11-14'
 slug: tweetsForGynPath33
 categories:
   - R
@@ -19,23 +19,15 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GynPath pages here: https://serdarbalci.netlify.com/categories/GynPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 440885134447751168 >}}
+{{< tweet 1191251977830711297 >}}
 <br>
 <br>
 <hr>
-{{< tweet 440883229428445184 >}}
+{{< tweet 1190527198995697667 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1193969889007919106 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1094932620167700481 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1094207783694548992 >}}
+{{< tweet 1190345983965577217 >}}
 <br>
 <br>
 <hr>
@@ -43,15 +35,23 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1009460946035621889 >}}
+{{< tweet 1092351480009437184 >}}
 <br>
 <br>
 <hr>
-{{< tweet 943032761870200832 >}}
+{{< tweet 1007286297281495045 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1050343403177828352 >}}
+{{< tweet 942036051354251265 >}}
+<br>
+<br>
+<hr>
+{{< tweet 941401779174068226 >}}
+<br>
+<br>
+<hr>
+{{< tweet 941129943219560448 >}}
 <br>
 <br>
 <hr>
@@ -63,39 +63,23 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1192853268944306176 >}}
+{{< tweet 1192656670167621632 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1192601524305723392 >}}
+{{< tweet 1185982580816076801 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1191408874005389314 >}}
+{{< tweet 1184313055611478016 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1189355591094943744 >}}
+{{< tweet 1176142055682248705 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1185621132013199361 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1184019843571507200 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1181173713502445569 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1176501821659111424 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1176501427088367616 >}}
+{{< tweet 1177880733165248512 >}}
 <br>
 <br>
 <hr>

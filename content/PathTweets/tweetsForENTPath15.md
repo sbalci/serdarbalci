@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For ENTPath - 15
 author: Serdar Balci
-date: '2019-11-13'
+date: '2019-11-14'
 slug: tweetsForENTPath15
 categories:
   - R
@@ -19,35 +19,27 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #ENTPath pages here: https://serdarbalci.netlify.com/categories/ENTPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 838287633822466048 >}}
+{{< tweet 1129661571750191104 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1130449759196463104 >}}
+{{< tweet 1128505521953050624 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1033502236326821888 >}}
+{{< tweet 1032825411590189057 >}}
 <br>
 <br>
 <hr>
-{{< tweet 963600283078049794 >}}
+{{< tweet 962512991898894336 >}}
 <br>
 <br>
 <hr>
-{{< tweet 963479463609511937 >}}
+{{< tweet 962392178617036800 >}}
 <br>
 <br>
 <hr>
-{{< tweet 920883799608606720 >}}
-<br>
-<br>
-<hr>
-{{< tweet 920883125470638081 >}}
-<br>
-<br>
-<hr>
-{{< tweet 993274767846322176 >}}
+{{< tweet 920710610496524289 >}}
 <br>
 <br>
 <hr>
@@ -55,11 +47,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 985560920658268160 >}}
+{{< tweet 992215670938112002 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1088948072422522881 >}}
+{{< tweet 985560920658268160 >}}
 <br>
 <br>
 <hr>
@@ -67,23 +59,35 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1192941536834666496 >}}
+{{< tweet 1087676136761511936 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1192727262900228096 >}}
+{{< tweet 1181964111170670592 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1183738379260911616 >}}
+{{< tweet 1184173306666213376 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1176493565553324032 >}}
+{{< tweet 1178711216572661760 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1174389829217509378 >}}
+{{< tweet 1177482810409357313 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1177443435101347840 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1172241626074406913 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1174797088489689088 >}}
 <br>
 <br>
 <hr>

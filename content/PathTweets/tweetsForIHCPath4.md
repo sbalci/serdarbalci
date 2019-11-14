@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For IHCPath - 4
 author: Serdar Balci
-date: '2019-11-13'
+date: '2019-11-14'
 slug: tweetsForIHCPath4
 categories:
   - R
@@ -19,39 +19,35 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #IHCPath pages here: https://serdarbalci.netlify.com/categories/IHCPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 890537798939357184 >}}
+{{< tweet 1152557238034161664 >}}
 <br>
 <br>
 <hr>
-{{< tweet 580029523783217152 >}}
+{{< tweet 1152194819076214784 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1155094173994737664 >}}
+{{< tweet 1151288769271623680 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1153644497550495744 >}}
+{{< tweet 1051260838596632577 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1053072931113160705 >}}
+{{< tweet 1051079622077501440 >}}
 <br>
 <br>
 <hr>
-{{< tweet 978533948165832705 >}}
+{{< tweet 1050898405256392704 >}}
 <br>
 <br>
 <hr>
-{{< tweet 925906387565080576 >}}
+{{< tweet 977809091975196672 >}}
 <br>
 <br>
 <hr>
-{{< tweet 925861068483653632 >}}
-<br>
-<br>
-<hr>
-{{< tweet 925498619884486656 >}}
+{{< tweet 924954903952232448 >}}
 <br>
 <br>
 <hr>
@@ -67,7 +63,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 864854366179774464 >}}
+{{< tweet 1105053821611331584 >}}
 <br>
 <br>
 <hr>
@@ -79,31 +75,55 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1186602156679290881 >}}
+{{< tweet 481459556225384448 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1181204090644258816 >}}
+{{< tweet 481458068077948928 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1180495548387774464 >}}
+{{< tweet 1193140939448934400 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1171700815461007360 >}}
+{{< tweet 1192503365940310021 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1171679651628027905 >}}
+{{< tweet 1192094645142077441 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1171700823560261638 >}}
+{{< tweet 309378086187724800 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1171672866116579328 >}}
+{{< tweet 1190315428972679168 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1187275430879027200 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1185948828811309056 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1175316176152317952 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1174592556635742208 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1173594660448559109 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1083463970193760256 >}}
 <br>
 <br>
 <hr>

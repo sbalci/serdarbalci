@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For CardiacPath - 50
 author: Serdar Balci
-date: '2019-11-13'
+date: '2019-11-14'
 slug: tweetsForCardiacPath50
 categories:
   - R
@@ -27,19 +27,27 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 897138283163123714 >}}
-<br>
-<br>
-<hr>
 {{< tweet 893193531581444098 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1185959611993448448 >}}
+{{< tweet 1191621073923690496 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1177974886276448257 >}}
+{{< tweet 1190931365853908992 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1188142245985312775 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1178690986173718529 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1173895684988293120 >}}
 <br>
 <br>
 <hr>

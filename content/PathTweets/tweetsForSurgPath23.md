@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For SurgPath - 23
 author: Serdar Balci
-date: '2019-11-13'
+date: '2019-11-14'
 slug: tweetsForSurgPath23
 categories:
   - R
@@ -23,6 +23,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1179870718089203712 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1016734123480813568 >}}
 <br>
 <br>
@@ -35,19 +39,51 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1187428540196638721 >}}
+{{< tweet 1154772929210703874 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1184561026475294720 >}}
+{{< tweet 1150821705117523968 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1175637423885365248 >}}
+{{< tweet 1102943121590104071 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1175521524612308993 >}}
+{{< tweet 1098231643066769408 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1073291360017338368 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1189805453481431040 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1189257776029163520 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1185953851523899392 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1185933751823536130 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1181569561847578629 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1175308340118937600 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1173285890384433153 >}}
 <br>
 <br>
 <hr>

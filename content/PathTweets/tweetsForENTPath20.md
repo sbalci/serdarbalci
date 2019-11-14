@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For ENTPath - 20
 author: Serdar Balci
-date: '2019-11-13'
+date: '2019-11-14'
 slug: tweetsForENTPath20
 categories:
   - R
@@ -19,15 +19,7 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #ENTPath pages here: https://serdarbalci.netlify.com/categories/ENTPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 834718334222471168 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1120483221479858177 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1030240436944756736 >}}
+{{< tweet 1118489934392741889 >}}
 <br>
 <br>
 <hr>
@@ -35,15 +27,35 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 919829401067339781 >}}
+{{< tweet 1028917871865298945 >}}
 <br>
 <br>
 <hr>
-{{< tweet 919828708717838336 >}}
+{{< tweet 1028093506235990018 >}}
 <br>
 <br>
 <hr>
-{{< tweet 931127430206644224 >}}
+{{< tweet 955989167086845952 >}}
+<br>
+<br>
+<hr>
+{{< tweet 955868349333819392 >}}
+<br>
+<br>
+<hr>
+{{< tweet 955385108998930432 >}}
+<br>
+<br>
+<hr>
+{{< tweet 955264285491347457 >}}
+<br>
+<br>
+<hr>
+{{< tweet 919820704815595520 >}}
+<br>
+<br>
+<hr>
+{{< tweet 919816609547436032 >}}
 <br>
 <br>
 <hr>
@@ -56,10 +68,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 926357816591478785 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1076859411652624386 >}}
 <br>
 <br>
 <hr>
@@ -79,19 +87,27 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1192474017497845760 >}}
+{{< tweet 1194174861230231553 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1190671315839193088 >}}
+{{< tweet 1186248531117395969 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1179456443625492480 >}}
+{{< tweet 1033722994240225285 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1176562973231312896 >}}
+{{< tweet 1182067128448491522 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1175838532172165120 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1174631042877218816 >}}
 <br>
 <br>
 <hr>

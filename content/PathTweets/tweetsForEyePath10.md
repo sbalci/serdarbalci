@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For EyePath - 10
 author: Serdar Balci
-date: '2019-11-13'
+date: '2019-11-14'
 slug: tweetsForEyePath10
 categories:
   - R
@@ -19,15 +19,19 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EyePath pages here: https://serdarbalci.netlify.com/categories/EyePath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 579634653918793729 >}}
+{{< tweet 1194689020191629312 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1140959832729460736 >}}
+{{< tweet 1138966511878492160 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1043106453987328000 >}}
+{{< tweet 1042019193690832896 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1041656776146411520 >}}
 <br>
 <br>
 <hr>
@@ -40,10 +44,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1150826372669083654 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1149376820036481026 >}}
 <br>
 <br>
 <hr>
@@ -63,51 +63,43 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 445660946720378880 >}}
+{{< tweet 442005686327992320 >}}
 <br>
 <br>
 <hr>
-{{< tweet 443104070182895616 >}}
+{{< tweet 1191794429646057474 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1193913168646615041 >}}
+{{< tweet 1190458904871940098 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1190006822234738690 >}}
+{{< tweet 1104067217283411969 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1186986020140658688 >}}
+{{< tweet 1188156431482216448 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1185161794215501825 >}}
+{{< tweet 1186265953719459840 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1185059426752843776 >}}
+{{< tweet 1184107152694300678 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1179829571379765248 >}}
+{{< tweet 1180889032445706240 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1179758322817392641 >}}
+{{< tweet 1176504162479161345 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1179292501972340736 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1178659163423031297 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1175124185204629509 >}}
+{{< tweet 1173596042270564353 >}}
 <br>
 <br>
 <hr>

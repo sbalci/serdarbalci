@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For CardiacPath - 35
 author: Serdar Balci
-date: '2019-11-13'
+date: '2019-11-14'
 slug: tweetsForCardiacPath35
 categories:
   - R
@@ -19,43 +19,15 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #CardiacPath pages here: https://serdarbalci.netlify.com/categories/CardiacPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1091127174214479872 >}}
+{{< tweet 560544213482627073 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1000936346092036096 >}}
+{{< tweet 560537910647488512 >}}
 <br>
 <br>
 <hr>
-{{< tweet 686592207177007104 >}}
-<br>
-<br>
-<hr>
-{{< tweet 686588486858706948 >}}
-<br>
-<br>
-<hr>
-{{< tweet 566663232551911424 >}}
-<br>
-<br>
-<hr>
-{{< tweet 566660685099454464 >}}
-<br>
-<br>
-<hr>
-{{< tweet 566277085086633985 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1182019212472209411 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1179436668459335680 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1179417515883151360 >}}
+{{< tweet 1106578622054166528 >}}
 <br>
 <br>
 <hr>
