@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For SurgPath - 7
 author: Serdar Balci
-date: '2019-11-14'
+date: '2019-11-15'
 slug: tweetsForSurgPath7
 categories:
   - R
@@ -19,39 +19,23 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #SurgPath pages here: https://serdarbalci.netlify.com/categories/SurgPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1057652822500610049 >}}
+{{< tweet 1113559603063562240 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1049814899482943489 >}}
+{{< tweet 1184508945244794882 >}}
 <br>
 <br>
 <hr>
-{{< tweet 467320624440803330 >}}
+{{< tweet 1181927675864256513 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1190220254527578112 >}}
+{{< tweet 1177617137520861184 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1190192565661962240 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1190192558946865152 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1185623145178419201 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1182090622771093509 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1178567195674234880 >}}
+{{< tweet 1173654145640747008 >}}
 <br>
 <br>
 <hr>
