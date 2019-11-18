@@ -23,15 +23,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 440970702795993090 >}}
+{{< tweet 1015110551725174785 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1103142091469643777 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1014414253971783680 >}}
+{{< tweet 947562397618675712 >}}
 <br>
 <br>
 <hr>
@@ -43,23 +39,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 946293847532769281 >}}
-<br>
-<br>
-<hr>
-{{< tweet 946203227573202944 >}}
-<br>
-<br>
-<hr>
 {{< tweet 919480479958548480 >}}
 <br>
 <br>
 <hr>
 {{< tweet 919474566761553921 >}}
-<br>
-<br>
-<hr>
-{{< tweet 919469634633449474 >}}
 <br>
 <br>
 <hr>
@@ -79,6 +63,18 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1114919517145260032 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1114597141379522561 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1114557133100658688 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1114234757141995521 >}}
 <br>
 <br>
@@ -95,15 +91,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1113509977824669698 >}}
+{{< tweet 1179791482582028289 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1113469968132210688 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1113107577716473856 >}}
+{{< tweet 710141336788344832 >}}
 <br>
 <br>
 <hr>
@@ -119,31 +111,27 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1191337649858076672 >}}
+{{< tweet 1192147107366326272 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1185933751823536130 >}}
+{{< tweet 1183697542086828034 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1185239357885693952 >}}
+{{< tweet 1182692951664812033 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1176567425346785280 >}}
+{{< tweet 1183100461383065601 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1176572691266048003 >}}
+{{< tweet 1173469762145390592 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1176584190189559809 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1176566748985864192 >}}
+{{< tweet 1173014750407602177 >}}
 <br>
 <br>
 <hr>

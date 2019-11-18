@@ -19,23 +19,19 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #SurgPath pages here: https://serdarbalci.netlify.com/categories/SurgPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 954355660510154755 >}}
+{{< tweet 1055214894520393730 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1189431754840518656 >}}
+{{< tweet 1058034433880662016 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1178031899471745024 >}}
+{{< tweet 633679804517195777 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1177590073941872640 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1176248006980407296 >}}
+{{< tweet 1193445709909045250 >}}
 <br>
 <br>
 <hr>
