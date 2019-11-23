@@ -19,47 +19,31 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GUPath pages here: https://serdarbalci.netlify.com/categories/GUPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1162153278328791041 >}}
+{{< tweet 1146007527957630977 >}}
 <br>
 <br>
 <hr>
-{{< tweet 821542790685462528 >}}
+{{< tweet 1141445708790292482 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1078656890110914560 >}}
+{{< tweet 1141065298835058689 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1182751157468446722 >}}
+{{< tweet 1140984558722146304 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1182763080738131969 >}}
+{{< tweet 1124375268494389248 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1182765077486821376 >}}
+{{< tweet 1123963252210372612 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1182758997016887297 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1182749621443055618 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1182759397593882628 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1182750561285881856 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1176212473365565445 >}}
+{{< tweet 1026527521209298944 >}}
 <br>
 <br>
 <hr>

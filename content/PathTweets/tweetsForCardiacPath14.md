@@ -19,19 +19,27 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #CardiacPath pages here: https://serdarbalci.netlify.com/categories/CardiacPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1187796992270815232 >}}
+{{< tweet 1193678693924667393 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1187862424507912193 >}}
+{{< tweet 1152285906520330240 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1187794777221165065 >}}
+{{< tweet 1098626476201496577 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1182019212472209411 >}}
+{{< tweet 1098259413947707392 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1092856948473552897 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1179010767955386375 >}}
 <br>
 <br>
 <hr>
