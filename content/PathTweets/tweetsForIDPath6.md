@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For IDPath - 6
 author: Serdar Balci
-date: '2019-11-27'
+date: '2019-11-28'
 slug: tweetsForIDPath6
 categories:
   - R
@@ -19,23 +19,11 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #IDPath pages here: https://serdarbalci.netlify.com/categories/IDPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1188530136364257283 >}}
+{{< tweet 1186982234126868481 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1140959832729460736 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1192832546309996550 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1179828047945617408 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1176660487267917824 >}}
+{{< tweet 1186589929750446082 >}}
 <br>
 <br>
 <hr>
