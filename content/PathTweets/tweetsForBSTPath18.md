@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For BSTPath - 18
 author: Serdar Balci
-date: '2019-12-03'
+date: '2019-12-04'
 slug: tweetsForBSTPath18
 categories:
   - R
@@ -19,7 +19,7 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #BSTPath pages here: https://serdarbalci.netlify.com/categories/BSTPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1113597290579554305 >}}
+{{< tweet 780868867245694977 >}}
 <br>
 <br>
 <hr>
@@ -27,51 +27,27 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1022508661812297728 >}}
+{{< tweet 1112548871748476928 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1022012765270155265 >}}
+{{< tweet 1112545796350599169 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1022012400357261312 >}}
+{{< tweet 1021542196565041153 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1022011422912405504 >}}
+{{< tweet 1019971635632168960 >}}
 <br>
 <br>
 <hr>
-{{< tweet 952968877960392704 >}}
+{{< tweet 951519135585902592 >}}
 <br>
 <br>
 <hr>
-{{< tweet 919787529468907521 >}}
-<br>
-<br>
-<hr>
-{{< tweet 919785485576298496 >}}
-<br>
-<br>
-<hr>
-{{< tweet 919784241470128128 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1030796150050353152 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1028584875140497409 >}}
-<br>
-<br>
-<hr>
-{{< tweet 917283456488525824 >}}
-<br>
-<br>
-<hr>
-{{< tweet 912659456500039680 >}}
+{{< tweet 951277472091324417 >}}
 <br>
 <br>
 <hr>
@@ -79,7 +55,31 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 909763248777547776 >}}
+<br>
+<br>
+<hr>
+{{< tweet 909753094971559936 >}}
+<br>
+<br>
+<hr>
+{{< tweet 909460652518969344 >}}
+<br>
+<br>
+<hr>
+{{< tweet 908274437597925378 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1065629189729017857 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1152238111679639553 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1150821705117523968 >}}
 <br>
 <br>
 <hr>
@@ -91,23 +91,51 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1200179708693843968 >}}
+{{< tweet 1201949168861958145 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1197507634431168512 >}}
+{{< tweet 1196893125949546496 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1194395175382081536 >}}
+{{< tweet 1191852830354804737 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1170951966614331392 >}}
+{{< tweet 1191272572329050112 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1170989335342125057 >}}
+{{< tweet 1187990874149527552 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1187127335562203136 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1187030126900514817 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1184571897033322497 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1177640541200232449 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1175305204624953345 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1170957012097818624 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1172671043653328902 >}}
 <br>
 <br>
 <hr>

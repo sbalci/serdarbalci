@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For MolDx - 49
 author: Serdar Balci
-date: '2019-12-03'
+date: '2019-12-04'
 slug: tweetsForMolDx49
 categories:
   - R
@@ -19,23 +19,23 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #MolDx pages here: https://serdarbalci.netlify.com/categories/MolDx/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 977809091975196672 >}}
+{{< tweet 625720098884571136 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1196619232194310144 >}}
+{{< tweet 1198550785942011904 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1182326436847345664 >}}
+{{< tweet 1196817299220652032 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1178726229983318022 >}}
+{{< tweet 1195194500911652864 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1171844021192278016 >}}
+{{< tweet 1172158643741106176 >}}
 <br>
 <br>
 <hr>

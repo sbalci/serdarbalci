@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PulmPath - 50
 author: Serdar Balci
-date: '2019-12-03'
+date: '2019-12-04'
 slug: tweetsForPulmPath50
 categories:
   - R
@@ -19,11 +19,31 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PulmPath pages here: https://serdarbalci.netlify.com/categories/PulmPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1050265202971815936 >}}
+{{< tweet 839096524302864386 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1098059139874467841 >}}
+{{< tweet 1193243280961609729 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1192984237282123776 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1192872175616831488 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1148570622915563525 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1048905111961886720 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1048059673402699779 >}}
 <br>
 <br>
 <hr>
@@ -31,11 +51,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1107300816183087104 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1107099304529936384 >}}
+{{< tweet 1094976166069501959 >}}
 <br>
 <br>
 <hr>
@@ -47,31 +63,39 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1164702456829435910 >}}
+{{< tweet 1106936475793477634 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1052630308913377282 >}}
+{{< tweet 1106933682001137665 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1194854459198902274 >}}
+{{< tweet 1106190556940693504 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1036619830772854784 >}}
+{{< tweet 1199822548365697033 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1177430592604004353 >}}
+{{< tweet 1199156540177092609 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1177007810724401153 >}}
+{{< tweet 1192551078635745291 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1171827304076414977 >}}
+{{< tweet 1186772132623257602 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1154580516718469130 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1036257439124004865 >}}
 <br>
 <br>
 <hr>

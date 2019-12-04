@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For IHCPath - 12
 author: Serdar Balci
-date: '2019-12-03'
+date: '2019-12-04'
 slug: tweetsForIHCPath12
 categories:
   - R
@@ -19,23 +19,15 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #IHCPath pages here: https://serdarbalci.netlify.com/categories/IHCPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 836082736666411009 >}}
-<br>
-<br>
-<hr>
 {{< tweet 834746218446196736 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1126852636181876737 >}}
+{{< tweet 834061987663458304 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1125557128712744960 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1125194703127756801 >}}
+{{< tweet 570944850478166017 >}}
 <br>
 <br>
 <hr>
@@ -43,31 +35,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1032559269688659968 >}}
+{{< tweet 1123201373816770567 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1032552853502537728 >}}
+{{< tweet 959371906850856960 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1032550285015576576 >}}
-<br>
-<br>
-<hr>
-{{< tweet 961063263533375488 >}}
-<br>
-<br>
-<hr>
-{{< tweet 960942447030239232 >}}
-<br>
-<br>
-<hr>
-{{< tweet 920206859604078593 >}}
-<br>
-<br>
-<hr>
-{{< tweet 920206151295279104 >}}
+{{< tweet 959009481936977923 >}}
 <br>
 <br>
 <hr>
@@ -75,19 +51,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 961404394926411776 >}}
+{{< tweet 920190219973832704 >}}
 <br>
 <br>
 <hr>
-{{< tweet 985946557152407557 >}}
+{{< tweet 920178212574871552 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1088431179043344386 >}}
+{{< tweet 920166891846451200 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1087723375638794240 >}}
+{{< tweet 1197940406803161088 >}}
 <br>
 <br>
 <hr>
@@ -99,6 +75,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1087676136761511936 >}}
+<br>
+<br>
+<hr>
 {{< tweet 598523270917398528 >}}
 <br>
 <br>
@@ -107,47 +87,23 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 427831116364783616 >}}
+{{< tweet 1197560054800683008 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1200076058751582209 >}}
+{{< tweet 1190369386885988353 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1196165265840627713 >}}
+{{< tweet 1175316176152317952 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1194164611941126144 >}}
+{{< tweet 1173702565415927810 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1192139715081846785 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1188885157664755715 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1183834910966063106 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1181258266548027392 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1178511275485061122 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1175899754607325184 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1171757834297626627 >}}
+{{< tweet 1172900350677913600 >}}
 <br>
 <br>
 <hr>
