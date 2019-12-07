@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For ECPNice - 201937
 author: Serdar Balci
-date: '2019-12-06'
+date: '2019-12-07'
 slug: tweetsForECP2019Nice37
 categories:
   - R
