@@ -19,59 +19,27 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories/PathTweetAward/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1148055475457548289 >}}
+{{< tweet 1054317361694597120 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1197270414126460929 >}}
+{{< tweet 1189913374404104192 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1197154580330450944 >}}
+{{< tweet 1182120707620081664 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1197269963678990336 >}}
+{{< tweet 1177125287156473856 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1194620061639696384 >}}
+{{< tweet 1175148841689145344 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1183698217030111236 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1176098388573589504 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1175825304637583360 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1176100196498976768 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1177289499971411968 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1176919328060518401 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1176353169976242176 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1176216486232363009 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1176285544541642752 >}}
+{{< tweet 1174534058589769729 >}}
 <br>
 <br>
 <hr>
