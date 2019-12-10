@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PediPath - 11
 author: Serdar Balci
-date: '2019-12-09'
+date: '2019-12-10'
 slug: tweetsForPediPath11
 categories:
   - R
@@ -19,87 +19,63 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PediPath pages here: https://serdarbalci.netlify.com/categories/PediPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1046068848024322050 >}}
+{{< tweet 838565381384077312 >}}
 <br>
 <br>
 <hr>
-{{< tweet 570433347157143552 >}}
+{{< tweet 1042744030424031233 >}}
 <br>
 <br>
 <hr>
-{{< tweet 958163798040309760 >}}
+{{< tweet 970978882831630337 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1120712764933042176 >}}
+{{< tweet 970439499904794624 >}}
 <br>
 <br>
 <hr>
-{{< tweet 595649575064629250 >}}
+{{< tweet 1045440430706438154 >}}
 <br>
 <br>
 <hr>
-{{< tweet 595646742797918208 >}}
+{{< tweet 1044373271909732352 >}}
 <br>
 <br>
 <hr>
-{{< tweet 595641852918943744 >}}
+{{< tweet 1138770952890802176 >}}
 <br>
 <br>
 <hr>
-{{< tweet 595639214890459137 >}}
+{{< tweet 443104070182895616 >}}
 <br>
 <br>
 <hr>
-{{< tweet 595636717966774276 >}}
+{{< tweet 1198667987479400448 >}}
 <br>
 <br>
 <hr>
-{{< tweet 595634307668045824 >}}
+{{< tweet 1183699158642741255 >}}
 <br>
 <br>
 <hr>
-{{< tweet 595632893701070849 >}}
+{{< tweet 1181637757627764738 >}}
 <br>
 <br>
 <hr>
-{{< tweet 595631577897553922 >}}
+{{< tweet 1181194465672925185 >}}
 <br>
 <br>
 <hr>
-{{< tweet 424263993667366912 >}}
+{{< tweet 1180114117547286529 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1199392764699594752 >}}
+{{< tweet 1179409969462030341 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1195366796238434310 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1195236996551069696 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1186562209247154176 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1185199669753929729 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1178401346405437440 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1175124185204629509 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1173944913840496640 >}}
+{{< tweet 1173302618577354753 >}}
 <br>
 <br>
 <hr>

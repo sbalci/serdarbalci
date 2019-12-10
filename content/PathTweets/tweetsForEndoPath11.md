@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For EndoPath - 11
 author: Serdar Balci
-date: '2019-12-09'
+date: '2019-12-10'
 slug: tweetsForEndoPath11
 categories:
   - R
@@ -19,43 +19,23 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EndoPath pages here: https://serdarbalci.netlify.com/categories/EndoPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 570695190698201088 >}}
+{{< tweet 1141528266517315584 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1122657755817336832 >}}
+{{< tweet 1042562813393231873 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1122476538887192579 >}}
+{{< tweet 1103285853894467584 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1122295336075026432 >}}
+{{< tweet 1180292760638607361 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1122114136958128128 >}}
-<br>
-<br>
-<hr>
-{{< tweet 958888664750202880 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1088431179043344386 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1198635319605645312 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1195793660891152384 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1181207917690793985 >}}
+{{< tweet 1177580196070907904 >}}
 <br>
 <br>
 <hr>

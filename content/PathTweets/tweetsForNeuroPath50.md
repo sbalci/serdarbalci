@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For NeuroPath - 50
 author: Serdar Balci
-date: '2019-12-09'
+date: '2019-12-10'
 slug: tweetsForNeuroPath50
 categories:
   - R
@@ -19,27 +19,11 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #NeuroPath pages here: https://serdarbalci.netlify.com/categories/NeuroPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1192285977735094272 >}}
+{{< tweet 1063764463868755968 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1145671269104246785 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1046663085455433728 >}}
-<br>
-<br>
-<hr>
-{{< tweet 923187765918830592 >}}
-<br>
-<br>
-<hr>
-{{< tweet 474290668844888064 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1195723335545561094 >}}
+{{< tweet 1187099677642121216 >}}
 <br>
 <br>
 <hr>

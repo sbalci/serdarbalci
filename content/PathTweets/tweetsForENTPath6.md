@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For ENTPath - 6
 author: Serdar Balci
-date: '2019-12-09'
+date: '2019-12-10'
 slug: tweetsForENTPath6
 categories:
   - R
@@ -19,71 +19,83 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #ENTPath pages here: https://serdarbalci.netlify.com/categories/ENTPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 838287633822466048 >}}
+{{< tweet 1152376036601950208 >}}
 <br>
 <br>
 <hr>
-{{< tweet 838285514239270913 >}}
+{{< tweet 1150926347948052481 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1134798730350157824 >}}
+{{< tweet 1051442040104411136 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1132261838433923072 >}}
+{{< tweet 1051260838596632577 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1036401615383588871 >}}
+{{< tweet 1049992357670580226 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1036220410054901760 >}}
+{{< tweet 924954903952232448 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1036039200800301056 >}}
+{{< tweet 924864272869371905 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1043171086559596545 >}}
+{{< tweet 924637713780764672 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1098944128140935168 >}}
+{{< tweet 1107805003761233920 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1049823722037829632 >}}
+{{< tweet 1107455821942804480 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1049821963206750208 >}}
+{{< tweet 1059103230087585792 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1200169503965011969 >}}
+{{< tweet 1058363352215445504 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1186726829035442176 >}}
+{{< tweet 1166440710062522368 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1192283495474831361 >}}
+{{< tweet 1049818132527878145 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1177507164958519296 >}}
+{{< tweet 1049817678611959809 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1175902291699744768 >}}
+{{< tweet 1194395175382081536 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1171781699325374471 >}}
+{{< tweet 1052214761264504833 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1190803033053171714 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1187022877394132992 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1176381652592775169 >}}
 <br>
 <br>
 <hr>

@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PediPath - 45
 author: Serdar Balci
-date: '2019-12-09'
+date: '2019-12-10'
 slug: tweetsForPediPath45
 categories:
   - R
@@ -19,87 +19,63 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PediPath pages here: https://serdarbalci.netlify.com/categories/PediPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 869210988964433920 >}}
+{{< tweet 994842696505323522 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1123715577170857984 >}}
+{{< tweet 994117810950291457 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156725061354528768 >}}
+{{< tweet 529677041483128832 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156543857065988097 >}}
+{{< tweet 1201100432845758465 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1056697208949493760 >}}
+{{< tweet 1199236795856240641 >}}
 <br>
 <br>
 <hr>
-{{< tweet 979983663369564165 >}}
+{{< tweet 1198873254095667200 >}}
 <br>
 <br>
 <hr>
-{{< tweet 979500414885228547 >}}
+{{< tweet 1196104635800576000 >}}
 <br>
 <br>
 <hr>
-{{< tweet 979379604107313152 >}}
+{{< tweet 1194193294449881089 >}}
 <br>
 <br>
 <hr>
-{{< tweet 927084352206278656 >}}
+{{< tweet 1192577745961836545 >}}
 <br>
 <br>
 <hr>
-{{< tweet 926268869030821889 >}}
+{{< tweet 1192576430518894592 >}}
 <br>
 <br>
 <hr>
-{{< tweet 628972531228221440 >}}
+{{< tweet 1187020865986281478 >}}
 <br>
 <br>
 <hr>
-{{< tweet 486206794176286721 >}}
+{{< tweet 1185420123525525505 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1201991975878176771 >}}
+{{< tweet 1179105838889345025 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1191773909072277506 >}}
+{{< tweet 1176888404790915073 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1191764573168128000 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1184468181580165120 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1181754137316380672 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1179425830293913600 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1176215504194850817 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1172557079208349696 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1172617164571807745 >}}
+{{< tweet 1050141199036755969 >}}
 <br>
 <br>
 <hr>

@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For ENTPath - 38
 author: Serdar Balci
-date: '2019-12-09'
+date: '2019-12-10'
 slug: tweetsForENTPath38
 categories:
   - R
@@ -19,79 +19,75 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #ENTPath pages here: https://serdarbalci.netlify.com/categories/ENTPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1162326851311808519 >}}
+{{< tweet 1115615020027666432 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1169614243710173184 >}}
+{{< tweet 976102001971900417 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1169441685605994496 >}}
+{{< tweet 1086053276884262912 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1069744359287877634 >}}
+{{< tweet 1002816219068522496 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1069563157469777920 >}}
+{{< tweet 1002695414045274112 >}}
 <br>
 <br>
 <hr>
-{{< tweet 992547226776817665 >}}
+{{< tweet 938230215112716288 >}}
 <br>
 <br>
 <hr>
-{{< tweet 991943153157484544 >}}
+{{< tweet 938139606226210816 >}}
 <br>
 <br>
 <hr>
-{{< tweet 932611988424835072 >}}
+{{< tweet 938049004104904704 >}}
 <br>
 <br>
 <hr>
-{{< tweet 931705844663648256 >}}
+{{< tweet 937867774625333248 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1123926550775324672 >}}
+{{< tweet 976855677653135365 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1184502526122582016 >}}
+{{< tweet 974163154648338432 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1172952720442982400 >}}
+{{< tweet 986325867025633281 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1049816148554977287 >}}
+{{< tweet 1151981022579515394 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1195687387604639745 >}}
+{{< tweet 989853496580157445 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1196327190218100736 >}}
+{{< tweet 1180521114985873409 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1195621711082926081 >}}
+{{< tweet 1196603176750911489 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1184239429982081026 >}}
+{{< tweet 1184173306666213376 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1182838249170956289 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1179356423974719488 >}}
+{{< tweet 1174797088489689088 >}}
 <br>
 <br>
 <hr>

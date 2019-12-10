@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For GynPath - 25
 author: Serdar Balci
-date: '2019-12-09'
+date: '2019-12-10'
 slug: tweetsForGynPath25
 categories:
   - R
@@ -19,79 +19,79 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GynPath pages here: https://serdarbalci.netlify.com/categories/GynPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1204014370163965953 >}}
+{{< tweet 1116430911359340549 >}}
 <br>
 <br>
 <hr>
-{{< tweet 709951984091017216 >}}
+{{< tweet 513058189282394113 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1193969889007919106 >}}
+{{< tweet 1112147599262281728 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1095660497511211010 >}}
+{{< tweet 1111966386857742336 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1095657459811667969 >}}
+{{< tweet 1020092453662015488 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1094932620167700481 >}}
+{{< tweet 919770305152684034 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1094207783694548992 >}}
+{{< tweet 918149666780405760 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1009460946035621889 >}}
+{{< tweet 1153360303985324032 >}}
 <br>
 <br>
 <hr>
-{{< tweet 943032761870200832 >}}
+{{< tweet 1098231643066769408 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1063830292186767361 >}}
+{{< tweet 1072508641901727745 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1050343403177828352 >}}
+{{< tweet 1191775254278000641 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1195957413288923137 >}}
+{{< tweet 1200408109522604032 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1193535568677941248 >}}
+{{< tweet 1200744251799195648 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1187127335562203136 >}}
+{{< tweet 1192254900215791616 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1181173055420162048 >}}
+{{< tweet 1184905055113072640 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1179287695320866817 >}}
+{{< tweet 1184965901042495490 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1178951112243564544 >}}
+{{< tweet 1184166062838992903 >}}
 <br>
 <br>
 <hr>
-{{< tweet 309072996906172416 >}}
+{{< tweet 1178205293118926850 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1170951586002210817 >}}
+{{< tweet 1174356911749312512 >}}
 <br>
 <br>
 <hr>

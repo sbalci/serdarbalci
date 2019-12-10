@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For GynPath - 17
 author: Serdar Balci
-date: '2019-12-09'
+date: '2019-12-10'
 slug: tweetsForGynPath17
 categories:
   - R
@@ -19,91 +19,59 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GynPath pages here: https://serdarbalci.netlify.com/categories/GynPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1116430911359340549 >}}
+{{< tweet 837702251632291841 >}}
 <br>
 <br>
 <hr>
-{{< tweet 779050398489407488 >}}
+{{< tweet 1128275245830365184 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1112147599262281728 >}}
+{{< tweet 1032817954855874560 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1111966386857742336 >}}
+{{< tweet 1032790184775929858 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1111422721634648072 >}}
+{{< tweet 961874166516350977 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1020092453662015488 >}}
+{{< tweet 920587004856774656 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1019609198814875649 >}}
+{{< tweet 993274767846322176 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1019125987009691648 >}}
+{{< tweet 1200189862944661504 >}}
 <br>
 <br>
 <hr>
-{{< tweet 950984969295355905 >}}
+{{< tweet 1196485468029935616 >}}
 <br>
 <br>
 <hr>
-{{< tweet 919770305152684034 >}}
+{{< tweet 1196287866596409344 >}}
 <br>
 <br>
 <hr>
-{{< tweet 919769760585342976 >}}
+{{< tweet 1194048435957248000 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1193985468938866688 >}}
+{{< tweet 1041771523260997632 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1072508641901727745 >}}
+{{< tweet 1192517227708342272 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1042052300452315136 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1024289612754309120 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1191775254278000641 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1192254900215791616 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1190405613739806721 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1101908936993566720 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1184965901042495490 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1178205293118926850 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1176031785819525120 >}}
+{{< tweet 1177654519095861248 >}}
 <br>
 <br>
 <hr>
