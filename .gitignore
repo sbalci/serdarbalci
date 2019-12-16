@@ -39,3 +39,4 @@ importTweet-WriteFile-GitPush-Tweet.R
 otherFiles
 importTweet-WriteFile-GitPush-Tweet.log
 y.R
+*.gitignore
