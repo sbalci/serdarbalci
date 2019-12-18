@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For IHCPath - 49
 author: Serdar Balci
-date: '2019-12-11'
+date: '2019-12-18'
 slug: tweetsForIHCPath49
 categories:
   - R
@@ -19,83 +19,71 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #IHCPath pages here: https://serdarbalci.netlify.com/categories/IHCPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1204116803279941632 >}}
+{{< tweet 895937447959437312 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1203392022435913728 >}}
+{{< tweet 580058708400553984 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157993533401231360 >}}
+{{< tweet 580029523783217152 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1056153501271646208 >}}
+{{< tweet 1161074111386251264 >}}
 <br>
 <br>
 <hr>
-{{< tweet 926993746457067521 >}}
+{{< tweet 1160892896704266240 >}}
 <br>
 <br>
 <hr>
-{{< tweet 926359473572024320 >}}
+{{< tweet 1059959028477030401 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1117821408745275393 >}}
+{{< tweet 984012987198595073 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1116380068979388416 >}}
+{{< tweet 983607040667873280 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1109409493597736960 >}}
+{{< tweet 983124797927211008 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1109409028315193345 >}}
+{{< tweet 928852943104647169 >}}
 <br>
 <br>
 <hr>
-{{< tweet 486204334473232384 >}}
+{{< tweet 928534190382989312 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1196796134355812357 >}}
+{{< tweet 928182772799217665 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1043220326019149825 >}}
+{{< tweet 1135703029783683077 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1193286998527791111 >}}
+{{< tweet 1134883416837644288 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1192696897401692161 >}}
+{{< tweet 1117934768589541376 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1186602156679290881 >}}
+{{< tweet 1135563556777103362 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1181204090644258816 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1171700832871571456 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1171725183880765441 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1174383823456493570 >}}
+{{< tweet 494175635481571328 >}}
 <br>
 <br>
 <hr>

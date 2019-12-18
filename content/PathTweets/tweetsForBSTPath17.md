@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For BSTPath - 17
 author: Serdar Balci
-date: '2019-12-11'
+date: '2019-12-18'
 slug: tweetsForBSTPath17
 categories:
   - R
@@ -19,95 +19,59 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #BSTPath pages here: https://serdarbalci.netlify.com/categories/BSTPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1168988329980940288 >}}
+{{< tweet 1201911871483322379 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1118127508442927104 >}}
+{{< tweet 568212367907155969 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1028093506235990018 >}}
+{{< tweet 1122838955521527809 >}}
 <br>
 <br>
 <hr>
-{{< tweet 955385108998930432 >}}
+{{< tweet 1122657755817336832 >}}
 <br>
 <br>
 <hr>
-{{< tweet 919820704815595520 >}}
+{{< tweet 1122476538887192579 >}}
 <br>
 <br>
 <hr>
-{{< tweet 919816609547436032 >}}
+{{< tweet 1122295336075026432 >}}
 <br>
 <br>
 <hr>
-{{< tweet 919813610515218433 >}}
+{{< tweet 1122114136958128128 >}}
 <br>
 <br>
 <hr>
-{{< tweet 957841303877967873 >}}
+{{< tweet 1032522926111645696 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157077561064615936 >}}
+{{< tweet 1031690077422768128 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1120033051130490880 >}}
+{{< tweet 959009481936977923 >}}
 <br>
 <br>
 <hr>
-{{< tweet 737677680175374340 >}}
+{{< tweet 958205700664012801 >}}
 <br>
 <br>
 <hr>
-{{< tweet 737675624907743232 >}}
+{{< tweet 920046061317603328 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1203843535683903489 >}}
+{{< tweet 1204130434856235009 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1196935944110313478 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1196923969561124864 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1191272572329050112 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1190156129604640768 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1188338192124174342 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1186306618893447168 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1177640541200232449 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1174028310055141377 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1084993472057110528 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1172671043653328902 >}}
+{{< tweet 1088585117600309249 >}}
 <br>
 <br>
 <hr>

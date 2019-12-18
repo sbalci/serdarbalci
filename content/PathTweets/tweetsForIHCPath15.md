@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For IHCPath - 15
 author: Serdar Balci
-date: '2019-12-11'
+date: '2019-12-18'
 slug: tweetsForIHCPath15
 categories:
   - R
@@ -19,119 +19,79 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #IHCPath pages here: https://serdarbalci.netlify.com/categories/IHCPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 834061987663458304 >}}
+{{< tweet 836082736666411009 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1123201373816770567 >}}
+{{< tweet 1128275245830365184 >}}
 <br>
 <br>
 <hr>
-{{< tweet 959371906850856960 >}}
+{{< tweet 1126852636181876737 >}}
 <br>
 <br>
 <hr>
-{{< tweet 959009481936977923 >}}
+{{< tweet 1032570640128073728 >}}
 <br>
 <br>
 <hr>
-{{< tweet 920178212574871552 >}}
+{{< tweet 1032565512419434497 >}}
 <br>
 <br>
 <hr>
-{{< tweet 920166891846451200 >}}
+{{< tweet 1032559269688659968 >}}
 <br>
 <br>
 <hr>
-{{< tweet 920106466450620416 >}}
+{{< tweet 961063263533375488 >}}
 <br>
 <br>
 <hr>
-{{< tweet 920046061317603328 >}}
+{{< tweet 960942447030239232 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1088431179043344386 >}}
+{{< tweet 920208613980872704 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1087723375638794240 >}}
+{{< tweet 920206859604078593 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1087682540239024128 >}}
+{{< tweet 920206151295279104 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1087681513414631425 >}}
+{{< tweet 992215670938112002 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1087676136761511936 >}}
+{{< tweet 1002203897690230785 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1121536636934868992 >}}
+{{< tweet 1000260164551954432 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1204013170974740481 >}}
+{{< tweet 996800281370390528 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1204004243767808001 >}}
+{{< tweet 1092472934105579520 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1203769646018633728 >}}
+{{< tweet 601044310507814912 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1203007524632481793 >}}
+{{< tweet 598523270917398528 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1192628193104056320 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1192502280005783552 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1158811038734835712 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1040690902560206848 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1190224238373937152 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1187190631447388161 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1181732276889149441 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1181032769067143168 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1176084186408599553 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1175431892063014920 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1172023927079456768 >}}
+{{< tweet 427831116364783616 >}}
 <br>
 <br>
 <hr>

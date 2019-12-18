@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For BSTPath - 36
 author: Serdar Balci
-date: '2019-12-11'
+date: '2019-12-18'
 slug: tweetsForBSTPath36
 categories:
   - R
@@ -19,75 +19,79 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #BSTPath pages here: https://serdarbalci.netlify.com/categories/BSTPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1045238691009114112 >}}
+{{< tweet 1207057030604869632 >}}
 <br>
 <br>
 <hr>
-{{< tweet 975718083871592449 >}}
+{{< tweet 975984373647343616 >}}
 <br>
 <br>
 <hr>
-{{< tweet 708860855228637184 >}}
+{{< tweet 1183747451489943553 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1181210719502471169 >}}
+{{< tweet 1086053276884262912 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1179217595825872897 >}}
+{{< tweet 1084603613790400512 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1081522977550753793 >}}
+{{< tweet 1084241193523802112 >}}
 <br>
 <br>
 <hr>
-{{< tweet 999511241084162049 >}}
+{{< tweet 1002212164185214979 >}}
 <br>
 <br>
 <hr>
-{{< tweet 936163509951270912 >}}
+{{< tweet 1001728908809547778 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147607618782932992 >}}
+{{< tweet 1001608106046963713 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147514455191904256 >}}
+{{< tweet 1001245676070584320 >}}
 <br>
 <br>
 <hr>
-{{< tweet 662691629963300868 >}}
+{{< tweet 937958384355106816 >}}
 <br>
 <br>
 <hr>
-{{< tweet 661592575447588864 >}}
+{{< tweet 937595959676039168 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1201915765265502210 >}}
+{{< tweet 937414740573163520 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1195264706568753152 >}}
+{{< tweet 961178992089837568 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1176546237601984519 >}}
+{{< tweet 951072242519171072 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1182307274850590721 >}}
+{{< tweet 1151981022579515394 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1182302169049026560 >}}
+{{< tweet 1151231376517189634 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1175106653676609536 >}}
+{{< tweet 1149260703393636352 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1146072482849251328 >}}
 <br>
 <br>
 <hr>

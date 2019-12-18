@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PulmPath - 46
 author: Serdar Balci
-date: '2019-12-11'
+date: '2019-12-18'
 slug: tweetsForPulmPath46
 categories:
   - R
@@ -19,23 +19,31 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PulmPath pages here: https://serdarbalci.netlify.com/categories/PulmPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 905588995647827968 >}}
+{{< tweet 928399630240505856 >}}
 <br>
 <br>
 <hr>
-{{< tweet 905414678628769792 >}}
+{{< tweet 926221210748416000 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1118125566161502208 >}}
+{{< tweet 925546045337210881 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1180222585348513792 >}}
+{{< tweet 925537306156683264 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1174191722043252736 >}}
+{{< tweet 580352055371534336 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1121857681537605639 >}}
+<br>
+<br>
+<hr>
+{{< tweet 927956337371287552 >}}
 <br>
 <br>
 <hr>
