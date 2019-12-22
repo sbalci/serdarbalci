@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathArticles - 44
 author: Serdar Balci
-date: '2019-12-21'
+date: '2019-12-22'
 slug: tweetsForPathArticles44
 categories:
   - R
@@ -27,7 +27,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1165397498883649538 >}}
+{{< tweet 1125645552312619008 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1123919764064223241 >}}
 <br>
 <br>
 <hr>
@@ -51,23 +55,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1173387222340399109 >}}
+{{< tweet 1084181486817955843 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1173374866759671809 >}}
+{{< tweet 1083819090232389633 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1173311470454444033 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1173260390832099329 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1173025229704032256 >}}
+{{< tweet 1083456704854016001 >}}
 <br>
 <br>
 <hr>
@@ -91,23 +87,23 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1136802691357634560 >}}
+{{< tweet 1172532059203461120 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1136661473889964032 >}}
+{{< tweet 1172528924007358464 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1136648769603133441 >}}
+{{< tweet 1172515066328969216 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1136643436243668999 >}}
+{{< tweet 1172508773795028994 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1136641339301421057 >}}
+{{< tweet 1172345921444577280 >}}
 <br>
 <br>
 <hr>
@@ -131,27 +127,23 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 888164932990058497 >}}
+{{< tweet 1136019886600101888 >}}
 <br>
 <br>
 <hr>
-{{< tweet 887771777920884740 >}}
+{{< tweet 1136011860686204928 >}}
 <br>
 <br>
 <hr>
-{{< tweet 887326338788585473 >}}
+{{< tweet 1135988566683611137 >}}
 <br>
 <br>
 <hr>
-{{< tweet 886988122994724865 >}}
+{{< tweet 1135985851114987520 >}}
 <br>
 <br>
 <hr>
-{{< tweet 886254243560161280 >}}
-<br>
-<br>
-<hr>
-{{< tweet 885983548318023681 >}}
+{{< tweet 1135974063690489856 >}}
 <br>
 <br>
 <hr>
@@ -171,27 +163,27 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 633679804517195777 >}}
+{{< tweet 882611845231779841 >}}
 <br>
 <br>
 <hr>
-{{< tweet 633335301205835776 >}}
+{{< tweet 879708872138686464 >}}
 <br>
 <br>
 <hr>
-{{< tweet 633325049018195968 >}}
+{{< tweet 877525474314006528 >}}
 <br>
 <br>
 <hr>
-{{< tweet 633321302787493888 >}}
+{{< tweet 876887211676925952 >}}
 <br>
 <br>
 <hr>
-{{< tweet 632281906709700608 >}}
+{{< tweet 876882623666278400 >}}
 <br>
 <br>
 <hr>
-{{< tweet 632230161560305664 >}}
+{{< tweet 875475602932891649 >}}
 <br>
 <br>
 <hr>
@@ -211,27 +203,27 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 491656563724419073 >}}
+{{< tweet 631153904475066368 >}}
 <br>
 <br>
 <hr>
-{{< tweet 491651682670227456 >}}
+{{< tweet 629726336605679617 >}}
 <br>
 <br>
 <hr>
-{{< tweet 491650146762248193 >}}
+{{< tweet 629704724212776960 >}}
 <br>
 <br>
 <hr>
-{{< tweet 491325346005151745 >}}
+{{< tweet 629684931455754241 >}}
 <br>
 <br>
 <hr>
-{{< tweet 491309194461839361 >}}
+{{< tweet 629389200329027584 >}}
 <br>
 <br>
 <hr>
-{{< tweet 491266303856898048 >}}
+{{< tweet 629384003187912704 >}}
 <br>
 <br>
 <hr>
@@ -248,6 +240,50 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 489444484347072512 >}}
+<br>
+<br>
+<hr>
+{{< tweet 489443213875625984 >}}
+<br>
+<br>
+<hr>
+{{< tweet 489421006738829312 >}}
+<br>
+<br>
+<hr>
+{{< tweet 489183918399422464 >}}
+<br>
+<br>
+<hr>
+{{< tweet 489146208472944640 >}}
+<br>
+<br>
+<hr>
+{{< tweet 489145074098270208 >}}
+<br>
+<br>
+<hr>
+{{< tweet 489143648542785537 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1208140400168329216 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1207051183447269380 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1207251890175717377 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1205471218964582402 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1204178482839916550 >}}
 <br>
 <br>
 <hr>

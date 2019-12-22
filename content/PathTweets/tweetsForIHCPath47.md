@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For IHCPath - 47
 author: Serdar Balci
-date: '2019-12-21'
+date: '2019-12-22'
 slug: tweetsForIHCPath47
 categories:
   - R
@@ -19,15 +19,23 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #IHCPath pages here: https://serdarbalci.netlify.com/categories/IHCPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1203973782400094208 >}}
+{{< tweet 1199451762362650624 >}}
 <br>
 <br>
 <hr>
-{{< tweet 839253491172401152 >}}
+{{< tweet 1199453406324305926 >}}
 <br>
 <br>
 <hr>
-{{< tweet 839201117397532673 >}}
+{{< tweet 1200074361383931905 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1199779694910083074 >}}
+<br>
+<br>
+<hr>
+{{< tweet 839112922697695232 >}}
 <br>
 <br>
 <hr>
@@ -35,7 +43,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1155094173994737664 >}}
+{{< tweet 1193976994901495808 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1153644497550495744 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1152557238034161664 >}}
 <br>
 <br>
 <hr>
@@ -47,15 +63,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 925997007273058304 >}}
+{{< tweet 977809091975196672 >}}
 <br>
 <br>
 <hr>
-{{< tweet 925906387565080576 >}}
-<br>
-<br>
-<hr>
-{{< tweet 925861068483653632 >}}
+{{< tweet 925498619884486656 >}}
 <br>
 <br>
 <hr>
@@ -71,11 +83,35 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 864854366179774464 >}}
+{{< tweet 1109176923404550145 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1207005932502310912 >}}
+{{< tweet 1109097163739545600 >}}
+<br>
+<br>
+<hr>
+{{< tweet 859399713094860801 >}}
+<br>
+<br>
+<hr>
+{{< tweet 481463195224522753 >}}
+<br>
+<br>
+<hr>
+{{< tweet 481459556225384448 >}}
+<br>
+<br>
+<hr>
+{{< tweet 481458068077948928 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1205102666277425152 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1204013170974740481 >}}
 <br>
 <br>
 <hr>

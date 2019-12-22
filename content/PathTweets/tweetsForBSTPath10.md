@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For BSTPath - 10
 author: Serdar Balci
-date: '2019-12-21'
+date: '2019-12-22'
 slug: tweetsForBSTPath10
 categories:
   - R
@@ -23,14 +23,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1128275245830365184 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1032567602919297024 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1032565512419434497 >}}
 <br>
 <br>
@@ -39,15 +31,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 920348135246905345 >}}
-<br>
-<br>
-<hr>
-{{< tweet 920227304743190530 >}}
-<br>
-<br>
-<hr>
-{{< tweet 920211826062770176 >}}
+{{< tweet 1032557444210147328 >}}
 <br>
 <br>
 <hr>
@@ -55,19 +39,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 992215670938112002 >}}
+{{< tweet 920202185958244352 >}}
 <br>
 <br>
 <hr>
-{{< tweet 989999540945252353 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1004352003550609408 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1002237687787552768 >}}
+{{< tweet 920200344080072704 >}}
 <br>
 <br>
 <hr>
@@ -75,7 +51,23 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1152585457924026368 >}}
+<br>
+<br>
+<hr>
 {{< tweet 596380264735051776 >}}
+<br>
+<br>
+<hr>
+{{< tweet 426047662241357824 >}}
+<br>
+<br>
+<hr>
+{{< tweet 424263993667366912 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1206997671128567814 >}}
 <br>
 <br>
 <hr>
