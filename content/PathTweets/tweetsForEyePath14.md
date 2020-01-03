@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For EyePath - 14
 author: Serdar Balci
-date: '2020-01-02'
+date: '2020-01-03'
 slug: tweetsForEyePath14
 categories:
   - R
@@ -19,99 +19,43 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EyePath pages here: https://serdarbalci.netlify.com/categories/EyePath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1212732301177696256 >}}
+{{< tweet 579446311549816834 >}}
 <br>
 <br>
 <hr>
-{{< tweet 575955195353509888 >}}
+{{< tweet 922915858950656002 >}}
 <br>
 <br>
 <hr>
-{{< tweet 575940824535531520 >}}
+{{< tweet 922779925928583169 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1130449759196463104 >}}
+{{< tweet 1106156236217745408 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1129181307945119744 >}}
+{{< tweet 1106143382219436032 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1033864664449396737 >}}
+{{< tweet 610877139185991680 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1033683455802929157 >}}
+{{< tweet 610865749419290627 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1033321022869594112 >}}
+{{< tweet 610864496983322625 >}}
 <br>
 <br>
 <hr>
-{{< tweet 963600283078049794 >}}
+{{< tweet 442005686327992320 >}}
 <br>
 <br>
 <hr>
-{{< tweet 962875410009620480 >}}
-<br>
-<br>
-<hr>
-{{< tweet 920771023288483840 >}}
-<br>
-<br>
-<hr>
-{{< tweet 996458649857003520 >}}
-<br>
-<br>
-<hr>
-{{< tweet 994006407681855495 >}}
-<br>
-<br>
-<hr>
-{{< tweet 993274767846322176 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1026030469580840966 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1017746763350978560 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1098944128140935168 >}}
-<br>
-<br>
-<hr>
-{{< tweet 598528266207625217 >}}
-<br>
-<br>
-<hr>
-{{< tweet 598525865492905985 >}}
-<br>
-<br>
-<hr>
-{{< tweet 598523270917398528 >}}
-<br>
-<br>
-<hr>
-{{< tweet 598521938345091072 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1208117035173105664 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1207769885222297600 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1205473139779657729 >}}
+{{< tweet 1207737411100463107 >}}
 <br>
 <br>
 <hr>

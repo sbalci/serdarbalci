@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathEdu - 28
 author: Serdar Balci
-date: '2020-01-02'
+date: '2020-01-03'
 slug: tweetsForPathEdu28
 categories:
   - R
@@ -19,59 +19,91 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathEdu pages here: https://serdarbalci.netlify.com/categories/PathEdu/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 757891127324381184 >}}
+{{< tweet 781243113817968642 >}}
 <br>
 <br>
 <hr>
-{{< tweet 440664100951961600 >}}
+{{< tweet 781237668101386240 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1182008181746257920 >}}
+{{< tweet 778418588403298304 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1129057935903154182 >}}
+{{< tweet 512556690961879040 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1128695546011688961 >}}
+{{< tweet 1144608910889930752 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1198265595864567808 >}}
+{{< tweet 1144247780845772801 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156942831547609088 >}}
+{{< tweet 1144246511875907586 >}}
 <br>
 <br>
 <hr>
-{{< tweet 695685068359081985 >}}
+{{< tweet 1143885392057372672 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1212186063835299841 >}}
+{{< tweet 1143884139160059907 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1208112105406320641 >}}
+{{< tweet 1143522996004511745 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1208736975001456641 >}}
+{{< tweet 1160237175893450753 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1208189250157629440 >}}
+{{< tweet 1160231033595256838 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1207706455320801280 >}}
+{{< tweet 978989286337974272 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1207556431140073473 >}}
+{{< tweet 586167971632050177 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1209517619444944898 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1210735425997832195 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1210277398098432001 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1210277951591395328 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1210261235276697601 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1208288257068417024 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1208051068141047809 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1206496755447148544 >}}
 <br>
 <br>
 <hr>

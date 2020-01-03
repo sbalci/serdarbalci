@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For IHCPath - 17
 author: Serdar Balci
-date: '2020-01-02'
+date: '2020-01-03'
 slug: tweetsForIHCPath17
 categories:
   - R
@@ -19,91 +19,59 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #IHCPath pages here: https://serdarbalci.netlify.com/categories/IHCPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 560555342141345793 >}}
+{{< tweet 838285514239270913 >}}
 <br>
 <br>
 <hr>
-{{< tweet 560430854682734592 >}}
+{{< tweet 838285046582759424 >}}
 <br>
 <br>
 <hr>
-{{< tweet 559516698240225283 >}}
+{{< tweet 838278737523245056 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1124651059605938178 >}}
+{{< tweet 578724094679609345 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1123201373816770567 >}}
+{{< tweet 968090406733795329 >}}
 <br>
 <br>
 <hr>
-{{< tweet 959371906850856960 >}}
+{{< tweet 967224721342308353 >}}
 <br>
 <br>
 <hr>
-{{< tweet 959009481936977923 >}}
+{{< tweet 966983084506628098 >}}
 <br>
 <br>
 <hr>
-{{< tweet 920192988793356288 >}}
+{{< tweet 921858480666853376 >}}
 <br>
 <br>
 <hr>
-{{< tweet 920190219973832704 >}}
+{{< tweet 1026962337448779776 >}}
 <br>
 <br>
 <hr>
-{{< tweet 920178212574871552 >}}
+{{< tweet 1019287858924998656 >}}
 <br>
 <br>
 <hr>
-{{< tweet 920166891846451200 >}}
+{{< tweet 1103269000912531456 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1210206123376218112 >}}
+{{< tweet 1054495370221379584 >}}
 <br>
 <br>
 <hr>
-{{< tweet 996800281370390528 >}}
+{{< tweet 432916514615087107 >}}
 <br>
 <br>
 <hr>
-{{< tweet 985946557152407557 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1092472934105579520 >}}
-<br>
-<br>
-<hr>
-{{< tweet 737677680175374340 >}}
-<br>
-<br>
-<hr>
-{{< tweet 737675624907743232 >}}
-<br>
-<br>
-<hr>
-{{< tweet 593434662468485120 >}}
-<br>
-<br>
-<hr>
-{{< tweet 592728738225348610 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1211099150109929472 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1207132140078600192 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1208455213557977089 >}}
+{{< tweet 1208200860582305793 >}}
 <br>
 <br>
 <hr>
