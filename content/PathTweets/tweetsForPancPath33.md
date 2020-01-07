@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PancPath - 33
 author: Serdar Balci
-date: '2020-01-06'
+date: '2020-01-07'
 slug: tweetsForPancPath33
 categories:
   - R
@@ -28,6 +28,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 690223624612089856 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1207989944720846849 >}}
 <br>
 <br>
 <hr>

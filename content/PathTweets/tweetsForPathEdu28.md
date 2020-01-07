@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathEdu - 28
 author: Serdar Balci
-date: '2020-01-06'
+date: '2020-01-07'
 slug: tweetsForPathEdu28
 categories:
   - R
@@ -23,6 +23,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1067505363262599168 >}}
+<br>
+<br>
+<hr>
 {{< tweet 778398544482988032 >}}
 <br>
 <br>
@@ -31,7 +35,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 910867552045338624 >}}
+<br>
+<br>
+<hr>
 {{< tweet 909753094971559936 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1142133594246262789 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1141771201016160256 >}}
 <br>
 <br>
 <hr>
@@ -55,18 +71,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1138452104119508994 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1138127947695628288 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1138089699552169987 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1202025838683672577 >}}
 <br>
 <br>
@@ -75,51 +79,39 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1201936889906749440 >}}
-<br>
-<br>
-<hr>
 {{< tweet 887660988442574849 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1212768695581327362 >}}
+{{< tweet 580169924540268544 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1210513536285175808 >}}
+{{< tweet 1212830755761610752 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1210509231591264257 >}}
+{{< tweet 1212828241104424961 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1210477516776853505 >}}
+{{< tweet 1208853486777098243 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1200294597487779840 >}}
+{{< tweet 1208852258659672064 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1209189790278701056 >}}
+{{< tweet 1208851674644852736 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1209185569571561472 >}}
+{{< tweet 1207200584043913218 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1208842418541477891 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1208843171779764224 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1208842771081125888 >}}
+{{< tweet 1206944893182136320 >}}
 <br>
 <br>
 <hr>

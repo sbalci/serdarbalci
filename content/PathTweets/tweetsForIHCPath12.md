@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For IHCPath - 12
 author: Serdar Balci
-date: '2020-01-06'
+date: '2020-01-07'
 slug: tweetsForIHCPath12
 categories:
   - R
@@ -19,11 +19,27 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #IHCPath pages here: https://serdarbalci.netlify.com/categories/IHCPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
+{{< tweet 1214605115820314624 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1214602045912686600 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1214274268911022081 >}}
+<br>
+<br>
+<hr>
 {{< tweet 838441394524008448 >}}
 <br>
 <br>
 <hr>
 {{< tweet 838401556831744001 >}}
+<br>
+<br>
+<hr>
+{{< tweet 838398564883705857 >}}
 <br>
 <br>
 <hr>
@@ -63,6 +79,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 969956247611961346 >}}
+<br>
+<br>
+<hr>
 {{< tweet 922454676666171392 >}}
 <br>
 <br>
@@ -72,6 +92,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 922381122603855879 >}}
+<br>
+<br>
+<hr>
+{{< tweet 922378988286181376 >}}
 <br>
 <br>
 <hr>
@@ -95,6 +119,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1106190556940693504 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1106145062117871616 >}}
 <br>
 <br>
@@ -107,35 +135,23 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 826106634149715970 >}}
-<br>
-<br>
-<hr>
 {{< tweet 816442306408644612 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1213116243198251008 >}}
+{{< tweet 1214165847780077568 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1212103009292828673 >}}
+{{< tweet 1214157669696585728 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1212065903300546565 >}}
+{{< tweet 1213386488819453952 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1211706708608860161 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1210062502677094401 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1205884662519869442 >}}
+{{< tweet 1210115929209790464 >}}
 <br>
 <br>
 <hr>

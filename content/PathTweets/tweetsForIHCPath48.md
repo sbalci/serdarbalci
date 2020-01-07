@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For IHCPath - 48
 author: Serdar Balci
-date: '2020-01-06'
+date: '2020-01-07'
 slug: tweetsForIHCPath48
 categories:
   - R
@@ -31,6 +31,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 580349691365339136 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1168889487595888640 >}}
 <br>
 <br>
@@ -55,15 +59,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1138464816417398784 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1133007871157968897 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1131642999555985408 >}}
-<br>
-<br>
-<hr>
-{{< tweet 936614644000673792 >}}
 <br>
 <br>
 <hr>
@@ -71,35 +71,39 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 522804993510752256 >}}
-<br>
-<br>
-<hr>
 {{< tweet 519910069530800128 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1207191301709545472 >}}
+{{< tweet 1214304106749333504 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1210381859919581184 >}}
+{{< tweet 1211527553589993473 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1209149860894691333 >}}
+{{< tweet 1200074361383931905 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1204453135802150912 >}}
+{{< tweet 1207372048609226752 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1204457086958145542 >}}
+{{< tweet 1205551803527503880 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1204828269335523328 >}}
+{{< tweet 1205196930214768641 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1204872310504726528 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1203977725498810368 >}}
 <br>
 <br>
 <hr>

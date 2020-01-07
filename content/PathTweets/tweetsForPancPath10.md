@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PancPath - 10
 author: Serdar Balci
-date: '2020-01-06'
+date: '2020-01-07'
 slug: tweetsForPancPath10
 categories:
   - R
