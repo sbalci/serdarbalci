@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For IHCPath - 27
 author: Serdar Balci
-date: '2020-01-09'
+date: '2020-01-10'
 slug: tweetsForIHCPath27
 categories:
   - R
@@ -19,7 +19,7 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #IHCPath pages here: https://serdarbalci.netlify.com/categories/IHCPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1002225077679779840 >}}
+{{< tweet 1007244215489908737 >}}
 <br>
 <br>
 <hr>
@@ -27,31 +27,27 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 709783271475818496 >}}
+{{< tweet 440571272913620992 >}}
 <br>
 <br>
 <hr>
-{{< tweet 709738575139459073 >}}
+{{< tweet 1198499779669417985 >}}
 <br>
 <br>
 <hr>
-{{< tweet 709738224210415616 >}}
+{{< tweet 1197593788236980225 >}}
 <br>
 <br>
 <hr>
-{{< tweet 440533334544769024 >}}
+{{< tweet 1098737987620229120 >}}
 <br>
 <br>
 <hr>
-{{< tweet 440530961348825089 >}}
+{{< tweet 1012481242506223617 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1196258342420664320 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1195781806357770240 >}}
+{{< tweet 1012164596755398656 >}}
 <br>
 <br>
 <hr>
@@ -59,31 +55,31 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1011031497455726593 >}}
+{{< tweet 944844985697910784 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1010910678444462081 >}}
+{{< tweet 944573157725290496 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1010669057614311425 >}}
+{{< tweet 944391938345541632 >}}
 <br>
 <br>
 <hr>
-{{< tweet 943938878691348480 >}}
+{{< tweet 1180421484017324032 >}}
 <br>
 <br>
 <hr>
-{{< tweet 943757650721771520 >}}
+{{< tweet 1188337354316177410 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1179831292516544512 >}}
+{{< tweet 1186987358685667328 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1176527450785943552 >}}
+{{< tweet 1199101448631406594 >}}
 <br>
 <br>
 <hr>
@@ -95,27 +91,27 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1214304106749333504 >}}
+{{< tweet 1214938572001693696 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1210381859919581184 >}}
+{{< tweet 1211495501658505216 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1209149860894691333 >}}
+{{< tweet 1199451762362650624 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1204453135802150912 >}}
+{{< tweet 1199779694910083074 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1204457086958145542 >}}
+{{< tweet 1199453406324305926 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1204828269335523328 >}}
+{{< tweet 1208289163281338375 >}}
 <br>
 <br>
 <hr>

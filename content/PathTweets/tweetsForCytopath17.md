@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For Cytopath - 17
 author: Serdar Balci
-date: '2020-01-09'
+date: '2020-01-10'
 slug: tweetsForCytopath17
 categories:
   - R
@@ -19,27 +19,35 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #Cytopath pages here: https://serdarbalci.netlify.com/categories/Cytopath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1174500804566409216 >}}
+{{< tweet 1200060886938816512 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1174145823103422467 >}}
+{{< tweet 1117583878661660672 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1172692209315004416 >}}
+{{< tweet 1027703471204519937 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1115409358773313536 >}}
+{{< tweet 955312338357207045 >}}
 <br>
 <br>
 <hr>
-{{< tweet 940640326842241025 >}}
+{{< tweet 1057249370414964736 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1087310168067620864 >}}
+{{< tweet 1152654474680381441 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1152585457924026368 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1152292255711019008 >}}
 <br>
 <br>
 <hr>
@@ -51,11 +59,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1151860681815330816 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1151498297527414784 >}}
+{{< tweet 1212828976265039872 >}}
 <br>
 <br>
 <hr>
@@ -67,11 +71,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1212936460128718851 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1204376353312665602 >}}
+{{< tweet 1208180579365203969 >}}
 <br>
 <br>
 <hr>

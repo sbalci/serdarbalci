@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathEdu - 25
 author: Serdar Balci
-date: '2020-01-09'
+date: '2020-01-10'
 slug: tweetsForPathEdu25
 categories:
   - R
@@ -19,27 +19,19 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathEdu pages here: https://serdarbalci.netlify.com/categories/PathEdu/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1015249260290412549 >}}
+{{< tweet 757891127324381184 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1014701016699240454 >}}
+{{< tweet 440664100951961600 >}}
 <br>
 <br>
 <hr>
-{{< tweet 440608071543296000 >}}
+{{< tweet 1184567254471598080 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1199680816449757189 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1197116906928513025 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1182008181746257920 >}}
+{{< tweet 1025817829931732994 >}}
 <br>
 <br>
 <hr>
@@ -51,27 +43,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1132018453680939008 >}}
+{{< tweet 1200882590011408384 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1131656058013913088 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1131293668105752578 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1131272271828537356 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1130931284392456193 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1157461141703913472 >}}
+{{< tweet 1200865481948717056 >}}
 <br>
 <br>
 <hr>
@@ -79,47 +55,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1214366044258799621 >}}
+{{< tweet 1214885281272418304 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1214328315273764864 >}}
+{{< tweet 1210392438310871040 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1214018705480409093 >}}
+{{< tweet 1209902859338354688 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1213524242542874625 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1209896585355763712 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1209172347619627008 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1209164658940268545 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1205471218964582402 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1206257931014025218 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1204853537265639431 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1204176259850346496 >}}
+{{< tweet 1203906871628840960 >}}
 <br>
 <br>
 <hr>

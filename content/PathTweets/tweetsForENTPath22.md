@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For ENTPath - 22
 author: Serdar Balci
-date: '2020-01-09'
+date: '2020-01-10'
 slug: tweetsForENTPath22
 categories:
   - R
@@ -19,51 +19,87 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #ENTPath pages here: https://serdarbalci.netlify.com/categories/ENTPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1205501743859032064 >}}
+{{< tweet 443835615650783232 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1205498602677665792 >}}
+{{< tweet 1205509542483652610 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1205496280606068737 >}}
+{{< tweet 1109066992336531456 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1205492596769902592 >}}
+{{< tweet 1108885773871255552 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1107573962593067009 >}}
+{{< tweet 1018159497582219265 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1107436111628914688 >}}
+{{< tweet 1017555425632251905 >}}
 <br>
 <br>
 <hr>
-{{< tweet 948377901673558017 >}}
+{{< tweet 950552572217016320 >}}
 <br>
 <br>
 <hr>
-{{< tweet 919623161058009089 >}}
+{{< tweet 950371353776947200 >}}
 <br>
 <br>
 <hr>
-{{< tweet 919539151120109569 >}}
+{{< tweet 950008898139840512 >}}
 <br>
 <br>
 <hr>
-{{< tweet 919508507178680321 >}}
+{{< tweet 919758937439723520 >}}
 <br>
 <br>
 <hr>
-{{< tweet 903301047552270336 >}}
+{{< tweet 919758471662153729 >}}
 <br>
 <br>
 <hr>
-{{< tweet 902241791948099585 >}}
+{{< tweet 919754722701074432 >}}
+<br>
+<br>
+<hr>
+{{< tweet 919753165477572608 >}}
+<br>
+<br>
+<hr>
+{{< tweet 919743992295694336 >}}
+<br>
+<br>
+<hr>
+{{< tweet 911321493233180672 >}}
+<br>
+<br>
+<hr>
+{{< tweet 909753094971559936 >}}
+<br>
+<br>
+<hr>
+{{< tweet 909460652518969344 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1076859411652624386 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1076696289113456641 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1072501766720229377 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1072200767199723525 >}}
 <br>
 <br>
 <hr>
@@ -71,19 +107,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1213524107431759872 >}}
+{{< tweet 1209162806576189440 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1213495575372582912 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1207001501115338752 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1204406791276122113 >}}
+{{< tweet 1205196930214768641 >}}
 <br>
 <br>
 <hr>

@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PediPath - 26
 author: Serdar Balci
-date: '2020-01-09'
+date: '2020-01-10'
 slug: tweetsForPediPath26
 categories:
   - R
@@ -23,7 +23,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1166685570669666305 >}}
+{{< tweet 1099954317715398656 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1012722890460913664 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1063069809238253568 >}}
 <br>
 <br>
 <hr>
@@ -35,19 +43,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1129455548230000640 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1129093159823261696 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1212947269739274240 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1211536974747594752 >}}
+{{< tweet 1210306403849691148 >}}
 <br>
 <br>
 <hr>

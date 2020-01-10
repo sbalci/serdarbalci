@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For ENTPath - 37
 author: Serdar Balci
-date: '2020-01-09'
+date: '2020-01-10'
 slug: tweetsForENTPath37
 categories:
   - R
@@ -19,19 +19,7 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #ENTPath pages here: https://serdarbalci.netlify.com/categories/ENTPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1177042051885481985 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1177023901932511232 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1177018548448706560 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1176318456922136577 >}}
+{{< tweet 1177578861871026177 >}}
 <br>
 <br>
 <hr>
@@ -39,23 +27,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1076992735737835520 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1075361872788914176 >}}
-<br>
-<br>
-<hr>
-{{< tweet 997983744039374848 >}}
-<br>
-<br>
-<hr>
-{{< tweet 997379688786898944 >}}
-<br>
-<br>
-<hr>
-{{< tweet 997258873122639872 >}}
+{{< tweet 935038473198641152 >}}
 <br>
 <br>
 <hr>
@@ -63,11 +35,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 934514843477929984 >}}
-<br>
-<br>
-<hr>
-{{< tweet 934424227662327815 >}}
+{{< tweet 922807020029321216 >}}
 <br>
 <br>
 <hr>
@@ -75,23 +43,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 913433274021744640 >}}
+{{< tweet 986325867025633281 >}}
 <br>
 <br>
 <hr>
-{{< tweet 911228879628652544 >}}
+{{< tweet 1148643261348794368 >}}
 <br>
 <br>
 <hr>
-{{< tweet 984888089674960896 >}}
-<br>
-<br>
-<hr>
-{{< tweet 981608713239846914 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1147514455191904256 >}}
+{{< tweet 1148567241115521024 >}}
 <br>
 <br>
 <hr>
@@ -103,23 +63,23 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1205584862218006529 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1205222505981632512 >}}
-<br>
-<br>
-<hr>
 {{< tweet 529667838446166017 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1212579737635307520 >}}
+{{< tweet 1213120892198211585 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1206270536914915331 >}}
+{{< tweet 1051515255300460544 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1211037923568766977 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1207058441157709834 >}}
 <br>
 <br>
 <hr>

@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For EyePath - 18
 author: Serdar Balci
-date: '2020-01-09'
+date: '2020-01-10'
 slug: tweetsForEyePath18
 categories:
   - R
@@ -19,19 +19,19 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EyePath pages here: https://serdarbalci.netlify.com/categories/EyePath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1214263727823843328 >}}
+{{< tweet 512957241784549376 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1212995381191049216 >}}
+{{< tweet 1117221465571487744 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1115228157387268096 >}}
+{{< tweet 1115771791123701760 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1115046943372107776 >}}
+{{< tweet 1026978604226232320 >}}
 <br>
 <br>
 <hr>
@@ -39,19 +39,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 953431611223109632 >}}
+{{< tweet 954539417246380032 >}}
 <br>
 <br>
 <hr>
-{{< tweet 953331298172456960 >}}
+{{< tweet 919807241548468224 >}}
 <br>
 <br>
 <hr>
-{{< tweet 953089684007092225 >}}
-<br>
-<br>
-<hr>
-{{< tweet 919796404263911424 >}}
+{{< tweet 1202583334662135809 >}}
 <br>
 <br>
 <hr>
@@ -59,11 +55,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1150826372669083654 >}}
+{{< tweet 1087300452851613696 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1149376820036481026 >}}
+{{< tweet 1150826372669083654 >}}
 <br>
 <br>
 <hr>
@@ -71,19 +67,27 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 585488536100560896 >}}
+{{< tweet 1215183938886352896 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1214595131187376129 >}}
+{{< tweet 1211044175749230592 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1213218315570679808 >}}
+{{< tweet 1209900112190664704 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1207702510477160450 >}}
+{{< tweet 1208832074460696576 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1207529683555733504 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1207247672991789056 >}}
 <br>
 <br>
 <hr>
