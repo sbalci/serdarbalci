@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathEdu - 33
 author: Serdar Balci
-date: '2020-01-15'
+date: '2020-01-16'
 slug: tweetsForPathEdu33
 categories:
   - R
@@ -19,79 +19,79 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathEdu pages here: https://serdarbalci.netlify.com/categories/PathEdu/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1216775326635823108 >}}
+{{< tweet 440664100951961600 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156877161908899840 >}}
+{{< tweet 440608071543296000 >}}
 <br>
 <br>
 <hr>
-{{< tweet 975843286903537664 >}}
+{{< tweet 1138814487186890752 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1138833810903224320 >}}
+{{< tweet 1138452104119508994 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1104373783211724800 >}}
+{{< tweet 1138127947695628288 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1103698323846901761 >}}
+{{< tweet 1138089699552169987 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1186311036766314496 >}}
+{{< tweet 1137324396845182976 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1185917677656690690 >}}
+{{< tweet 1137040783352184833 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1185634486530129920 >}}
+{{< tweet 695685068359081985 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1185601918350979072 >}}
+{{< tweet 1217629204109459458 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1147869485724028930 >}}
+{{< tweet 1217601001735229446 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1215467183226179585 >}}
+{{< tweet 1216843885986697217 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1214594005750566914 >}}
+{{< tweet 1216837405631811584 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1211013826893811713 >}}
+{{< tweet 1214932491901054976 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1210699668583305217 >}}
+{{< tweet 1052567662453293056 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1210228532112166912 >}}
+{{< tweet 1210408225146671104 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1205336573979566081 >}}
+{{< tweet 1210392438310871040 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1206947216339951618 >}}
+{{< tweet 1209902859338354688 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1206951877696532481 >}}
+{{< tweet 1207199375077847040 >}}
 <br>
 <br>
 <hr>
