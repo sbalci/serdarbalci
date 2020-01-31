@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For ForensicPath - 30
 author: Serdar Balci
-date: '2020-01-30'
+date: '2020-01-31'
 slug: tweetsForForensicPath30
 categories:
   - R
