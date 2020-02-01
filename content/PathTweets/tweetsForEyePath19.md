@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For EyePath - 19
 author: Serdar Balci
-date: '2020-01-31'
+date: '2020-02-01'
 slug: tweetsForEyePath19
 categories:
   - R
@@ -19,91 +19,59 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EyePath pages here: https://serdarbalci.netlify.com/categories/EyePath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1220243173915557888 >}}
+{{< tweet 1218250020647911424 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1119939609121579009 >}}
+{{< tweet 1118852351136161792 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1030602848256450560 >}}
+{{< tweet 1118489934392741889 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1030240436944756736 >}}
+{{< tweet 1028790724953759747 >}}
 <br>
 <br>
 <hr>
-{{< tweet 957559744268460034 >}}
+{{< tweet 955989167086845952 >}}
 <br>
 <br>
 <hr>
-{{< tweet 957438935688294400 >}}
+{{< tweet 955868349333819392 >}}
 <br>
 <br>
 <hr>
-{{< tweet 956955681990492160 >}}
+{{< tweet 1091819650495713281 >}}
 <br>
 <br>
 <hr>
-{{< tweet 956834866728878080 >}}
+{{< tweet 1042052300452315136 >}}
 <br>
 <br>
 <hr>
-{{< tweet 956593238072213504 >}}
+{{< tweet 1220407578024239104 >}}
 <br>
 <br>
 <hr>
-{{< tweet 919925236904030208 >}}
+{{< tweet 1222659288675618817 >}}
 <br>
 <br>
 <hr>
-{{< tweet 919829401067339781 >}}
+{{< tweet 1222130617145491457 >}}
 <br>
 <br>
 <hr>
-{{< tweet 989500420593803265 >}}
+{{< tweet 1216756832745742336 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1159883960580804609 >}}
+{{< tweet 1217300394554068992 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1171079853036040192 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1212828976265039872 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1169606654343749633 >}}
-<br>
-<br>
-<hr>
-{{< tweet 727175880414531584 >}}
-<br>
-<br>
-<hr>
-{{< tweet 727173450671001601 >}}
-<br>
-<br>
-<hr>
-{{< tweet 588378981432459264 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1216124354775240706 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1213579481853677569 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1208975877930962949 >}}
+{{< tweet 1216912839790809089 >}}
 <br>
 <br>
 <hr>
