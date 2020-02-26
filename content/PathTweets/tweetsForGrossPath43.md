@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For GrossPath - 43
 author: Serdar Balci
-date: '2020-02-24'
+date: '2020-02-26'
 slug: tweetsForGrossPath43
 categories:
   - R
