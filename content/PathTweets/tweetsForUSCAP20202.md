@@ -19,79 +19,79 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #USCAP pages here: https://serdarbalci.netlify.com/categories/USCAP/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
+{{< tweet 1235223518985543687 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235217225029738497 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235266309404995584 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235260023485485057 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235257506517135360 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235263901769625600 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235241297876832262 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235221034791514113 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235242406460764161 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235229843190624258 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1234905452216897536 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234902686237155331 >}}
+{{< tweet 1234726049058979840 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234905205403197441 >}}
+{{< tweet 1234554402456756228 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234841595276603396 >}}
+{{< tweet 1234603278119264258 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234891331916488709 >}}
+{{< tweet 1234724112209068032 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234871774975791105 >}}
+{{< tweet 1234719816285442048 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234898874021679110 >}}
+{{< tweet 1234563100822495232 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234883775399702531 >}}
+{{< tweet 1234564344450441216 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234149201728004101 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234153026627047425 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234124776282710016 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234156981771833345 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234162672133820417 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1233916897428553728 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1233916458427543552 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1233912997581479937 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1233916814272258048 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1233918140142063617 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1233915570078146561 >}}
+{{< tweet 1234559653486317570 >}}
 <br>
 <br>
 <hr>
