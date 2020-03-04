@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For MolDx - 17
 author: Serdar Balci
-date: '2020-03-02'
+date: '2020-03-04'
 slug: tweetsForMolDx17
 categories:
   - R
@@ -23,23 +23,63 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 435501525549715457 >}}
+{{< tweet 432912870180155393 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1233801408450830338 >}}
+{{< tweet 1232407609052979200 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1230141349111967745 >}}
+{{< tweet 1230468685376163841 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1219513576458682378 >}}
+{{< tweet 1219491144406568961 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1215767557409583105 >}}
+{{< tweet 1219299716061696005 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1217431069101826050 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1216332252579319808 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1216146930063093760 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1205804681051754496 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1205803391944921089 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1205865128480116747 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1205638689965137921 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1205608457644204034 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1205880215194492935 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1205578297758953473 >}}
 <br>
 <br>
 <hr>
