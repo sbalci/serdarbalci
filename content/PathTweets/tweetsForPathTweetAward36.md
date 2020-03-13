@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathTweetAward - 36
 author: Serdar Balci
-date: '2020-03-11'
+date: '2020-03-13'
 slug: tweetsForPathTweetAward36
 categories:
   - R
@@ -19,55 +19,75 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories/PathTweetAward/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1152928168543756288 >}}
+{{< tweet 1218254031459700736 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1233481253527203845 >}}
+{{< tweet 1069550013439664128 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1232756478043394052 >}}
+{{< tweet 1069371972553859072 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1232755220435886082 >}}
+{{< tweet 1068449093217742848 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234644840035606530 >}}
+{{< tweet 1067169596602441730 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1230182316015849472 >}}
+{{< tweet 1233520050432282630 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1226726631810719745 >}}
+{{< tweet 1233353661897748480 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1225172929987694594 >}}
+{{< tweet 1233126384136073219 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1225468198662721536 >}}
+{{< tweet 1233097237464539137 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1220712248001335297 >}}
+{{< tweet 1229155237283475457 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1221478216331943936 >}}
+{{< tweet 1226417027017039872 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1220727108995031043 >}}
+{{< tweet 1226417610323046400 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1215626998497845248 >}}
+{{< tweet 1226308073473613824 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1226415384254873600 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1218148722296655872 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1218188168878575620 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1218308235628662785 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1215769905502572544 >}}
 <br>
 <br>
 <hr>
