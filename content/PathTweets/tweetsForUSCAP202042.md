@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For USCAP - 202042
 author: Serdar Balci
-date: '2020-03-17'
+date: '2020-03-18'
 slug: tweetsForUSCAP202042
 categories:
   - R
@@ -19,31 +19,111 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #USCAP pages here: https://serdarbalci.netlify.com/categories/USCAP/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1234524154956697602 >}}
+{{< tweet 1233892597740883968 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234542892976197632 >}}
+{{< tweet 1233764357168754689 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234542602583728135 >}}
+{{< tweet 1226848828961304576 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234539184523595777 >}}
+{{< tweet 1237476059811065857 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234522261215858688 >}}
+{{< tweet 1235737997565259776 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234478428423720961 >}}
+{{< tweet 1234976016004603904 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234519928213950465 >}}
+{{< tweet 1234982719999725568 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234980702023643137 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234946490159661057 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234917372059799552 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235008127709270019 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234931699705929729 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234235542142738432 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234239770911367168 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234234203509641216 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234241951945244672 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234273234293387265 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234238962652237824 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234329114577784832 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234346439968358400 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234343213298675714 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234337550291963905 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1233512545337606144 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1233731259546951685 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1233519911412039680 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1233626977099075584 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1233594587442077696 >}}
 <br>
 <br>
 <hr>

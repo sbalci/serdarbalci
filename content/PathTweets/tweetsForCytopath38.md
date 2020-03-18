@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For Cytopath - 38
 author: Serdar Balci
-date: '2020-03-17'
+date: '2020-03-18'
 slug: tweetsForCytopath38
 categories:
   - R
@@ -19,63 +19,87 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #Cytopath pages here: https://serdarbalci.netlify.com/categories/Cytopath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1198680957122822144 >}}
+{{< tweet 1196252200558710785 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1198499779669417985 >}}
+{{< tweet 1195238269979525120 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1197336346332815361 >}}
+{{< tweet 1097692665838108672 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1197231394872688640 >}}
+{{< tweet 1010306625616277504 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1196869002150068225 >}}
+{{< tweet 944074864960225280 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1099825283622854656 >}}
+{{< tweet 943757650721771520 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1099281626792488961 >}}
+{{< tweet 1000259945563074560 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1099100423024066561 >}}
+{{< tweet 1176479170660118528 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1098822656776794112 >}}
+{{< tweet 1174327400311721984 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1098375580930605056 >}}
+{{< tweet 1174114587861540865 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1011997989932445698 >}}
+{{< tweet 1234278644823887873 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234520190949437440 >}}
+{{< tweet 1234266465055854593 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1224780198475915269 >}}
+{{< tweet 1234319581511970816 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1214697397814730758 >}}
+{{< tweet 1234337081968623621 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1208180579365203969 >}}
+{{< tweet 1234339142789521413 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234323678063579137 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1224847271004528640 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1221692761633505280 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1219136800083628033 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1214358131217747968 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1214090028508467200 >}}
 <br>
 <br>
 <hr>

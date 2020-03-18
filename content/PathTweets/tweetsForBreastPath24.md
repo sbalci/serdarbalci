@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For BreastPath - 24
 author: Serdar Balci
-date: '2020-03-17'
+date: '2020-03-18'
 slug: tweetsForBreastPath24
 categories:
   - R
@@ -23,23 +23,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1128456460130607104 >}}
+{{< tweet 1125194703127756801 >}}
 <br>
 <br>
 <hr>
-{{< tweet 960821623413661696 >}}
-<br>
-<br>
-<hr>
-{{< tweet 920208613980872704 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1221897348336508928 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1218922483165741056 >}}
+{{< tweet 1032548619159711744 >}}
 <br>
 <br>
 <hr>
