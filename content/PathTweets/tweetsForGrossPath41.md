@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For GrossPath - 41
 author: Serdar Balci
-date: '2020-03-21'
+date: '2020-04-04'
 slug: tweetsForGrossPath41
 categories:
   - R
@@ -19,11 +19,7 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GrossPath pages here: https://serdarbalci.netlify.com/categories/GrossPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1223314727671078913 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1207433609180831746 >}}
+{{< tweet 1205044976532566016 >}}
 <br>
 <br>
 <hr>
