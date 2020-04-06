@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For USCAP - 202018
 author: Serdar Balci
-date: '2020-04-04'
+date: '2020-04-06'
 slug: tweetsForUSCAP202018
 categories:
   - R
@@ -19,63 +19,87 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #USCAP pages here: https://serdarbalci.netlify.com/categories/USCAP/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1234630323964694528 >}}
+{{< tweet 1234563547654324224 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234578963269214208 >}}
+{{< tweet 1234560868345450496 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234621836651941888 >}}
+{{< tweet 1234555414584295425 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234624115790643200 >}}
+{{< tweet 1234553718642597888 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234621553393971200 >}}
+{{< tweet 1234508970468892673 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234594885728030721 >}}
+{{< tweet 1234483281891954689 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234619984757673984 >}}
+{{< tweet 1234481080956112898 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234616281753473024 >}}
+{{< tweet 1234479717677326336 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1233134908828266509 >}}
+{{< tweet 1234478435096879105 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1233414208127217667 >}}
+{{< tweet 1233985974901903361 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1233368862248374272 >}}
+{{< tweet 1235114440057446402 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1233438719798960129 >}}
+{{< tweet 1235113020944084992 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1233437867319255040 >}}
+{{< tweet 1235115359159480320 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1229570740220874752 >}}
+{{< tweet 1234645212200259584 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1229553745421271042 >}}
+{{< tweet 1234610131255476225 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234606794091008000 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234602683098484736 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234613550775013376 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234575473440481281 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234674557094522882 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234669741425315840 >}}
 <br>
 <br>
 <hr>

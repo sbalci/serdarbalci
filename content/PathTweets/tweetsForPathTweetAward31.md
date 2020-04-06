@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathTweetAward - 31
 author: Serdar Balci
-date: '2020-04-04'
+date: '2020-04-06'
 slug: tweetsForPathTweetAward31
 categories:
   - R
@@ -19,79 +19,75 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories/PathTweetAward/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1093126331246804995 >}}
+{{< tweet 1187452862072274944 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1242157917903769601 >}}
+{{< tweet 1219939534751879169 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1242481583585542145 >}}
+{{< tweet 1216027326409998336 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1242160185910714369 >}}
+{{< tweet 1067169596602441730 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1242511536666492928 >}}
+{{< tweet 1066773419830632448 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1242157173477724163 >}}
+{{< tweet 1143224804310491136 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1242487041276821505 >}}
+{{< tweet 1240772661275328512 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1242160002506412032 >}}
+{{< tweet 1240805591699918851 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1242157482069438471 >}}
+{{< tweet 1240776233757085697 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1242178549303382016 >}}
+{{< tweet 1240723305985912838 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234342294695948288 >}}
+{{< tweet 1237018167823732736 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1232577319870574593 >}}
+{{< tweet 1233209154254192640 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1232576883646193664 >}}
+{{< tweet 1233199905210093574 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1232731620328771586 >}}
+{{< tweet 1220711336050446336 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1230685243843194882 >}}
+{{< tweet 1220705421238779905 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1222965203198869504 >}}
+{{< tweet 1220521261551370240 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1222956194316398593 >}}
+{{< tweet 1220035449630097408 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1222175083008905216 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1219323207473233920 >}}
+{{< tweet 1218181611264495616 >}}
 <br>
 <br>
 <hr>

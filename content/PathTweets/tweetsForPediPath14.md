@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PediPath - 14
 author: Serdar Balci
-date: '2020-04-04'
+date: '2020-04-06'
 slug: tweetsForPediPath14
 categories:
   - R
@@ -19,103 +19,39 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PediPath pages here: https://serdarbalci.netlify.com/categories/PediPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 869210988964433920 >}}
+{{< tweet 1046068848024322050 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1061589922014875650 >}}
+{{< tweet 1141865961219166208 >}}
 <br>
 <br>
 <hr>
-{{< tweet 986506528302579713 >}}
+{{< tweet 1044193713100996608 >}}
 <br>
 <br>
 <hr>
-{{< tweet 929349931420213248 >}}
+{{< tweet 1239562062235348992 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1045440430706438154 >}}
+{{< tweet 1236154045179428865 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1044373271909732352 >}}
+{{< tweet 1232923334272262144 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1118615165413527552 >}}
+{{< tweet 1226911468379000832 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1245689960390430723 >}}
+{{< tweet 1212376103936905216 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1245380912168271873 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1182652946145632256 >}}
-<br>
-<br>
-<hr>
-{{< tweet 847198933793353729 >}}
-<br>
-<br>
-<hr>
-{{< tweet 847198665424982016 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1244263077714907136 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1243563989444882434 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1243275496684531713 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1240317277876207617 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1240144387671232512 >}}
-<br>
-<br>
-<hr>
-{{< tweet 511568267467837440 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234642471113478144 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1226161827500843011 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1221798531117137920 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1214562847411167241 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1217624404072382464 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1215087353905262593 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1209150920405213191 >}}
+{{< tweet 1210261140015603720 >}}
 <br>
 <br>
 <hr>

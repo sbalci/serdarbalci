@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathTweetAward - 30
 author: Serdar Balci
-date: '2020-04-04'
+date: '2020-04-06'
 slug: tweetsForPathTweetAward30
 categories:
   - R
@@ -19,67 +19,83 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories/PathTweetAward/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1220107672382590981 >}}
+{{< tweet 1229193910112735233 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1094939383323598848 >}}
+{{< tweet 1069550013439664128 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1243279939752693760 >}}
+{{< tweet 1069371972553859072 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1243016586023383041 >}}
+{{< tweet 1068449093217742848 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1242474748526944256 >}}
+{{< tweet 689516449283579905 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1242158735662907393 >}}
+{{< tweet 570318126996426753 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1237907510662750208 >}}
+{{< tweet 1243637764387745794 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1237376201951502336 >}}
+{{< tweet 1243614260262924288 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1230554071976660993 >}}
+{{< tweet 1241353036406161408 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1230938555779698688 >}}
+{{< tweet 1240836001691467776 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1230992630495887360 >}}
+{{< tweet 1240150092847427585 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1222271396572733445 >}}
+{{< tweet 1237944635395317763 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1223242767423475713 >}}
+{{< tweet 1237141084322619398 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1219975737714802689 >}}
+{{< tweet 1233248028548567040 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1217971354277826560 >}}
+{{< tweet 1229358168821653504 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1212728809759395840 >}}
+{{< tweet 1229358857106927617 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1223599527309070337 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1208500923577835522 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1206623435759083520 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1205295267362299904 >}}
 <br>
 <br>
 <hr>

@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For USCAP - 202050
 author: Serdar Balci
-date: '2020-04-04'
+date: '2020-04-06'
 slug: tweetsForUSCAP202050
 categories:
   - R
@@ -19,39 +19,51 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #USCAP pages here: https://serdarbalci.netlify.com/categories/USCAP/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1234543349358481408 >}}
+{{< tweet 1234961520683081729 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234510295524970496 >}}
+{{< tweet 1234961522167812098 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234524154956697602 >}}
+{{< tweet 1234207076714471432 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234542892976197632 >}}
+{{< tweet 1234191932164845569 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234542602583728135 >}}
+{{< tweet 1234226931777916928 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234539184523595777 >}}
+{{< tweet 1234333093181325315 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234522261215858688 >}}
+{{< tweet 1234247872343764992 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234185493597716480 >}}
+{{< tweet 1234238255987642375 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234204559402135554 >}}
+{{< tweet 1234229506153615360 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234240218493882368 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234279769979662337 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234332901434478593 >}}
 <br>
 <br>
 <hr>

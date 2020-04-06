@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For USCAP - 202030
 author: Serdar Balci
-date: '2020-04-04'
+date: '2020-04-06'
 slug: tweetsForUSCAP202030
 categories:
   - R
@@ -19,95 +19,47 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #USCAP pages here: https://serdarbalci.netlify.com/categories/USCAP/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1235316665019183105 >}}
+{{< tweet 1234878760660455425 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1235384677248233473 >}}
+{{< tweet 1234876251413843968 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1235324268512186371 >}}
+{{< tweet 1234837254427828225 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1235331788941266946 >}}
+{{< tweet 1234873739965345792 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1235294181205184522 >}}
+{{< tweet 1234887568384307200 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1235305568094519296 >}}
+{{< tweet 1234860844611198976 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1235344710627135488 >}}
+{{< tweet 1234901868565929984 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1235345870440345601 >}}
+{{< tweet 1234901152497455104 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1235300269921054720 >}}
+{{< tweet 1234898638301749249 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1235335434202484737 >}}
+{{< tweet 1233920053671845888 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234753978707001350 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234471636453085184 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234377664208654338 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234374339723612160 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234376344923885569 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234378342003965953 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234371399705219072 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234368567107174401 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234149535896625153 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234145145462935553 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234144066960384000 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1233895486332928000 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1233882275105783809 >}}
+{{< tweet 1232721469827760128 >}}
 <br>
 <br>
 <hr>
