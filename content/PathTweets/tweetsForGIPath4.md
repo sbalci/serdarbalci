@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For GIPath - 4
 author: Serdar Balci
-date: '2020-04-10'
+date: '2020-04-11'
 slug: tweetsForGIPath4
 categories:
   - R
@@ -19,75 +19,27 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GIPath pages here: https://serdarbalci.netlify.com/categories/GIPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1185921794089185285 >}}
+{{< tweet 1199405736561795072 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1069636240939671554 >}}
+{{< tweet 1003266471303221249 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1059893839840845825 >}}
+{{< tweet 1237086177858965504 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1058019008484728832 >}}
+{{< tweet 1235986867108974593 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1055897928328495104 >}}
+{{< tweet 1235328687861620736 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1039936316094533633 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1037377822661267456 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1025042848935235584 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1018910672644648960 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1003637166373777409 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1247201048688648195 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234184086953922560 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234181664177131520 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234177414638366721 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234173615534305280 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234178028957102080 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1222713555574763520 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1222677413382914049 >}}
+{{< tweet 1216042488718340097 >}}
 <br>
 <br>
 <hr>

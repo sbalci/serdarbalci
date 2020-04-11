@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For IDPath - 33
 author: Serdar Balci
-date: '2020-04-10'
+date: '2020-04-11'
 slug: tweetsForIDPath33
 categories:
   - R
@@ -19,43 +19,79 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #IDPath pages here: https://serdarbalci.netlify.com/categories/IDPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1226947354336514048 >}}
+{{< tweet 1140959832729460736 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1247294059258888192 >}}
+{{< tweet 1105053821611331584 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1247559023387435011 >}}
+{{< tweet 1229874240503021569 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1245004329251033088 >}}
+{{< tweet 1229511849927942146 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1243915148382912512 >}}
+{{< tweet 1229149459378036737 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1243481059414511619 >}}
+{{< tweet 1228787072070234112 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1243465187270647808 >}}
+{{< tweet 740595500437622785 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1243460059344056320 >}}
+{{< tweet 595259174159810560 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1221979668347142144 >}}
+{{< tweet 1248594036295782400 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1219052999915401216 >}}
+{{< tweet 1244252026076200960 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1239957211595468800 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1239618173168689154 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1239587268630847490 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1238526695352741890 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235586304517091328 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1224051132261117953 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1221155448658780165 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1214553475951947777 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1206650218676133889 >}}
 <br>
 <br>
 <hr>
