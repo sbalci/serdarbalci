@@ -83,23 +83,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1235465803375341568 >}}
+{{< tweet 1239572761829392392 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234856412171423751 >}}
+{{< tweet 1238873100738949121 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234528651833683971 >}}
+{{< tweet 1237973279861850112 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1233962625756733441 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1231093538496098305 >}}
+{{< tweet 1232350008923607040 >}}
 <br>
 <br>
 <hr>
@@ -111,31 +107,27 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1230552100838543360 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1228001217189683200 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1226210836471066624 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1226208988125155329 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1222278355212521474 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1222276722290241544 >}}
+{{< tweet 1229559909433462785 >}}
 <br>
 <br>
 <hr>
 {{< tweet 1222187616885518336 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1222238441733271555 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1222232622652383232 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1222231173298036736 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1221941986338340865 >}}
 <br>
 <br>
 <hr>
@@ -147,19 +139,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1218059398548844544 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1217489483941150722 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1215713885212356611 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1215263484730101760 >}}
 <br>
 <br>
 <hr>
@@ -179,15 +159,23 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1208868204212154369 >}}
+{{< tweet 1209261914553028610 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1207741216323969031 >}}
+{{< tweet 1209256911591346183 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1208864702702522368 >}}
 <br>
 <br>
 <hr>
 {{< tweet 1207739256854073344 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1206951563715059713 >}}
 <br>
 <br>
 <hr>
