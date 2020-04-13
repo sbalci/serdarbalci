@@ -263,23 +263,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1233902145373491200 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1233116881210331136 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1230145029970284544 >}}
+{{< tweet 1230517947858325505 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1138101349378187264 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1138089322937061376 >}}
+{{< tweet 1227993581622890496 >}}
 <br>
 <br>
 <hr>
@@ -299,7 +291,23 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1225865027539873793 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1134837021007011842 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1134830254764068864 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1134564739386728453 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1134493848267132929 >}}
 <br>
 <br>
 <hr>
@@ -319,11 +327,51 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1221828971324739586 >}}
+{{< tweet 1219646559106805770 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1219646559106805770 >}}
+{{< tweet 1131749594553913344 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1131706377678680064 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1131705683739418624 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1131703851382272000 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1131696965694058496 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1217461702939172865 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1127622174297059328 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1127620321127780352 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1127618414673969152 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1127617340722503680 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1127617047331057664 >}}
 <br>
 <br>
 <hr>
@@ -331,7 +379,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1214599967748362241 >}}
+{{< tweet 1214230194313146368 >}}
 <br>
 <br>
 <hr>
@@ -339,7 +387,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1207054519626063873 >}}
+{{< tweet 1208084804132114432 >}}
 <br>
 <br>
 <hr>

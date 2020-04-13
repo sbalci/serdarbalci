@@ -19,18 +19,6 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #USCAP pages here: https://serdarbalci.netlify.com/categories/USCAP/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1235633788874641414 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1235734360810283008 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1235746968862887939 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1235641391067299846 >}}
 <br>
 <br>
@@ -59,6 +47,18 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1235741912859992064 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235758264333340673 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235744427295100928 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1235385530281365506 >}}
 <br>
 <br>
@@ -83,19 +83,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1234339037608939521 >}}
+{{< tweet 1235384437359206400 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234332328194785280 >}}
+{{< tweet 1235384462952652800 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234194812816855041 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234228418163511297 >}}
+{{< tweet 1234653495464210432 >}}
 <br>
 <br>
 <hr>
@@ -123,7 +119,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1233837677205573632 >}}
+{{< tweet 1234364270046928897 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234269262346248192 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234187451620454400 >}}
 <br>
 <br>
 <hr>
