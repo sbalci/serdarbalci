@@ -259,6 +259,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1239704956791185410 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1238150430280093697 >}}
 <br>
 <br>
@@ -307,11 +311,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1228228117056983040 >}}
+{{< tweet 1229435335848996866 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1223622504490721280 >}}
+{{< tweet 1228228117056983040 >}}
 <br>
 <br>
 <hr>
@@ -332,22 +336,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1218249739637936128 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1217842697744023552 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1053742908204072960 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1129049097187385344 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1129013608178839552 >}}
 <br>
 <br>
 <hr>
@@ -379,11 +367,39 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1209836225777020929 >}}
+{{< tweet 1128717539620544512 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1128716948617826304 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1128672758001389568 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1214117439568371713 >}}
 <br>
 <br>
 <hr>
 {{< tweet 1050778894457077761 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1121797877792006144 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1121769150559346689 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1121765668792045569 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1121602964823482368 >}}
 <br>
 <br>
 <hr>
@@ -395,27 +411,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1120538983912677377 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1120487678150156288 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1120487245260165120 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1120474584728440834 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1120451066682839040 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1120449724119703554 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1205436240566378501 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1205421989034377216 >}}
 <br>
 <br>
 <hr>
