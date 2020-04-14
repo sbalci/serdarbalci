@@ -51,7 +51,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1246424787511058433 >}}
+{{< tweet 1059475204882251777 >}}
 <br>
 <br>
 <hr>
