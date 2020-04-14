@@ -199,11 +199,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1095712708337508353 >}}
+{{< tweet 1095350324846608384 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1095350324846608384 >}}
+{{< tweet 1241872963793760265 >}}
 <br>
 <br>
 <hr>
@@ -211,11 +211,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1159325224258564097 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1240340433751937025 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1238646046298955777 >}}
+{{< tweet 1238690171517837313 >}}
 <br>
 <br>
 <hr>
@@ -239,14 +243,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1145689022406123521 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1145455191791063040 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1145377850305855488 >}}
 <br>
 <br>
@@ -267,10 +263,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1224953529141325824 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1224604996945117184 >}}
 <br>
 <br>
@@ -283,11 +275,23 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1222515331291176961 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1222565062365384706 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1134107749900414976 >}}
 <br>
 <br>
 <hr>
 {{< tweet 1133938568223608832 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1218588616894689280 >}}
 <br>
 <br>
 <hr>
@@ -303,19 +307,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1127244143330070528 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1127242271768829953 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1127016533257900032 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1215200566529482753 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1212014787627864065 >}}
 <br>
 <br>
 <hr>
@@ -340,6 +336,14 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1208024302043455488 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1207440153729544192 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1205471218964582402 >}}
 <br>
 <br>
 <hr>
