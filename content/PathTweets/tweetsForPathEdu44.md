@@ -135,6 +135,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1244015608305516546 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1243770989378326529 >}}
 <br>
 <br>
@@ -148,10 +152,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1241268357049077760 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1240276985869258752 >}}
 <br>
 <br>
 <hr>
@@ -175,10 +175,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1234879989478240256 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1234875017957167106 >}}
 <br>
 <br>
@@ -187,27 +183,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1232278276841697280 >}}
+{{< tweet 1234009483145293824 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1231439264098873346 >}}
+{{< tweet 1231302768650063872 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1230537603163684864 >}}
+{{< tweet 1229402114851405824 >}}
 <br>
 <br>
 <hr>
 {{< tweet 1226936037764521986 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1226355827365138433 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1226337018927431680 >}}
 <br>
 <br>
 <hr>
@@ -219,7 +207,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1223670851050135555 >}}
+{{< tweet 1223310354295468034 >}}
 <br>
 <br>
 <hr>
@@ -231,15 +219,23 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1218876064119783425 >}}
+{{< tweet 1218236643578019840 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1218951001971023873 >}}
+{{< tweet 1218201559307313153 >}}
 <br>
 <br>
 <hr>
 {{< tweet 1217793652241633280 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1217761108599029760 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1217751158032302083 >}}
 <br>
 <br>
 <hr>
@@ -255,11 +251,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1208911608430415873 >}}
+{{< tweet 1212589839859769345 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1208908974306803712 >}}
+{{< tweet 1210959518680543232 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1210002298501554181 >}}
 <br>
 <br>
 <hr>
@@ -268,6 +268,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1208902274275147776 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1205246244706275330 >}}
 <br>
 <br>
 <hr>

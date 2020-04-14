@@ -75,10 +75,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1247160317332750342 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1246852638790111237 >}}
 <br>
 <br>
@@ -88,6 +84,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1245823034629320706 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1245786885735276549 >}}
 <br>
 <br>
 <hr>
@@ -123,11 +123,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1239237633831653376 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1239237319783317507 >}}
+{{< tweet 1239966684108054529 >}}
 <br>
 <br>
 <hr>
@@ -135,15 +131,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1239222284356902912 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1238596107212443649 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1236245341302910981 >}}
+{{< tweet 1237508444661239811 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1236397379554811906 >}}
+{{< tweet 1237501370636222464 >}}
 <br>
 <br>
 <hr>
@@ -155,11 +155,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1235251264113356805 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1235620302870044673 >}}
+{{< tweet 1235830310077530112 >}}
 <br>
 <br>
 <hr>
@@ -175,6 +171,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1235547432878039040 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1234909085939748867 >}}
 <br>
 <br>
@@ -187,11 +187,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1233792760529833985 >}}
+{{< tweet 1234055826123431936 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1233774030764888065 >}}
+{{< tweet 1233792760529833985 >}}
 <br>
 <br>
 <hr>
@@ -199,11 +199,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1232536730294611968 >}}
+{{< tweet 1232470697630261249 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1232470583788457984 >}}
+{{< tweet 1232462624748494848 >}}
 <br>
 <br>
 <hr>
@@ -211,15 +211,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1230586163670310912 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1229880243730747395 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1229846571715616768 >}}
+{{< tweet 1230561750505779203 >}}
 <br>
 <br>
 <hr>
@@ -231,7 +223,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1227602763242065921 >}}
+{{< tweet 1229860672520978434 >}}
 <br>
 <br>
 <hr>
@@ -243,7 +235,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1227252799307517952 >}}
+{{< tweet 1227516082661007361 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1227513736253960192 >}}
 <br>
 <br>
 <hr>
@@ -255,11 +251,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1218172026306940928 >}}
+{{< tweet 1223999822253916160 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1220693086088704006 >}}
+{{< tweet 1218201859409707011 >}}
 <br>
 <br>
 <hr>
@@ -271,6 +267,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1217458892898209792 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1215566968176037888 >}}
 <br>
 <br>
@@ -279,11 +279,39 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1214668148810620928 >}}
+{{< tweet 1053404434930298882 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1206897275890479104 >}}
+{{< tweet 1214180411485687809 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1211886026169425920 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1207737223149424640 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1207718160113254400 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1207716613509783559 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1206879289880301568 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1204560967889293312 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1204526627109126150 >}}
 <br>
 <br>
 <hr>
