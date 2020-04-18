@@ -19,15 +19,31 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #OralPath pages here: https://serdarbalci.netlify.com/categories/OralPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1162353551177342976 >}}
+{{< tweet 1250792750343237635 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1250485051214594048 >}}
+{{< tweet 1074637042946981888 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1247477564530200577 >}}
+{{< tweet 1249749139522494466 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1249746441741967360 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1249720150569476096 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1249747128882257922 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1249748718624137216 >}}
 <br>
 <br>
 <hr>

@@ -19,7 +19,11 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GrossPath pages here: https://serdarbalci.netlify.com/categories/GrossPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1217655586403172352 >}}
+{{< tweet 1246868233321414656 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1214351112159072257 >}}
 <br>
 <br>
 <hr>
