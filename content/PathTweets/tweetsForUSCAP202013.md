@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For USCAP - 202013
 author: Serdar Balci
-date: '2020-04-15'
+date: '2020-04-18'
 slug: tweetsForUSCAP202013
 categories:
   - R
@@ -23,31 +23,39 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1234524154956697602 >}}
+{{< tweet 1234679765979652096 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234542892976197632 >}}
+{{< tweet 1234549285275852801 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234542602583728135 >}}
+{{< tweet 1234561146872418304 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234539184523595777 >}}
+{{< tweet 1234550465456529409 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234522261215858688 >}}
+{{< tweet 1234547975520604160 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234478428423720961 >}}
+{{< tweet 1234547754824654854 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1222915360841592832 >}}
+{{< tweet 1234553504041037824 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234645212200259584 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234610131255476225 >}}
 <br>
 <br>
 <hr>
