@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PancPath - 31
 author: Serdar Balci
-date: '2020-04-20'
+date: '2020-04-21'
 slug: tweetsForPancPath31
 categories:
   - R
@@ -19,7 +19,27 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PancPath pages here: https://serdarbalci.netlify.com/categories/PancPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1210279079813009408 >}}
+{{< tweet 1027703471204519937 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1232339341822717953 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1221771023009419264 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1221769182993428480 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1216250967932444672 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1214313253284859912 >}}
 <br>
 <br>
 <hr>
