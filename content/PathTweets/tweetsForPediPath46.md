@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PediPath - 46
 author: Serdar Balci
-date: '2020-04-21'
+date: '2020-04-22'
 slug: tweetsForPediPath46
 categories:
   - R
@@ -19,43 +19,59 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PediPath pages here: https://serdarbalci.netlify.com/categories/PediPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1186646926147686402 >}}
+{{< tweet 976161735160688641 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1158099696998469632 >}}
+{{< tweet 976110614278938624 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157358064783253505 >}}
+{{< tweet 559752513688457217 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1091415331007070209 >}}
+{{< tweet 1252246415289524226 >}}
 <br>
 <br>
 <hr>
-{{< tweet 532930225320263682 >}}
+{{< tweet 1249283877878849536 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234184213848412160 >}}
+{{< tweet 1246493487303819265 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1227759509336133632 >}}
+{{< tweet 1241358448287035398 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1222464328240128000 >}}
+{{< tweet 1238075404864249856 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1219525952625172487 >}}
+{{< tweet 1234848988215435264 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1211695720895582209 >}}
+{{< tweet 1234873861352517633 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234164488561016837 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234164357635772419 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1217438832955658245 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1206947237256843265 >}}
 <br>
 <br>
 <hr>

@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathTweetAward - 14
 author: Serdar Balci
-date: '2020-04-21'
+date: '2020-04-22'
 slug: tweetsForPathTweetAward14
 categories:
   - R
@@ -19,79 +19,71 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories/PathTweetAward/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1220466536609210369 >}}
+{{< tweet 839253491172401152 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1115199249396977664 >}}
+{{< tweet 1228851611121922050 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1115067102317154305 >}}
+{{< tweet 1228802411252342784 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1115064879671644160 >}}
+{{< tweet 1051849698238222338 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1113605745713516544 >}}
+{{< tweet 1045440430706438154 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1109836451401863173 >}}
+{{< tweet 1044373271909732352 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1244166757016842240 >}}
+{{< tweet 1042881528295026691 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1244267791009677312 >}}
+{{< tweet 1039274829399175169 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1060324194007674880 >}}
+{{< tweet 1120644768281841664 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1240248112091779073 >}}
+{{< tweet 1244626861306634247 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1237543725170999302 >}}
+{{< tweet 1245050958230495234 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1236667961517080577 >}}
+{{< tweet 1245243877918941186 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1233447580048265216 >}}
+{{< tweet 1242233873196634113 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1229591379237593088 >}}
+{{< tweet 1242227348843438080 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1229586540780806144 >}}
+{{< tweet 1240709414216028162 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1229565943619162119 >}}
+{{< tweet 1235713865494786049 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1228118540525289472 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1227969568049680384 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1217489094739099649 >}}
+{{< tweet 1233581863207391232 >}}
 <br>
 <br>
 <hr>

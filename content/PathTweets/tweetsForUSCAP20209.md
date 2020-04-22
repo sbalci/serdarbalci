@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For USCAP - 20209
 author: Serdar Balci
-date: '2020-04-21'
+date: '2020-04-22'
 slug: tweetsForUSCAP20209
 categories:
   - R
@@ -19,47 +19,95 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #USCAP pages here: https://serdarbalci.netlify.com/categories/USCAP/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1233985974901903361 >}}
+{{< tweet 1237476059811065857 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1235113020944084992 >}}
+{{< tweet 1235737997565259776 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1235115359159480320 >}}
+{{< tweet 1234976016004603904 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234602683098484736 >}}
+{{< tweet 1234982719999725568 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234613550775013376 >}}
+{{< tweet 1234980702023643137 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234575473440481281 >}}
+{{< tweet 1234946490159661057 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234674557094522882 >}}
+{{< tweet 1234917372059799552 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234669741425315840 >}}
+{{< tweet 1235008127709270019 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234585583458095107 >}}
+{{< tweet 1234931699705929729 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234642776437870597 >}}
+{{< tweet 1235007148930871298 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234656143139454976 >}}
+{{< tweet 1234961870957809664 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234911472586809344 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234238962652237824 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234329114577784832 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234346439968358400 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234343213298675714 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234337550291963905 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234322806705278978 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234338463266131969 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234331598167797763 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234342464212750337 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234240985070063616 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1225128293151756289 >}}
 <br>
 <br>
 <hr>

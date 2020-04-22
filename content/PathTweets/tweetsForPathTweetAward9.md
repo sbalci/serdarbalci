@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathTweetAward - 9
 author: Serdar Balci
-date: '2020-04-21'
+date: '2020-04-22'
 slug: tweetsForPathTweetAward9
 categories:
   - R
@@ -19,83 +19,63 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories/PathTweetAward/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 839253491172401152 >}}
+{{< tweet 1098059139874467841 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1053051299569299456 >}}
+{{< tweet 1096410641307455489 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1052688607574745088 >}}
+{{< tweet 1138560541264359424 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1121360197631520768 >}}
+{{< tweet 709169429041385472 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1139215395892727808 >}}
+{{< tweet 1242821004944121858 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1093718171952050179 >}}
+{{< tweet 1238660400473878529 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1010915454947188736 >}}
+{{< tweet 1238589973198254083 >}}
 <br>
 <br>
 <hr>
-{{< tweet 993557360093351936 >}}
+{{< tweet 1238668821407416320 >}}
 <br>
 <br>
 <hr>
-{{< tweet 989853496580157445 >}}
+{{< tweet 1235911478923931652 >}}
 <br>
 <br>
 <hr>
-{{< tweet 982963510375272448 >}}
+{{< tweet 1235796906976165888 >}}
 <br>
 <br>
 <hr>
-{{< tweet 982630428074020872 >}}
+{{< tweet 1234322806705278978 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1249514144199565312 >}}
+{{< tweet 1228439130897514496 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1248141037933080576 >}}
+{{< tweet 1226221679287861249 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1244444181042511878 >}}
+{{< tweet 1209815182463119360 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1244469050824163328 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1241014044099837952 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234644840035606530 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1232002252283564032 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1230182316015849472 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1209590970297278464 >}}
+{{< tweet 1209813010287648768 >}}
 <br>
 <br>
 <hr>

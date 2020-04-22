@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PediPath - 10
 author: Serdar Balci
-date: '2020-04-21'
+date: '2020-04-22'
 slug: tweetsForPediPath10
 categories:
   - R
@@ -19,95 +19,51 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PediPath pages here: https://serdarbalci.netlify.com/categories/PediPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 989516190841221121 >}}
+{{< tweet 1234957006127030273 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1061589922014875650 >}}
+{{< tweet 991822344938127360 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1061408719919927296 >}}
+{{< tweet 1246221728860131328 >}}
 <br>
 <br>
 <hr>
-{{< tweet 986506528302579713 >}}
+{{< tweet 1251510040638480384 >}}
 <br>
 <br>
 <hr>
-{{< tweet 929349931420213248 >}}
+{{< tweet 1245729023386214401 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1045440430706438154 >}}
+{{< tweet 1243804794390745090 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1044373271909732352 >}}
+{{< tweet 1242425305438072832 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1251495197449560064 >}}
+{{< tweet 1241520171526701056 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1251132812469645312 >}}
+{{< tweet 1239255002268356608 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1250770422913695745 >}}
+{{< tweet 1234832761845960704 >}}
 <br>
 <br>
 <hr>
-{{< tweet 623174327844896769 >}}
+{{< tweet 1225985692678971392 >}}
 <br>
 <br>
 <hr>
-{{< tweet 623171917239992320 >}}
-<br>
-<br>
-<hr>
-{{< tweet 623169311163727872 >}}
-<br>
-<br>
-<hr>
-{{< tweet 479698892469329920 >}}
-<br>
-<br>
-<hr>
-{{< tweet 479696377556271104 >}}
-<br>
-<br>
-<hr>
-{{< tweet 474980054704082945 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1249510112336605187 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1247447324965642242 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1242151832274771969 >}}
-<br>
-<br>
-<hr>
-{{< tweet 511568267467837440 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1233917013946273793 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1215021038200926210 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1206997671128567814 >}}
+{{< tweet 1210402047541030912 >}}
 <br>
 <br>
 <hr>

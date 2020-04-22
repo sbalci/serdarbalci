@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PediPath - 27
 author: Serdar Balci
-date: '2020-04-21'
+date: '2020-04-22'
 slug: tweetsForPediPath27
 categories:
   - R
@@ -19,67 +19,83 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PediPath pages here: https://serdarbalci.netlify.com/categories/PediPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1230486404901351425 >}}
+{{< tweet 1236188345421590528 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1126873313760792576 >}}
+{{< tweet 1136610836170981377 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1032562384802463745 >}}
+{{< tweet 1135885990415949826 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1032561532347924481 >}}
+{{< tweet 1196193703984955393 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1239006375457374213 >}}
+{{< tweet 595978865790611456 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1243221935607218183 >}}
+{{< tweet 595650527968497666 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1235620953436102657 >}}
+{{< tweet 595649575064629250 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234104233617580033 >}}
+{{< tweet 1249902538939228160 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1230961871408246786 >}}
+{{< tweet 1249801647401902082 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1230953592317792258 >}}
+{{< tweet 1246188405299412993 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1225569947570577413 >}}
+{{< tweet 1246181295484538880 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1222573994299351045 >}}
+{{< tweet 1245393133849870336 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1220244069508505602 >}}
+{{< tweet 1244335153960361986 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1216143232356085761 >}}
+{{< tweet 1243508615530655744 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1214409768858615809 >}}
+{{< tweet 1236154045179428865 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1207057030604869632 >}}
+{{< tweet 1232923334272262144 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1222039736094797824 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1213158224565866503 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1171480406069141509 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1054936371452768257 >}}
 <br>
 <br>
 <hr>
