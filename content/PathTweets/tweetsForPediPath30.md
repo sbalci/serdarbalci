@@ -19,75 +19,47 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PediPath pages here: https://serdarbalci.netlify.com/categories/PediPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 579724508308836352 >}}
+{{< tweet 1119577195410706434 >}}
 <br>
 <br>
 <hr>
-{{< tweet 928806288485629952 >}}
+{{< tweet 955626735734702080 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1118615165413527552 >}}
+{{< tweet 1166685570669666305 >}}
 <br>
 <br>
 <hr>
-{{< tweet 624239797192802304 >}}
+{{< tweet 1214216572769841152 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1252599899511836672 >}}
+{{< tweet 1213129403946979330 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1246906627606769665 >}}
+{{< tweet 1235907224616284160 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1237798831476985856 >}}
+{{< tweet 1225985692678971392 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1237074285908439079 >}}
+{{< tweet 1216325051974287360 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1236039947079086081 >}}
+{{< tweet 1216324896273457153 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234907685151133696 >}}
+{{< tweet 1212848550574534656 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1231586319547215872 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1228147399148756994 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1220929852838236161 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1217701281835421697 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1218302555689603072 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1217817183096463360 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1208492477323382784 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1208048457581096961 >}}
+{{< tweet 1210402047541030912 >}}
 <br>
 <br>
 <hr>
