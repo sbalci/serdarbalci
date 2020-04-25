@@ -19,79 +19,91 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GynPath pages here: https://serdarbalci.netlify.com/categories/GynPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1235217159720075274 >}}
+{{< tweet 1253108641839939592 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1238725072329662464 >}}
+{{< tweet 1141530957997993984 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1238543854048952320 >}}
+{{< tweet 1043106453987328000 >}}
 <br>
 <br>
 <hr>
-{{< tweet 968415904781320192 >}}
+{{< tweet 971768478339186689 >}}
 <br>
 <br>
 <hr>
-{{< tweet 968211233194221568 >}}
+{{< tweet 971406016955924480 >}}
 <br>
 <br>
 <hr>
-{{< tweet 922373455705645056 >}}
+{{< tweet 971285196082475015 >}}
 <br>
 <br>
 <hr>
-{{< tweet 922372628555251712 >}}
+{{< tweet 922455712738897920 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1251624936340369410 >}}
+{{< tweet 1106190556940693504 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1246557074173149190 >}}
+{{< tweet 1137787953319698438 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1248464434915184646 >}}
+{{< tweet 1137425564724355074 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1240333911403778048 >}}
+{{< tweet 1137063177525563392 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234170066108764161 >}}
+{{< tweet 1136700790469484544 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234269262346248192 >}}
+{{< tweet 1136338412036853760 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1233401315641917440 >}}
+{{< tweet 1250289378938638342 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1230904885643661317 >}}
+{{< tweet 1238657896189231107 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1217841075500584962 >}}
+{{< tweet 1235644216610443264 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1215972826836094978 >}}
+{{< tweet 1229103337490067456 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1214339143427334144 >}}
+{{< tweet 1221274190373781506 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1207670797944475655 >}}
+{{< tweet 1130580504464334848 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1217526258738831360 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1216621112450265088 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1208823350967095296 >}}
 <br>
 <br>
 <hr>

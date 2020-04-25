@@ -19,23 +19,39 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GIPath pages here: https://serdarbalci.netlify.com/categories/GIPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1107960407522795520 >}}
+{{< tweet 1154772929210703874 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1220061965810192384 >}}
+{{< tweet 1098231643066769408 >}}
 <br>
 <br>
 <hr>
-{{< tweet 930094185025343489 >}}
+{{< tweet 1070721067931590656 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1247176909508743169 >}}
+{{< tweet 1044270548677742592 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1207270555382091776 >}}
+{{< tweet 1245681709661601794 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1249720004830015495 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1244397684397682688 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1231947791884259328 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1211649757409632257 >}}
 <br>
 <br>
 <hr>
