@@ -19,15 +19,11 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PediPath pages here: https://serdarbalci.netlify.com/categories/PediPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 940405021102841856 >}}
+{{< tweet 1158099696998469632 >}}
 <br>
 <br>
 <hr>
 {{< tweet 1250458419393253378 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1045384884452298760 >}}
 <br>
 <br>
 <hr>
@@ -40,6 +36,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1250470231392337921 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1250476499188228099 >}}
 <br>
 <br>
 <hr>
@@ -63,23 +63,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1243449590289960961 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1240908826863448064 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1238089261397807108 >}}
+{{< tweet 1237761197161799681 >}}
 <br>
 <br>
 <hr>
 {{< tweet 1234435825846407170 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1233799843727863814 >}}
 <br>
 <br>
 <hr>
@@ -95,7 +83,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1227642694970810369 >}}
+{{< tweet 1225168221944385537 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1219968401554255874 >}}
 <br>
 <br>
 <hr>
@@ -103,7 +95,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1214998968230465539 >}}
+{{< tweet 1210621374252953600 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1210186509531271168 >}}
 <br>
 <br>
 <hr>

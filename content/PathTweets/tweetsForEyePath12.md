@@ -59,6 +59,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1159087837138051072 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1251495197449560064 >}}
 <br>
 <br>
@@ -68,6 +72,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1250770422913695745 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1250408034381238272 >}}
 <br>
 <br>
 <hr>
@@ -83,10 +91,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 476763472718737408 >}}
-<br>
-<br>
-<hr>
 {{< tweet 476762090225811456 >}}
 <br>
 <br>
@@ -99,7 +103,23 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 474288985238679553 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1250370842787266564 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1249703947503370245 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1247927918514372608 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1246870204749172736 >}}
 <br>
 <br>
 <hr>
@@ -107,15 +127,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1239914722666971136 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1239780640565989377 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234546814310735872 >}}
+{{< tweet 1238893912569384960 >}}
 <br>
 <br>
 <hr>
@@ -123,15 +139,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1229402961471844353 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1227298486128988161 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1224764205380853762 >}}
 <br>
 <br>
 <hr>
@@ -139,11 +147,23 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1214653392435470336 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1200110715450859522 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1209640246410973186 >}}
+{{< tweet 1206945451662073857 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1205168611096223744 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1205166610497052672 >}}
 <br>
 <br>
 <hr>

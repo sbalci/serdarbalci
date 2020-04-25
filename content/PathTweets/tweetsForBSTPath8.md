@@ -19,19 +19,11 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #BSTPath pages here: https://serdarbalci.netlify.com/categories/BSTPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1247926551284416513 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1252767863364083713 >}}
 <br>
 <br>
 <hr>
 {{< tweet 887846291665039364 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1165265563146260480 >}}
 <br>
 <br>
 <hr>
@@ -44,6 +36,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 988360271587504128 >}}
+<br>
+<br>
+<hr>
+{{< tweet 930346645325148160 >}}
 <br>
 <br>
 <hr>
@@ -75,10 +71,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1252653456978051074 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1189565506296016899 >}}
 <br>
 <br>
@@ -88,10 +80,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 919822261917331456 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1239847092010586112 >}}
 <br>
 <br>
 <hr>
@@ -107,7 +95,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1235996622376644613 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1234616281753473024 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234611889847451650 >}}
 <br>
 <br>
 <hr>
@@ -115,7 +111,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 440537420652507136 >}}
+{{< tweet 440957434354364418 >}}
+<br>
+<br>
+<hr>
+{{< tweet 919754722701074432 >}}
 <br>
 <br>
 <hr>
@@ -123,19 +123,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1225351800154460160 >}}
-<br>
-<br>
-<hr>
-{{< tweet 440488781569736704 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1220291964152827905 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1221164173167616000 >}}
+{{< tweet 1058363352215445504 >}}
 <br>
 <br>
 <hr>
@@ -147,11 +135,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1213326737163145216 >}}
+{{< tweet 1217512111271641089 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1211310414950219777 >}}
+{{< tweet 1213326737163145216 >}}
 <br>
 <br>
 <hr>
