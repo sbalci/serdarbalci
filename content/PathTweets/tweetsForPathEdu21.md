@@ -167,10 +167,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1248832739090018306 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1248647283236917253 >}}
 <br>
 <br>
@@ -211,11 +207,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1237862928851832832 >}}
+{{< tweet 1238895178733293569 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1236537269562929153 >}}
+{{< tweet 1237862928851832832 >}}
 <br>
 <br>
 <hr>
@@ -239,10 +235,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1230921658904535040 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1230920924947472384 >}}
 <br>
 <br>
@@ -252,10 +244,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1230170218414190596 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1226567441934934021 >}}
 <br>
 <br>
 <hr>
@@ -275,19 +263,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1224709251874066433 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1224941192598708226 >}}
 <br>
 <br>
 <hr>
 {{< tweet 1224498221021614080 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1221538297094320129 >}}
 <br>
 <br>
 <hr>
@@ -307,6 +287,18 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1218252531769335808 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1215947698773405696 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1213997887115251712 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1213513385981235202 >}}
 <br>
 <br>
@@ -319,27 +311,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1210296239855722507 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1208736975001456641 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1208189250157629440 >}}
+{{< tweet 1208112105406320641 >}}
 <br>
 <br>
 <hr>
 {{< tweet 1208447063752675331 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1207706455320801280 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1207556431140073473 >}}
 <br>
 <br>
 <hr>
