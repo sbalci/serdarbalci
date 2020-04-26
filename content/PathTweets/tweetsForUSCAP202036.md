@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For USCAP - 202036
 author: Serdar Balci
-date: '2020-04-25'
+date: '2020-04-26'
 slug: tweetsForUSCAP202036
 categories:
   - R
@@ -19,51 +19,135 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #USCAP pages here: https://serdarbalci.netlify.com/categories/USCAP/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1234519944806580225 >}}
+{{< tweet 1234950771700928512 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234251928046952448 >}}
+{{< tweet 1235831588459401220 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234165941606371328 >}}
+{{< tweet 1235819003865526272 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234885343200989184 >}}
+{{< tweet 1235825106225467392 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234879085727248385 >}}
+{{< tweet 1235830925914562561 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234907685151133696 >}}
+{{< tweet 1235289449392680961 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234895931364929537 >}}
+{{< tweet 1235275923890429952 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234864375963340800 >}}
+{{< tweet 1235278238856798208 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234906496850251776 >}}
+{{< tweet 1235283180720095234 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234577255126331392 >}}
+{{< tweet 1235277496427274240 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234572851220447233 >}}
+{{< tweet 1235004925282627584 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234569478211391490 >}}
+{{< tweet 1234983801568149504 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235060024113692673 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235053595264835584 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234349810469105664 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234337430020354054 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234321294629335040 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234322862007177217 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234339677580058625 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234278432717983744 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234207954661826560 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234275291041632257 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1233467398826659840 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1233739100064243712 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1233497541590822912 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1233723921343680512 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1233746364208734208 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1233754293708218368 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1233504778547757056 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1233542710566490114 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1233527621784346625 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1233799634730049538 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1232801835603439620 >}}
 <br>
 <br>
 <hr>
