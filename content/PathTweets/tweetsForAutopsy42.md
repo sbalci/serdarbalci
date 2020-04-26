@@ -19,43 +19,27 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #Autopsy pages here: https://serdarbalci.netlify.com/categories/Autopsy/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1084966025991401472 >}}
+{{< tweet 1185740593269329921 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1084603613790400512 >}}
+{{< tweet 1004386787555307520 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1083878728428486656 >}}
+{{< tweet 938502076614582272 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1083697529043079168 >}}
+{{< tweet 1243685366311370752 >}}
 <br>
 <br>
 <hr>
-{{< tweet 936780432040849408 >}}
+{{< tweet 1207267449223163906 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1194880545601273856 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1248944075170025472 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1231156254036430855 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1227338335863083008 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1219359245591703552 >}}
+{{< tweet 1204929032397185029 >}}
 <br>
 <br>
 <hr>
