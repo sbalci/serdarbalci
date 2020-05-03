@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For GIPath - 50
 author: Serdar Balci
-date: '2020-05-02'
+date: '2020-05-03'
 slug: tweetsForGIPath50
 categories:
   - R
@@ -27,19 +27,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1165397491338100736 >}}
-<br>
-<br>
-<hr>
-{{< tweet 986212553251610624 >}}
-<br>
-<br>
-<hr>
-{{< tweet 838523006347530240 >}}
-<br>
-<br>
-<hr>
-{{< tweet 838522230988505093 >}}
+{{< tweet 1177949211825819648 >}}
 <br>
 <br>
 <hr>
@@ -55,15 +43,51 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1241565545641566213 >}}
+{{< tweet 838515970121609217 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1230764376069566466 >}}
+{{< tweet 838515226341408769 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1209784206475366401 >}}
+{{< tweet 838511699963576320 >}}
+<br>
+<br>
+<hr>
+{{< tweet 838510801543708672 >}}
+<br>
+<br>
+<hr>
+{{< tweet 838507400609083393 >}}
+<br>
+<br>
+<hr>
+{{< tweet 838502383718019072 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1253194447778484225 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1243586281579429890 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235248307930165248 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1218915480628596737 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1212637487992123393 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1206096972588781569 >}}
 <br>
 <br>
 <hr>

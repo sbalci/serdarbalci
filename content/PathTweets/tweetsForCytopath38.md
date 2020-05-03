@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For Cytopath - 38
 author: Serdar Balci
-date: '2020-05-02'
+date: '2020-05-03'
 slug: tweetsForCytopath38
 categories:
   - R
@@ -31,7 +31,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1107073693878935552 >}}
+{{< tweet 1202304856779706368 >}}
 <br>
 <br>
 <hr>
@@ -39,31 +39,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 948106061747068928 >}}
+{{< tweet 1103474501780557826 >}}
 <br>
 <br>
 <hr>
-{{< tweet 947743613999398912 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1213404279324762112 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1065625480697659392 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1065411452532486147 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1197959444392562690 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1197597057101565952 >}}
+{{< tweet 929013574713913345 >}}
 <br>
 <br>
 <hr>
@@ -75,15 +55,43 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1241376023377215489 >}}
+{{< tweet 1113107577716473856 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1238939915083223040 >}}
+{{< tweet 1253012230079229955 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1220129555396157441 >}}
+{{< tweet 1245721070541422592 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234970896193839104 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234969604834942976 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234182394187583488 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1232869983769841665 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1227291445645729792 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1224780198475915269 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1207372048609226752 >}}
 <br>
 <br>
 <hr>
