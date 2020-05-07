@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathTweetAward - 35
 author: Serdar Balci
-date: '2020-05-06'
+date: '2020-05-07'
 slug: tweetsForPathTweetAward35
 categories:
   - R
@@ -19,71 +19,83 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories/PathTweetAward/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1187452862072274944 >}}
+{{< tweet 1218254031459700736 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1085735690497716224 >}}
+{{< tweet 1092380026568433664 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1085144371555643392 >}}
+{{< tweet 1230218506035224580 >}}
 <br>
 <br>
 <hr>
-{{< tweet 714492283723325441 >}}
+{{< tweet 1253541162662506496 >}}
 <br>
 <br>
 <hr>
-{{< tweet 714487902386962437 >}}
+{{< tweet 1251868144295120897 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1240224450710245377 >}}
+{{< tweet 1251183461907529734 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1240255085403308032 >}}
+{{< tweet 1251180211535704065 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1240327418625261573 >}}
+{{< tweet 1245394113060638729 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1240337436217090048 >}}
+{{< tweet 1236317195925323778 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1239627496502349824 >}}
+{{< tweet 1234005209371643905 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234517614023577601 >}}
+{{< tweet 1234006104058646528 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1228002394379882497 >}}
+{{< tweet 1233016246238662656 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1227996101988569088 >}}
+{{< tweet 1223281242419785735 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1221888483129745409 >}}
+{{< tweet 1223275038343864321 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1222002632987938816 >}}
+{{< tweet 1221791454181445632 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1220171702476443649 >}}
+{{< tweet 1220412044878454787 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1210100234271023105 >}}
+{{< tweet 1218556246074298368 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1218209737466093569 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1171906428870610945 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1124702179971829760 >}}
 <br>
 <br>
 <hr>

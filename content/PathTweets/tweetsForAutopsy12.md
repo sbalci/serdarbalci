@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For Autopsy - 12
 author: Serdar Balci
-date: '2020-05-06'
+date: '2020-05-07'
 slug: tweetsForAutopsy12
 categories:
   - R
@@ -19,19 +19,51 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #Autopsy pages here: https://serdarbalci.netlify.com/categories/Autopsy/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1039274829399175169 >}}
+{{< tweet 1074769680060039170 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1251586299091464197 >}}
+{{< tweet 975428200535748608 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1222987607413383168 >}}
+{{< tweet 1201911645473140736 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1204929032397185029 >}}
+{{< tweet 1249925978224234496 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1244482001077301248 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1243607531089539075 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1240739690573160448 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1236530715082162176 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1232689848479363072 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1232673403317952515 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1222738726624710656 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1214314965823315972 >}}
 <br>
 <br>
 <hr>

@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathTweetAward - 46
 author: Serdar Balci
-date: '2020-05-06'
+date: '2020-05-07'
 slug: tweetsForPathTweetAward46
 categories:
   - R
@@ -19,55 +19,91 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories/PathTweetAward/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1256329023170330625 >}}
+{{< tweet 1009945874028429312 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1251912275587465216 >}}
+{{< tweet 1159516495120125952 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1241175141016625153 >}}
+{{< tweet 1143224804310491136 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1240979414390841344 >}}
+{{< tweet 1255928696734703617 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1237477082424168448 >}}
+{{< tweet 1249514144199565312 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1236020840728129536 >}}
+{{< tweet 1248141037933080576 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1230182316015849472 >}}
+{{< tweet 1241133772139122688 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1225172049242382337 >}}
+{{< tweet 1238461635787980801 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1214165734949031939 >}}
+{{< tweet 1238428845642047488 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1211693060595310592 >}}
+{{< tweet 1238428497237983232 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1211689331406061568 >}}
+{{< tweet 1238463082101272577 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1211627466076442624 >}}
+{{< tweet 1233180660711464962 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1211687356144721921 >}}
+{{< tweet 1233170732286435330 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1232886173229604864 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1229420778250129408 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1229591379237593088 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1229586540780806144 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1228118962803576832 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1228118540525289472 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1227969568049680384 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1131567037325516801 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1215769905502572544 >}}
 <br>
 <br>
 <hr>

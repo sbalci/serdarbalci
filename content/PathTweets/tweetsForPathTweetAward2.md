@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathTweetAward - 2
 author: Serdar Balci
-date: '2020-05-06'
+date: '2020-05-07'
 slug: tweetsForPathTweetAward2
 categories:
   - R
@@ -19,95 +19,47 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories/PathTweetAward/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1165397491338100736 >}}
+{{< tweet 1202262830273028096 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1164220363955421186 >}}
+{{< tweet 1256177808973283331 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1158900525083086850 >}}
+{{< tweet 1257473243520303104 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1150741916822228992 >}}
+{{< tweet 1250697748833157122 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151482488717492225 >}}
+{{< tweet 1237992976711921665 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1150106787581976578 >}}
+{{< tweet 1233520050432282630 >}}
 <br>
 <br>
 <hr>
-{{< tweet 838532493372436480 >}}
+{{< tweet 1220705421238779905 >}}
 <br>
 <br>
 <hr>
-{{< tweet 838529768156954624 >}}
+{{< tweet 1220521261551370240 >}}
 <br>
 <br>
 <hr>
-{{< tweet 838529339692040192 >}}
+{{< tweet 1214118546986303489 >}}
 <br>
 <br>
 <hr>
-{{< tweet 838529082212110336 >}}
+{{< tweet 1212912990191673344 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1175805022225018881 >}}
-<br>
-<br>
-<hr>
-{{< tweet 644903952832700417 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1251198313665306630 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1233170732286435330 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1233447580048265216 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1230472743633723394 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1229586540780806144 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1229565943619162119 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1218188168878575620 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1218308235628662785 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1208500923577835522 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1206623435759083520 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1205295267362299904 >}}
+{{< tweet 1208078140398067714 >}}
 <br>
 <br>
 <hr>

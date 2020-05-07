@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For GynPath - 43
 author: Serdar Balci
-date: '2020-05-06'
+date: '2020-05-07'
 slug: tweetsForGynPath43
 categories:
   - R
@@ -19,107 +19,31 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GynPath pages here: https://serdarbalci.netlify.com/categories/GynPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 709951984091017216 >}}
+{{< tweet 1057048695609483264 >}}
 <br>
 <br>
 <hr>
-{{< tweet 709942965586649088 >}}
+{{< tweet 1205203974904639488 >}}
 <br>
 <br>
 <hr>
-{{< tweet 709940660854398976 >}}
+{{< tweet 948468511592013824 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1158096441824481281 >}}
+{{< tweet 1222282188277895170 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1199768124213456897 >}}
+{{< tweet 1257867796681314304 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1199527081232625664 >}}
+{{< tweet 1193985468938866688 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1197593788236980225 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1099954317715398656 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1099281626792488961 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1098822656776794112 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1012964506786394117 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1012558036227932160 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1061731502285701120 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1195361576037048320 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1130508697204068352 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1130508207233871872 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1256582948775747589 >}}
-<br>
-<br>
-<hr>
-{{< tweet 567463519827005440 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1248988249093218304 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1238940990024626177 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234564344450441216 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234646768001794048 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1182402440198545409 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1218679400297836545 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1211771002578984962 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1200397260565073920 >}}
+{{< tweet 1247941297022865408 >}}
 <br>
 <br>
 <hr>
