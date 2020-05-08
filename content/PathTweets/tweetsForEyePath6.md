@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For EyePath - 6
 author: Serdar Balci
-date: '2020-05-07'
+date: '2020-05-08'
 slug: tweetsForEyePath6
 categories:
   - R
@@ -71,6 +71,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1252475812160262150 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1248732677047562247 >}}
 <br>
 <br>
@@ -87,11 +91,23 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1239760161373380608 >}}
+{{< tweet 1059923188895965185 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1241078263826563079 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1156654157404573696 >}}
 <br>
 <br>
 <hr>
 {{< tweet 512957241784549376 >}}
+<br>
+<br>
+<hr>
+{{< tweet 919772331718750208 >}}
 <br>
 <br>
 <hr>
@@ -100,10 +116,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 919743992295694336 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1231125135198912514 >}}
 <br>
 <br>
 <hr>
@@ -119,15 +131,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1226898659368951808 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1226850390727110657 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1223075786669936645 >}}
 <br>
 <br>
 <hr>
@@ -135,23 +139,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1222220282397712384 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1219213109119848448 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1219112324474208256 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1217275228960837632 >}}
+{{< tweet 1216756832745742336 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1215689944565534720 >}}
+{{< tweet 1216132885301944320 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1215656898088882176 >}}
 <br>
 <br>
 <hr>
@@ -160,6 +160,14 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1207057030604869632 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1207065644577034246 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1204929032397185029 >}}
 <br>
 <br>
 <hr>

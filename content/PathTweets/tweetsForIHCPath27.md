@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For IHCPath - 27
 author: Serdar Balci
-date: '2020-05-07'
+date: '2020-05-08'
 slug: tweetsForIHCPath27
 categories:
   - R
@@ -135,10 +135,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1253009036477370369 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1251265938227265537 >}}
 <br>
 <br>
@@ -179,11 +175,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1242046644046069761 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1240944329813708800 >}}
+{{< tweet 1240932684391735299 >}}
 <br>
 <br>
 <hr>
@@ -191,23 +183,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1223303849672355842 >}}
+{{< tweet 1230732379662077953 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1236546953346871296 >}}
 <br>
 <br>
 <hr>
 {{< tweet 1234660558047068160 >}}
-<br>
-<br>
-<hr>
-{{< tweet 510531125807415296 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234511350182924293 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234511348152913920 >}}
 <br>
 <br>
 <hr>
@@ -219,7 +203,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1234506299695665152 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1234266438392668163 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234242652192686080 >}}
+<br>
+<br>
+<hr>
+{{< tweet 440888017947856896 >}}
 <br>
 <br>
 <hr>
@@ -227,15 +223,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1232639921422139393 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1221489918419046400 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1217831122484240384 >}}
+{{< tweet 1214304106749333504 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1214024206276382720 >}}
+{{< tweet 1207191301709545472 >}}
 <br>
 <br>
 <hr>
@@ -252,6 +252,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1208027271518277632 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1207693142302085120 >}}
 <br>
 <br>
 <hr>

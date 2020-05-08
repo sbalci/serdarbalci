@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For IHCPath - 39
 author: Serdar Balci
-date: '2020-05-07'
+date: '2020-05-08'
 slug: tweetsForIHCPath39
 categories:
   - R
@@ -95,7 +95,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1253338814367449092 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1251096901392322561 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1249962012030963712 >}}
 <br>
 <br>
 <hr>
@@ -108,10 +116,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1245424015121903616 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1245071418418659329 >}}
 <br>
 <br>
 <hr>
@@ -131,6 +135,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1236986300672049152 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1236101761129209857 >}}
 <br>
 <br>
@@ -143,11 +151,27 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1232030989087576068 >}}
+{{< tweet 1234164912005382146 >}}
+<br>
+<br>
+<hr>
+{{< tweet 919746934444777472 >}}
 <br>
 <br>
 <hr>
 {{< tweet 1230558378956447745 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1230329084825276416 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1226852095967535105 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1226682696627187712 >}}
 <br>
 <br>
 <hr>
@@ -159,11 +183,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1224739528126214144 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1221261743894204416 >}}
+{{< tweet 1225573065708507139 >}}
 <br>
 <br>
 <hr>
@@ -171,7 +191,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1222399942901166080 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1221469963745140736 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1215308208450883584 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1215060647148433408 >}}
 <br>
 <br>
 <hr>
@@ -184,10 +216,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1213353786250543104 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1211376734534275072 >}}
 <br>
 <br>
 <hr>

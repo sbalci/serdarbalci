@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For EndoPath - 22
 author: Serdar Balci
-date: '2020-05-07'
+date: '2020-05-08'
 slug: tweetsForEndoPath22
 categories:
   - R
@@ -47,15 +47,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1253027014854008832 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1249639024727330816 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1226204140608552960 >}}
 <br>
 <br>
 <hr>

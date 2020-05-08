@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For EyePath - 43
 author: Serdar Balci
-date: '2020-05-07'
+date: '2020-05-08'
 slug: tweetsForEyePath43
 categories:
   - R
@@ -111,15 +111,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1252762467249373184 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1193925989480271873 >}}
 <br>
 <br>
 <hr>
 {{< tweet 1250904102814445568 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1249775335354388480 >}}
 <br>
 <br>
 <hr>
@@ -139,11 +139,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1224559605314768897 >}}
+{{< tweet 1231368210269790209 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1230179662430703617 >}}
+{{< tweet 1224559605314768897 >}}
 <br>
 <br>
 <hr>
@@ -151,15 +151,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1228568145897484288 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1225016238721654784 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1223573871120527361 >}}
+{{< tweet 1228461141799497728 >}}
 <br>
 <br>
 <hr>
@@ -171,7 +163,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1222047104215977989 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1220349216658219009 >}}
+<br>
+<br>
+<hr>
+{{< tweet 440277873274793984 >}}
 <br>
 <br>
 <hr>
@@ -183,7 +183,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1217788617164230658 >}}
+{{< tweet 1218387550123053056 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1218125916074921985 >}}
 <br>
 <br>
 <hr>
@@ -191,7 +195,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1217491704380567553 >}}
+{{< tweet 1217763542709014534 >}}
 <br>
 <br>
 <hr>
@@ -199,7 +203,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1205543756738498562 >}}
+{{< tweet 1206312551954501640 >}}
 <br>
 <br>
 <hr>

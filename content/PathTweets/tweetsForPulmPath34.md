@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PulmPath - 34
 author: Serdar Balci
-date: '2020-05-07'
+date: '2020-05-08'
 slug: tweetsForPulmPath34
 categories:
   - R
@@ -55,15 +55,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1250638518260502534 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1149197877928955904 >}}
 <br>
 <br>
 <hr>
 {{< tweet 1201646216645353473 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1249071552924172289 >}}
 <br>
 <br>
 <hr>
@@ -79,7 +79,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1233981884905988096 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234007186818437121 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1233025243465252866 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1232993486602792960 >}}
 <br>
 <br>
 <hr>
@@ -91,19 +103,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1215845644578897921 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1214584610178392065 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1210127124209840129 >}}
+{{< tweet 1210570781211664384 >}}
 <br>
 <br>
 <hr>
 {{< tweet 1210096460752138241 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1054754756558839808 >}}
 <br>
 <br>
 <hr>
