@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For Autopsy - 21
 author: Serdar Balci
-date: '2020-05-08'
+date: '2020-05-09'
 slug: tweetsForAutopsy21
 categories:
   - R
@@ -19,59 +19,47 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #Autopsy pages here: https://serdarbalci.netlify.com/categories/Autopsy/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1152194819076214784 >}}
+{{< tweet 579737110145568769 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151288769271623680 >}}
+{{< tweet 1254750294099013633 >}}
 <br>
 <br>
 <hr>
-{{< tweet 925226768528654336 >}}
+{{< tweet 1254733912775032833 >}}
 <br>
 <br>
 <hr>
-{{< tweet 925136147369508864 >}}
+{{< tweet 1254165966730285056 >}}
 <br>
 <br>
 <hr>
-{{< tweet 992215670938112002 >}}
+{{< tweet 1248814838379188224 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1128257325045886976 >}}
+{{< tweet 1220788542726660096 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1253056992802942977 >}}
+{{< tweet 1223314727671078913 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1252694606707392512 >}}
+{{< tweet 1213475161082646530 >}}
 <br>
 <br>
 <hr>
-{{< tweet 575344730650755073 >}}
+{{< tweet 1207722415209533440 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1243262215039279105 >}}
+{{< tweet 1207618107512111105 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1242440953203310592 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1242438028892790784 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1231283335332278277 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1227381878283472896 >}}
+{{< tweet 1206877196264071169 >}}
 <br>
 <br>
 <hr>

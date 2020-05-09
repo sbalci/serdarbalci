@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For GynPath - 26
 author: Serdar Balci
-date: '2020-05-08'
+date: '2020-05-09'
 slug: tweetsForGynPath26
 categories:
   - R
@@ -19,91 +19,55 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GynPath pages here: https://serdarbalci.netlify.com/categories/GynPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1141530957997993984 >}}
+{{< tweet 838616717060419585 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1043106453987328000 >}}
+{{< tweet 838615830279651328 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1042744030424031233 >}}
+{{< tweet 1048723912186462208 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1042636586729431041 >}}
+{{< tweet 1047999076615184384 >}}
 <br>
 <br>
 <hr>
-{{< tweet 971768478339186689 >}}
+{{< tweet 975655898751295488 >}}
 <br>
 <br>
 <hr>
-{{< tweet 971406016955924480 >}}
+{{< tweet 924456473001725952 >}}
 <br>
 <br>
 <hr>
-{{< tweet 971285196082475015 >}}
+{{< tweet 1108535477290913792 >}}
 <br>
 <br>
 <hr>
-{{< tweet 922455712738897920 >}}
+{{< tweet 1246144575783256070 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1106190556940693504 >}}
+{{< tweet 1232935960574341120 >}}
 <br>
 <br>
 <hr>
-{{< tweet 603601672712134656 >}}
+{{< tweet 1227381878283472896 >}}
 <br>
 <br>
 <hr>
-{{< tweet 491275564024475649 >}}
+{{< tweet 1214290001372073984 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1256214639790239747 >}}
+{{< tweet 1209904023140212737 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1255850669602373632 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1255668245388046336 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1244626861306634247 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1238979630922514432 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1153360303985324032 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1238170984080969731 >}}
-<br>
-<br>
-<hr>
-{{< tweet 510429796715991040 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1231030450950459394 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1226603555563417600 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1217831122484240384 >}}
+{{< tweet 1206599065099653121 >}}
 <br>
 <br>
 <hr>

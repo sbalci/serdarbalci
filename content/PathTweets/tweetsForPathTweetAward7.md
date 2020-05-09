@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathTweetAward - 7
 author: Serdar Balci
-date: '2020-05-08'
+date: '2020-05-09'
 slug: tweetsForPathTweetAward7
 categories:
   - R
@@ -19,91 +19,51 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories/PathTweetAward/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1258355596719464451 >}}
+{{< tweet 1156901340754382849 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1117821408745275393 >}}
+{{< tweet 1069636240939671554 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1116380068979388416 >}}
+{{< tweet 1252428419163287556 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1148055475457548289 >}}
+{{< tweet 1252651569180553217 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1175805022225018881 >}}
+{{< tweet 1252573889990926336 >}}
 <br>
 <br>
 <hr>
-{{< tweet 644903952832700417 >}}
+{{< tweet 1252573136329084929 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1258097334212333568 >}}
+{{< tweet 1233520050432282630 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1258075406743240707 >}}
+{{< tweet 1220705421238779905 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1241398057742278656 >}}
+{{< tweet 1220521261551370240 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1059481223301611520 >}}
+{{< tweet 1214118546986303489 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234149201728004101 >}}
+{{< tweet 1212912990191673344 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1233946933145866242 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1233938280007102464 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1230677184894918656 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1230989786095276033 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1223242767423475713 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1222965203198869504 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1222956194316398593 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1222175083008905216 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1215599039355293697 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1207360359750946816 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1207343560237953025 >}}
+{{< tweet 1208078140398067714 >}}
 <br>
 <br>
 <hr>

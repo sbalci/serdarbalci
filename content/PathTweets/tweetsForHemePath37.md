@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For HemePath - 37
 author: Serdar Balci
-date: '2020-05-08'
+date: '2020-05-09'
 slug: tweetsForHemePath37
 categories:
   - R
@@ -19,43 +19,43 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #HemePath pages here: https://serdarbalci.netlify.com/categories/HemePath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1118671133463572480 >}}
+{{< tweet 1032563696583684096 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1070560958756646912 >}}
+{{< tweet 1032552853502537728 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1202580247650164736 >}}
+{{< tweet 989860828089409536 >}}
 <br>
 <br>
 <hr>
-{{< tweet 887660988442574849 >}}
+{{< tweet 973535985219833858 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1054281375585656833 >}}
+{{< tweet 1071509874121601024 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1253300386330525696 >}}
+{{< tweet 1070349613943660545 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1235920823099314176 >}}
+{{< tweet 1249459595929702401 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1230847348626075648 >}}
+{{< tweet 1234526217178533893 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1218887047005507586 >}}
+{{< tweet 1231572127582769152 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1207026870363013120 >}}
+{{< tweet 1224032264662724608 >}}
 <br>
 <br>
 <hr>

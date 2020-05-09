@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For MolDx - 2
 author: Serdar Balci
-date: '2020-05-08'
+date: '2020-05-09'
 slug: tweetsForMolDx2
 categories:
   - R
@@ -19,87 +19,47 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #MolDx pages here: https://serdarbalci.netlify.com/categories/MolDx/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 708867979081945088 >}}
+{{< tweet 976160682482679808 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1158099696998469632 >}}
+{{< tweet 976155775105028096 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1029409495238279168 >}}
+{{< tweet 1006149123370901504 >}}
 <br>
 <br>
 <hr>
-{{< tweet 661592575447588864 >}}
+{{< tweet 1101202269817716736 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1255762881058045954 >}}
+{{< tweet 928061516896768000 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1253923439380885505 >}}
+{{< tweet 1258461317775712257 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1246950033037164551 >}}
+{{< tweet 1256247674686316544 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1243961262997999616 >}}
+{{< tweet 1255202164760289282 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1154076636792250368 >}}
+{{< tweet 1242457297709944836 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1226795187986321410 >}}
+{{< tweet 1241823029832941570 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1230019331716780032 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1226882426485370881 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1222677413382914049 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1220779676521635842 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1214249635943833601 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1214249616977170432 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1214249611579146240 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1214249624304640002 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1214249630038282240 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1214249606374019072 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1208093027958284288 >}}
+{{< tweet 1218263534942900224 >}}
 <br>
 <br>
 <hr>

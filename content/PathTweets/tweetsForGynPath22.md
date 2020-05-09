@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For GynPath - 22
 author: Serdar Balci
-date: '2020-05-08'
+date: '2020-05-09'
 slug: tweetsForGynPath22
 categories:
   - R
@@ -19,59 +19,91 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GynPath pages here: https://serdarbalci.netlify.com/categories/GynPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 579593862882181121 >}}
+{{< tweet 1057059629220356097 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1048723912186462208 >}}
+{{< tweet 1056697208949493760 >}}
 <br>
 <br>
 <hr>
-{{< tweet 975655898751295488 >}}
+{{< tweet 1056516006590337025 >}}
 <br>
 <br>
 <hr>
-{{< tweet 924547096237051904 >}}
+{{< tweet 981070982445023232 >}}
 <br>
 <br>
 <hr>
-{{< tweet 924456473001725952 >}}
+{{< tweet 980587738071154688 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1062946474764443648 >}}
+{{< tweet 980104471068868608 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1108535477290913792 >}}
+{{< tweet 1162671496856252417 >}}
 <br>
 <br>
 <hr>
-{{< tweet 443443819208798208 >}}
+{{< tweet 847198933793353729 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1254046371222622209 >}}
+{{< tweet 847198665424982016 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234910514989285376 >}}
+{{< tweet 599348301654175745 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1232198666980511745 >}}
+{{< tweet 1257551693954326528 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1219245268568199168 >}}
+{{< tweet 1255694692030636033 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1214810324177735681 >}}
+{{< tweet 1248788175524261888 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1212336108303990784 >}}
+{{< tweet 1187074612955250688 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1240109059430375427 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235958738168590338 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1230216320295342080 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234334290084646913 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1225572012317429766 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1217087255631650816 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1212991996102610944 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1211709633523572737 >}}
 <br>
 <br>
 <hr>

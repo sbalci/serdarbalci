@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PulmPath - 3
 author: Serdar Balci
-date: '2020-05-08'
+date: '2020-05-09'
 slug: tweetsForPulmPath3
 categories:
   - R
@@ -19,79 +19,75 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PulmPath pages here: https://serdarbalci.netlify.com/categories/PulmPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 975715548360196096 >}}
+{{< tweet 1191795546844872704 >}}
 <br>
 <br>
 <hr>
-{{< tweet 975711769166471168 >}}
+{{< tweet 1191433154482954240 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1250924056880218118 >}}
+{{< tweet 942036051354251265 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1171804112297455616 >}}
+{{< tweet 1174327400311721984 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157367549446828032 >}}
+{{< tweet 1174114587861540865 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157359770313117697 >}}
+{{< tweet 1169285110547566592 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157271660720021505 >}}
+{{< tweet 1254637483750494208 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1156353235273289728 >}}
+{{< tweet 1249679222559461378 >}}
 <br>
 <br>
 <hr>
-{{< tweet 894993190427795456 >}}
+{{< tweet 1249132025505775616 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1257218087465766913 >}}
+{{< tweet 1193243280961609729 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1243587587647787008 >}}
+{{< tweet 1241070218585108480 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1244631065752371202 >}}
+{{< tweet 1240480494254514177 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1239780640565989377 >}}
+{{< tweet 1239951515701280768 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234559202313560065 >}}
+{{< tweet 1234619984757673984 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1222656003017191425 >}}
+{{< tweet 1228304811633922048 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1222299805160001537 >}}
+{{< tweet 1226525143146651653 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1177670129729048576 >}}
+{{< tweet 1217819047468982272 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1220742214122377219 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1212795838554087425 >}}
+{{< tweet 1055179476940845057 >}}
 <br>
 <br>
 <hr>

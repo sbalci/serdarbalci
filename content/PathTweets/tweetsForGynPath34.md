@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For GynPath - 34
 author: Serdar Balci
-date: '2020-05-08'
+date: '2020-05-09'
 slug: tweetsForGynPath34
 categories:
   - R
@@ -19,103 +19,67 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GynPath pages here: https://serdarbalci.netlify.com/categories/GynPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 821551489592201216 >}}
+{{< tweet 1131899421879259136 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1125557128712744960 >}}
+{{< tweet 1131537016263327745 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1124832276611657729 >}}
+{{< tweet 1131471120714985474 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1124651059605938178 >}}
+{{< tweet 1034951949773230080 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1032546682192285696 >}}
+{{< tweet 1034770732566237184 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1032537310691188736 >}}
+{{< tweet 940640326842241025 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1219925555912564737 >}}
+{{< tweet 1255893968606330885 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1211681989448871940 >}}
+{{< tweet 1254850686598160385 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1072508641901727745 >}}
+{{< tweet 1252955083412832256 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1042052300452315136 >}}
+{{< tweet 968936034204561408 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1024289612754309120 >}}
+{{< tweet 1234265800288063490 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1255212707206369281 >}}
+{{< tweet 919758471662153729 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1251191975887372292 >}}
+{{< tweet 1222915360841592832 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1241780003357913089 >}}
+{{< tweet 1219897741926653952 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1241058730097197056 >}}
+{{< tweet 1209601902213828608 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1233981884905988096 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1233025243465252866 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1225735957791563778 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1222221744422969344 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1221274190373781506 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1130580504464334848 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1217526258738831360 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1214794683051921413 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1214572751433949187 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1205682991755857922 >}}
+{{< tweet 1208062809319333890 >}}
 <br>
 <br>
 <hr>

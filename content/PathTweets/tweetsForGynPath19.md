@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For GynPath - 19
 author: Serdar Balci
-date: '2020-05-08'
+date: '2020-05-09'
 slug: tweetsForGynPath19
 categories:
   - R
@@ -19,75 +19,79 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GynPath pages here: https://serdarbalci.netlify.com/categories/GynPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 579724508308836352 >}}
+{{< tweet 579990712290263040 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1056697208949493760 >}}
+{{< tweet 1163997195915288576 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1056516006590337025 >}}
+{{< tweet 1063339858460987392 >}}
 <br>
 <br>
 <hr>
-{{< tweet 980587738071154688 >}}
+{{< tweet 987352216867504128 >}}
 <br>
 <br>
 <hr>
-{{< tweet 980104471068868608 >}}
+{{< tweet 985781644811366400 >}}
 <br>
 <br>
 <hr>
-{{< tweet 979742039377002496 >}}
+{{< tweet 481884566387691520 >}}
 <br>
 <br>
 <hr>
-{{< tweet 847198933793353729 >}}
+{{< tweet 481879601807761408 >}}
 <br>
 <br>
 <hr>
-{{< tweet 847198665424982016 >}}
+{{< tweet 1255875114039533569 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1255177754682765314 >}}
+{{< tweet 1246557074173149190 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1248301601556697089 >}}
+{{< tweet 1248464434915184646 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1248275196919853057 >}}
+{{< tweet 1240333911403778048 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1238676405660999680 >}}
+{{< tweet 1235108152502153216 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234329114577784832 >}}
+{{< tweet 1232542425161191424 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234346439968358400 >}}
+{{< tweet 1231982949496754176 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234343213298675714 >}}
+{{< tweet 1229217988286414848 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1225105557981298688 >}}
+{{< tweet 1221747709528416256 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1214602045912686600 >}}
+{{< tweet 1212571217657573376 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1215201798828494848 >}}
+{{< tweet 1210938463438168066 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1210363232428462082 >}}
 <br>
 <br>
 <hr>

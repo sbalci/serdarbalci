@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For Cytopath - 48
 author: Serdar Balci
-date: '2020-05-08'
+date: '2020-05-09'
 slug: tweetsForCytopath48
 categories:
   - R
@@ -19,71 +19,79 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #Cytopath pages here: https://serdarbalci.netlify.com/categories/Cytopath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 976529374102020096 >}}
+{{< tweet 1202667244439760896 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1196252200558710785 >}}
+{{< tweet 1202486067791720449 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1195238269979525120 >}}
+{{< tweet 1202304856779706368 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1097692665838108672 >}}
+{{< tweet 1104899185805950977 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1010306625616277504 >}}
+{{< tweet 929013574713913345 >}}
 <br>
 <br>
 <hr>
-{{< tweet 944074864960225280 >}}
+{{< tweet 1213404279324762112 >}}
 <br>
 <br>
 <hr>
-{{< tweet 943757650721771520 >}}
+{{< tweet 1065625480697659392 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1010882176206991362 >}}
+{{< tweet 1065411452532486147 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1176479170660118528 >}}
+{{< tweet 1204860158465183746 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1188820840382550016 >}}
+{{< tweet 1257015929541713922 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234510383358074881 >}}
+{{< tweet 1113832378944958467 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1233074040086159361 >}}
+{{< tweet 1113469968132210688 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1220139428133425152 >}}
+{{< tweet 1254892643961708547 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1220208285422444544 >}}
+{{< tweet 1237589700967157761 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1217807722646843392 >}}
+{{< tweet 1237559638314250240 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1217819047468982272 >}}
+{{< tweet 1231978691560906753 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1209837641119731712 >}}
+{{< tweet 1224462062585360387 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1221795988593106944 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1213709388000714752 >}}
 <br>
 <br>
 <hr>
