@@ -19,135 +19,31 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #USCAP pages here: https://serdarbalci.netlify.com/categories/USCAP/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1235692840992346112 >}}
+{{< tweet 1234669741425315840 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1235716828535623680 >}}
+{{< tweet 1234585583458095107 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1235702921020481538 >}}
+{{< tweet 1234642776437870597 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1235690345612087300 >}}
+{{< tweet 1234656143139454976 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1235637492969353218 >}}
+{{< tweet 1234658428426973185 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1235652601099759618 >}}
+{{< tweet 1234652941216186368 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1235731903946293248 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1235787206926782467 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1235784728436973568 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1235667728028991493 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1235281109015031812 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1235307165340045312 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1235351339619594240 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1235351457789923328 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1235330008312360962 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1235110608825016320 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1235102837102632960 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1235106691684814848 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234919971379204098 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234941294952075265 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234977852933541888 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1235022142275588096 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234271420558888962 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234188784628985856 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234278644823887873 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234266465055854593 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234357805605277696 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234186866536017920 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234319581511970816 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234339035411169283 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234353368434270208 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234337081968623621 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1232894772026605568 >}}
+{{< tweet 1234657817660817408 >}}
 <br>
 <br>
 <hr>
