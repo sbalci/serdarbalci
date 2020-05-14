@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For GUPath - 14
 author: Serdar Balci
-date: '2020-05-13'
+date: '2020-05-14'
 slug: tweetsForGUPath14
 categories:
   - R
@@ -27,7 +27,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 838797788511154178 >}}
+<br>
+<br>
+<hr>
 {{< tweet 579623878374371328 >}}
+<br>
+<br>
+<hr>
+{{< tweet 579593862882181121 >}}
 <br>
 <br>
 <hr>
@@ -35,19 +43,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 567463519827005440 >}}
+{{< tweet 1129146635404152833 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1235243965319806976 >}}
+{{< tweet 510531125807415296 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1222379172066222082 >}}
+{{< tweet 510256314685992961 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1215257261830037504 >}}
+{{< tweet 510049114919563264 >}}
 <br>
 <br>
 <hr>

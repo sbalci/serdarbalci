@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PediPath - 28
 author: Serdar Balci
-date: '2020-05-13'
+date: '2020-05-14'
 slug: tweetsForPediPath28
 categories:
   - R
@@ -19,6 +19,14 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PediPath pages here: https://serdarbalci.netlify.com/categories/PediPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
+{{< tweet 1260853496716431360 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1121026849004351489 >}}
+<br>
+<br>
+<hr>
 {{< tweet 958163798040309760 >}}
 <br>
 <br>
@@ -35,15 +43,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1129093159823261696 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1128730772662378496 >}}
 <br>
 <br>
 <hr>
 {{< tweet 1128368383806836737 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1128076027312443392 >}}
 <br>
 <br>
 <hr>
@@ -59,59 +67,35 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1257709189738065927 >}}
+{{< tweet 1257135308145131522 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1257702271200169984 >}}
+{{< tweet 1249902538939228160 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1247284656829063182 >}}
+{{< tweet 1249801647401902082 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1232040307266609154 >}}
+{{< tweet 1246181295484538880 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1231905524611874816 >}}
+{{< tweet 1230181136594239489 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234195503778344961 >}}
+{{< tweet 1232819382147002370 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1232742126187896834 >}}
+{{< tweet 1214157669696585728 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1232343888939098114 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1229386543820869632 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1222713555574763520 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1220452104411799553 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1218128889706209280 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1215293737494089728 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1210672288074477568 >}}
+{{< tweet 1210601209960304640 >}}
 <br>
 <br>
 <hr>

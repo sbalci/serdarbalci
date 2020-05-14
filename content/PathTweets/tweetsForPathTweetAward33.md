@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathTweetAward - 33
 author: Serdar Balci
-date: '2020-05-13'
+date: '2020-05-14'
 slug: tweetsForPathTweetAward33
 categories:
   - R
@@ -27,7 +27,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1222970749138472960 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1221883585860337665 >}}
+<br>
+<br>
+<hr>
+{{< tweet 714492283723325441 >}}
 <br>
 <br>
 <hr>
@@ -35,59 +43,79 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1257519336836812800 >}}
+{{< tweet 1255903398131576834 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1253776939220959232 >}}
+{{< tweet 1248141037933080576 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1251684176883060736 >}}
+{{< tweet 1238461635787980801 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1251733523175804931 >}}
+{{< tweet 1238428845642047488 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1247829459962597377 >}}
+{{< tweet 1233180660711464962 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1241393569270808579 >}}
+{{< tweet 1233170732286435330 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1059481223301611520 >}}
+{{< tweet 1233447580048265216 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234874361443766274 >}}
+{{< tweet 1232886173229604864 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1233946933145866242 >}}
+{{< tweet 1229420778250129408 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1230677184894918656 >}}
+{{< tweet 1229591379237593088 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1223242767423475713 >}}
+{{< tweet 1229586540780806144 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1222965203198869504 >}}
+{{< tweet 1228118962803576832 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1222175083008905216 >}}
+{{< tweet 1228118540525289472 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1215599039355293697 >}}
+{{< tweet 1227969568049680384 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1131567037325516801 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1218188168878575620 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1208500923577835522 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1206623435759083520 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1205295267362299904 >}}
 <br>
 <br>
 <hr>

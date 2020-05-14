@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For IDPath - 16
 author: Serdar Balci
-date: '2020-05-13'
+date: '2020-05-14'
 slug: tweetsForIDPath16
 categories:
   - R
@@ -19,11 +19,11 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #IDPath pages here: https://serdarbalci.netlify.com/categories/IDPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 975272480896991232 >}}
+{{< tweet 974788799757602816 >}}
 <br>
 <br>
 <hr>
-{{< tweet 974788799757602816 >}}
+{{< tweet 1250182684464185344 >}}
 <br>
 <br>
 <hr>
@@ -35,67 +35,59 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1259324520541773824 >}}
+{{< tweet 1260150319058522112 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1257218398464983041 >}}
+{{< tweet 1253710431207567365 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1253014764013445121 >}}
+{{< tweet 1196942028539596800 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1251031859208822784 >}}
+{{< tweet 1246711124176887808 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1251084261320466432 >}}
+{{< tweet 1245353335969976323 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1248911787732471808 >}}
+{{< tweet 1242176238590087170 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1246188405299412993 >}}
+{{< tweet 1241978397674225664 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1245042148052832258 >}}
+{{< tweet 1240916460156772352 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1243492589719949313 >}}
+{{< tweet 1239777719031750657 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1243481059414511619 >}}
+{{< tweet 1238570028884164609 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1242576971361476608 >}}
+{{< tweet 1238250625890164736 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1241380373680082946 >}}
+{{< tweet 1225574760672845825 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1225081366578110464 >}}
+{{< tweet 1223789785401057281 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1237729080545546241 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1237727691320651776 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1221155448658780165 >}}
+{{< tweet 1219052999915401216 >}}
 <br>
 <br>
 <hr>

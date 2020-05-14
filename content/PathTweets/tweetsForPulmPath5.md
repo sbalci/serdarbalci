@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PulmPath - 5
 author: Serdar Balci
-date: '2020-05-13'
+date: '2020-05-14'
 slug: tweetsForPulmPath5
 categories:
   - R
@@ -23,7 +23,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 905588995647827968 >}}
+<br>
+<br>
+<hr>
+{{< tweet 905414678628769792 >}}
+<br>
+<br>
+<hr>
 {{< tweet 991943153157484544 >}}
+<br>
+<br>
+<hr>
+{{< tweet 975556407566024704 >}}
 <br>
 <br>
 <hr>
@@ -43,35 +55,51 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1251238811406864385 >}}
+{{< tweet 1260653590013599745 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1248453492433248258 >}}
+{{< tweet 1259184135526133765 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1245000724313829377 >}}
+{{< tweet 1256709222030589955 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1245353335969976323 >}}
+{{< tweet 1254611586041425920 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1242157657806360585 >}}
+{{< tweet 1254126578386104320 >}}
 <br>
 <br>
 <hr>
-{{< tweet 961923933518917634 >}}
+{{< tweet 1245782612108550145 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1217022743444705280 >}}
+{{< tweet 1245157294658031616 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1208456582876606465 >}}
+{{< tweet 1242509986678411265 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234339677580058625 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234350159460491265 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1229921755491336193 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1055097006736187393 >}}
 <br>
 <br>
 <hr>

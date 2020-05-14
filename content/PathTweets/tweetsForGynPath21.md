@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For GynPath - 21
 author: Serdar Balci
-date: '2020-05-13'
+date: '2020-05-14'
 slug: tweetsForGynPath21
 categories:
   - R
@@ -19,6 +19,10 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GynPath pages here: https://serdarbalci.netlify.com/categories/GynPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
+{{< tweet 1235217159720075274 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1136792039553560577 >}}
 <br>
 <br>
@@ -27,7 +31,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 968415904781320192 >}}
+{{< tweet 1037851335498973184 >}}
 <br>
 <br>
 <hr>
@@ -43,39 +47,71 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1259181855489888257 >}}
+{{< tweet 1259885138252460032 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1257148158116679680 >}}
+{{< tweet 1255556806291656706 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1250566819854852096 >}}
+{{< tweet 1251862984823132160 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1249788995510435842 >}}
+{{< tweet 1251137220070699008 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1243650757553000449 >}}
+{{< tweet 1231552782441648128 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1191906307361705984 >}}
+{{< tweet 1089282837478551552 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1191905380529516544 >}}
+{{< tweet 1088920446857302022 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1236704596875194368 >}}
+{{< tweet 1241780003357913089 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1233090329760366593 >}}
+{{< tweet 1233025243465252866 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1225735957791563778 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1222221744422969344 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1221274190373781506 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1130580504464334848 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1217526258738831360 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1214794683051921413 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1214572751433949187 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1205682991755857922 >}}
 <br>
 <br>
 <hr>

@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For GrossPath - 24
 author: Serdar Balci
-date: '2020-05-13'
+date: '2020-05-14'
 slug: tweetsForGrossPath24
 categories:
   - R
@@ -20,6 +20,10 @@ See other #GrossPath pages here: https://serdarbalci.netlify.com/categories/Gros
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
 {{< tweet 929391682117881857 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1214247805759479809 >}}
 <br>
 <br>
 <hr>

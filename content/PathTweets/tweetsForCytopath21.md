@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For Cytopath - 21
 author: Serdar Balci
-date: '2020-05-13'
+date: '2020-05-14'
 slug: tweetsForCytopath21
 categories:
   - R
@@ -43,35 +43,47 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 456485524992057344 >}}
+{{< tweet 1260778362248757248 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1250895502624919552 >}}
+{{< tweet 1231552782441648128 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1250433972586176513 >}}
+{{< tweet 1248266314709454849 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1249765272908640262 >}}
+{{< tweet 1248266316437479425 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1238880980288638984 >}}
+{{< tweet 1246416043133804545 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1237599757855383552 >}}
+{{< tweet 1234495088732012545 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1220422337721511937 >}}
+{{< tweet 1222478085775294464 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1050778894457077761 >}}
+{{< tweet 1222576890243772416 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1216786477704777728 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1213158347010117633 >}}
+<br>
+<br>
+<hr>
+{{< tweet 951806244028932098 >}}
 <br>
 <br>
 <hr>

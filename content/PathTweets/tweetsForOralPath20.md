@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For OralPath - 20
 author: Serdar Balci
-date: '2020-05-13'
+date: '2020-05-14'
 slug: tweetsForOralPath20
 categories:
   - R

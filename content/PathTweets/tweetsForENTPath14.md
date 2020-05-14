@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For ENTPath - 14
 author: Serdar Balci
-date: '2020-05-13'
+date: '2020-05-14'
 slug: tweetsForENTPath14
 categories:
   - R
@@ -23,7 +23,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1152557238034161664 >}}
+{{< tweet 838808765172449280 >}}
 <br>
 <br>
 <hr>
@@ -43,11 +43,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1049992357670580226 >}}
+<br>
+<br>
+<hr>
 {{< tweet 924954903952232448 >}}
 <br>
 <br>
 <hr>
 {{< tweet 924864272869371905 >}}
+<br>
+<br>
+<hr>
+{{< tweet 924637713780764672 >}}
 <br>
 <br>
 <hr>
@@ -59,7 +67,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1250502314885955584 >}}
+{{< tweet 1250833922566393856 >}}
 <br>
 <br>
 <hr>
@@ -71,55 +79,47 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1246786211932303360 >}}
+{{< tweet 1260691315660128256 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1166440710062522368 >}}
+{{< tweet 1260733799127748608 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1242722407686836229 >}}
+{{< tweet 1253988152999440389 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1238981879744864257 >}}
+{{< tweet 1250657072049422336 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234388016698884096 >}}
+{{< tweet 1245377387954458624 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1236154610013933568 >}}
+{{< tweet 1240978187762499586 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1233488761444556800 >}}
+{{< tweet 1240735807931068430 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234564344450441216 >}}
+{{< tweet 1234286663116840960 >}}
 <br>
 <br>
 <hr>
-{{< tweet 919496226533392384 >}}
+{{< tweet 1230972474160009216 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1225620537810063360 >}}
+{{< tweet 1224959682730528768 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1221481675923705857 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1216137372397641728 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1210411693706301440 >}}
+{{< tweet 1214821217175252992 >}}
 <br>
 <br>
 <hr>

@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For HemePath - 31
 author: Serdar Balci
-date: '2020-05-13'
+date: '2020-05-14'
 slug: tweetsForHemePath31
 categories:
   - R
@@ -27,15 +27,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 954539417246380032 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1048190568889798657 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1027112809593794560 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1024249427739979776 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1202580247650164736 >}}
 <br>
 <br>
 <hr>
@@ -59,19 +59,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1257668328199520260 >}}
+{{< tweet 1258345940953575425 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1251234060686499844 >}}
+{{< tweet 1250763574374551554 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1240257600446291968 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1224382859303096320 >}}
+{{< tweet 1213890834137042944 >}}
 <br>
 <br>
 <hr>
