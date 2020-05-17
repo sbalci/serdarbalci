@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PediPath - 30
 author: Serdar Balci
-date: '2020-05-16'
+date: '2020-05-17'
 slug: tweetsForPediPath30
 categories:
   - R
@@ -19,19 +19,59 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PediPath pages here: https://serdarbalci.netlify.com/categories/PediPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1236791708119162880 >}}
+{{< tweet 1230486404901351425 >}}
 <br>
 <br>
 <hr>
-{{< tweet 878725908491886592 >}}
+{{< tweet 1126873313760792576 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1255760178089058304 >}}
+{{< tweet 1032562384802463745 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1250840231575773190 >}}
+{{< tweet 1032561532347924481 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1032555856330600448 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1251495197449560064 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1251132812469645312 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1250458419393253378 >}}
+<br>
+<br>
+<hr>
+{{< tweet 438067202433236992 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1259572590701658117 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1259572135024111617 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1253879094531502088 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1242435332387360768 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1239255002268356608 >}}
 <br>
 <br>
 <hr>
@@ -39,7 +79,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1234153029776994304 >}}
+{{< tweet 1232411190757904386 >}}
 <br>
 <br>
 <hr>
@@ -47,19 +87,27 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1230213956146364416 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1229791145393303554 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1229596195208749057 >}}
+{{< tweet 1229784864993361921 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1227381878283472896 >}}
+{{< tweet 424263993667366912 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1210087207668600832 >}}
+{{< tweet 1215212590361718784 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1214268403755692032 >}}
 <br>
 <br>
 <hr>

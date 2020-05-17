@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For USCAP - 202032
 author: Serdar Balci
-date: '2020-05-16'
+date: '2020-05-17'
 slug: tweetsForUSCAP202032
 categories:
   - R
@@ -19,27 +19,7 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #USCAP pages here: https://serdarbalci.netlify.com/categories/USCAP/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1234519944806580225 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234251928046952448 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234165941606371328 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234931499679399936 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234910514989285376 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234921128415522816 >}}
+{{< tweet 1235743032571396096 >}}
 <br>
 <br>
 <hr>
@@ -47,39 +27,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1234270970287968262 >}}
+{{< tweet 1234970896193839104 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234238254930649088 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234191884798636032 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234339423535288321 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234249764775968770 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234269710147031041 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234247066261630977 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234259682182778880 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234282391461605376 >}}
+{{< tweet 1234969604834942976 >}}
 <br>
 <br>
 <hr>
@@ -87,7 +39,39 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1233670402989146117 >}}
+{{< tweet 1234339455978262528 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234207076714471432 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234191932164845569 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234226931777916928 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234333093181325315 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234247872343764992 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234238255987642375 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234229506153615360 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234240218493882368 >}}
 <br>
 <br>
 <hr>
