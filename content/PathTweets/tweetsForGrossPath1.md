@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For GrossPath - 1
 author: Serdar Balci
-date: '2020-05-19'
+date: '2020-05-20'
 slug: tweetsForGrossPath1
 categories:
   - R
@@ -23,23 +23,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1214252909665406977 >}}
+{{< tweet 1248293809844338688 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1214254081457434624 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1214256610924781569 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1214255344089804803 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1214305847066681344 >}}
+{{< tweet 1223314727671078913 >}}
 <br>
 <br>
 <hr>
