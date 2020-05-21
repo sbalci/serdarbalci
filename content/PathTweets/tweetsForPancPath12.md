@@ -19,19 +19,27 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PancPath pages here: https://serdarbalci.netlify.com/categories/PancPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 527857513665150976 >}}
+{{< tweet 1177949211825819648 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1249495243705081857 >}}
+{{< tweet 1261473743731376130 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1227223682348613632 >}}
+{{< tweet 1260144813095059458 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1125853206288982023 >}}
+{{< tweet 1260033665163091969 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1252557476685324289 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1216786477704777728 >}}
 <br>
 <br>
 <hr>
