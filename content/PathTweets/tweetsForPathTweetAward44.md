@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathTweetAward - 44
 author: Serdar Balci
-date: '2020-05-20'
+date: '2020-05-21'
 slug: tweetsForPathTweetAward44
 categories:
   - R
@@ -31,10 +31,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1258097334212333568 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1258075406743240707 >}}
 <br>
 <br>
@@ -51,6 +47,18 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1240805591699918851 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1240776233757085697 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1240723305985912838 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1239150567613702145 >}}
 <br>
 <br>
@@ -63,15 +71,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1232577319870574593 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1230685243843194882 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1214653383610494976 >}}
+{{< tweet 1221858993565503488 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1214090028508467200 >}}
+{{< tweet 1214016768383078400 >}}
 <br>
 <br>
 <hr>

@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For IHCPath - 47
 author: Serdar Balci
-date: '2020-05-20'
+date: '2020-05-21'
 slug: tweetsForIHCPath47
 categories:
   - R
@@ -99,15 +99,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1260630948661678080 >}}
+{{< tweet 1254815833920069639 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1254566071220092928 >}}
 <br>
 <br>
 <hr>
 {{< tweet 1253696897421844490 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1253741262005506050 >}}
 <br>
 <br>
 <hr>
@@ -119,7 +119,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1249754476002631680 >}}
+{{< tweet 1251779488804995072 >}}
 <br>
 <br>
 <hr>
@@ -128,10 +128,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1245124741444382720 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1244347931119046656 >}}
 <br>
 <br>
 <hr>
@@ -147,23 +143,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1237442575646236673 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1234269262346248192 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1233401315641917440 >}}
+{{< tweet 1233457323093479430 >}}
 <br>
 <br>
 <hr>
 {{< tweet 1232659181292752896 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1144028758619258880 >}}
 <br>
 <br>
 <hr>
@@ -175,6 +163,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1140392846064672768 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1223786605942624256 >}}
 <br>
 <br>
@@ -183,19 +175,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1218945968642707456 >}}
+{{< tweet 1218257381370449920 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1214303939941847043 >}}
+{{< tweet 1214262397315276801 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1212081585182453762 >}}
 <br>
 <br>
 <hr>
 {{< tweet 1209303090031136768 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1205421565137039360 >}}
 <br>
 <br>
 <hr>
