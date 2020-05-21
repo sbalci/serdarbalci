@@ -19,15 +19,15 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EndoPath pages here: https://serdarbalci.netlify.com/categories/EndoPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1165446753367158784 >}}
+{{< tweet 1167235241305505792 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1065757730718138368 >}}
+{{< tweet 1248338356917940224 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1095657432351719424 >}}
+{{< tweet 1235999295712587777 >}}
 <br>
 <br>
 <hr>

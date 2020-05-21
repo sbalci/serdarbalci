@@ -19,6 +19,30 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PulmPath pages here: https://serdarbalci.netlify.com/categories/PulmPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
+{{< tweet 1167990998506491912 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1167990924032368642 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1167990874149507074 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1167981983894401027 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1167497977054846981 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1167494995433185282 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1167478599076732932 >}}
 <br>
 <br>
@@ -27,71 +51,55 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1167471741452595200 >}}
+{{< tweet 1170650161904869383 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1167471686603743233 >}}
+{{< tweet 992484305279516673 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1167453082004918272 >}}
+{{< tweet 1154709305259696128 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1167450747778281473 >}}
+{{< tweet 1259923302816120832 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1157254504980582400 >}}
+{{< tweet 1251413095450316801 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1216054395802128385 >}}
+{{< tweet 1247273706021212160 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1216054330274516994 >}}
+{{< tweet 1235911478923931652 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1216053477778116610 >}}
+{{< tweet 1234350159460491265 >}}
 <br>
 <br>
 <hr>
-{{< tweet 957076498879455232 >}}
+{{< tweet 1225437774272061441 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1151981022579515394 >}}
+{{< tweet 1223429598760914944 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1241795987678642179 >}}
+{{< tweet 1220701755781988352 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1085346084719869954 >}}
+{{< tweet 1055384347996536833 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1237944635395317763 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234508766713765888 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1225242671972790272 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1209815182463119360 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1209816909912444929 >}}
+{{< tweet 1055274777995227136 >}}
 <br>
 <br>
 <hr>

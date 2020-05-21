@@ -19,59 +19,103 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EyePath pages here: https://serdarbalci.netlify.com/categories/EyePath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 922915858950656002 >}}
+{{< tweet 1263188808419418112 >}}
 <br>
 <br>
 <hr>
-{{< tweet 922779925928583169 >}}
+{{< tweet 579446311549816834 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1184567254471598080 >}}
+{{< tweet 1145671269104246785 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1208157228198453251 >}}
+{{< tweet 1145127657186578438 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1105228439861321740 >}}
+{{< tweet 1144765245715410945 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1246181295484538880 >}}
+{{< tweet 923187765918830592 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1243180579232899072 >}}
+{{< tweet 1226146329182777344 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1243157495800975360 >}}
+{{< tweet 1225981297551650816 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1242771711344418817 >}}
+{{< tweet 1067622416480780294 >}}
 <br>
 <br>
 <hr>
-{{< tweet 964483281625501697 >}}
+{{< tweet 1259058685671768064 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1218875772200521728 >}}
+{{< tweet 1258037867164635137 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1218614069546098688 >}}
+{{< tweet 1255241744825884673 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1215046206608592897 >}}
+{{< tweet 1255305717847908352 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1204457086958145542 >}}
+{{< tweet 1253799914657796099 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1253318447536078848 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1245803557841801216 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1240893636515991552 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1238683989193490434 >}}
+<br>
+<br>
+<hr>
+{{< tweet 919767688133480448 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234136472120328192 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1226541867677949954 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1226517340898123776 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1222220282397712384 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1055555493899444224 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1208974322674520065 >}}
 <br>
 <br>
 <hr>

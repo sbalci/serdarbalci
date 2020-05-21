@@ -19,71 +19,35 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #USCAP pages here: https://serdarbalci.netlify.com/categories/USCAP/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1234980390080675845 >}}
+{{< tweet 1235384437359206400 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1235028711675580419 >}}
+{{< tweet 1235336311705423872 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1235024335015796741 >}}
+{{< tweet 1235281109015031812 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234246936162533376 >}}
+{{< tweet 1235307165340045312 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234207939545550848 >}}
+{{< tweet 1234905452216897536 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234235542142738432 >}}
+{{< tweet 1234471636453085184 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234239770911367168 >}}
+{{< tweet 1233920053671845888 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234234203509641216 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234241951945244672 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234273234293387265 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234238962652237824 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234329114577784832 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234346439968358400 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1233731259546951685 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1233519911412039680 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1233626977099075584 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1233594587442077696 >}}
+{{< tweet 1230884764581801989 >}}
 <br>
 <br>
 <hr>

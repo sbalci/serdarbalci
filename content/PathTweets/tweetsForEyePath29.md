@@ -19,71 +19,71 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EyePath pages here: https://serdarbalci.netlify.com/categories/EyePath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 579446311549816834 >}}
+{{< tweet 1260666845566308358 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1244523315567288320 >}}
+{{< tweet 1257199399337201664 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1145127657186578438 >}}
+{{< tweet 1148026989695000576 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1144765245715410945 >}}
+{{< tweet 1146577317856022529 >}}
 <br>
 <br>
 <hr>
-{{< tweet 973104406215274496 >}}
+{{< tweet 1048723912186462208 >}}
 <br>
 <br>
 <hr>
-{{< tweet 923187765918830592 >}}
+{{< tweet 1047738097054625792 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1225981297551650816 >}}
+{{< tweet 975513676605136896 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1067622416480780294 >}}
+{{< tweet 924139283450970112 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1065937635217104896 >}}
+{{< tweet 923776806301216771 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1254073429202022405 >}}
+{{< tweet 1072501766720229377 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1252475812160262150 >}}
+{{< tweet 1257750111993704452 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1250960006586830850 >}}
+{{< tweet 1257301637003194373 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1250356634477645829 >}}
+{{< tweet 1253308869603975170 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1241449796487057413 >}}
+{{< tweet 1240775057078714368 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1218749935320993793 >}}
+{{< tweet 1223448398650474497 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1215119238257491969 >}}
+{{< tweet 440277873274793984 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1211017556665851906 >}}
+{{< tweet 1217763542709014534 >}}
 <br>
 <br>
 <hr>

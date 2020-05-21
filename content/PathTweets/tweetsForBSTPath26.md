@@ -19,95 +19,71 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #BSTPath pages here: https://serdarbalci.netlify.com/categories/BSTPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1263173339713097730 >}}
+{{< tweet 839086734923214848 >}}
 <br>
 <br>
 <hr>
-{{< tweet 838838545829752833 >}}
+{{< tweet 1154912957911879681 >}}
 <br>
 <br>
 <hr>
-{{< tweet 579634653918793729 >}}
+{{< tweet 1154731748359467008 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234253778120998912 >}}
+{{< tweet 1053797726956081152 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1150926347948052481 >}}
+{{< tweet 979137986980757504 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1051442040104411136 >}}
+{{< tweet 978654757106561025 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1050898405256392704 >}}
+{{< tweet 978171535968972800 >}}
 <br>
 <br>
 <hr>
-{{< tweet 976721781397504001 >}}
+{{< tweet 926087625257000962 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1261130007553945601 >}}
+{{< tweet 925861068483653632 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1260537865739649025 >}}
+{{< tweet 1044679601807659008 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1259732961475260417 >}}
+{{< tweet 1259299351622541313 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1257057048627421184 >}}
+{{< tweet 1249959094695243777 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1254848346457587712 >}}
+{{< tweet 1232777393410101248 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1254436599133323265 >}}
+{{< tweet 1230537603163684864 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1252653456978051074 >}}
+{{< tweet 1222569881071226880 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1250443393710211076 >}}
+{{< tweet 1215435413558456320 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1246875377185837066 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1235328687861620736 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1230088972929511429 >}}
-<br>
-<br>
-<hr>
-{{< tweet 440526496608694275 >}}
-<br>
-<br>
-<hr>
-{{< tweet 954508529490153472 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1211120717783191553 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1209968827313864706 >}}
+{{< tweet 1215392017674653696 >}}
 <br>
 <br>
 <hr>
