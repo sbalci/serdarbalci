@@ -19,55 +19,107 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathArticles pages here: https://serdarbalci.netlify.com/categories/PathArticles/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1258090498499047424 >}}
+{{< tweet 1260084049483268097 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1255923642682290178 >}}
+{{< tweet 1159067871315709952 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1252184435539271681 >}}
+{{< tweet 1249077018530062336 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1249631009227882498 >}}
+{{< tweet 1249028195019522054 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1104028253013135362 >}}
+{{< tweet 1248714632694562816 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1245367454441836546 >}}
+{{< tweet 1248665810647818241 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1240408024356769792 >}}
+{{< tweet 1248352244640161793 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1239688158343725056 >}}
+{{< tweet 1149036069398155265 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1235883029077340166 >}}
+{{< tweet 1260968128152035338 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234131669994569730 >}}
+{{< tweet 1258314627445907456 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1231277724716670976 >}}
+{{< tweet 1254423851804626945 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1223648705225674755 >}}
+{{< tweet 1251578514014449664 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1222542353526927361 >}}
+{{< tweet 1249026928817745920 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1247780296914653184 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1244493846987366400 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1243117436267909121 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1236563964114472966 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1233462665705598976 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234466984261300224 >}}
+<br>
+<br>
+<hr>
+{{< tweet 961008815008370688 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1232072113349152768 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1231973445581275138 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1057638586798014464 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1210289530663780352 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1208054600214962176 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1204894875851935744 >}}
 <br>
 <br>
 <hr>
