@@ -19,91 +19,75 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathArticles pages here: https://serdarbalci.netlify.com/categories/PathArticles/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1188839674254680065 >}}
+{{< tweet 1199936912829628416 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1186241287265181696 >}}
+{{< tweet 1197849208302252032 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1184087565609111552 >}}
+{{< tweet 1114905204607078401 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1207683516890255361 >}}
+{{< tweet 1261052435642175488 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1262414357125832704 >}}
+{{< tweet 1260208271656443909 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1260997650553413640 >}}
+{{< tweet 1256901432885809152 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1253666711489982470 >}}
+{{< tweet 1253011184317542404 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1248269605908480000 >}}
+{{< tweet 1251510040638480384 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1246893753060732930 >}}
+{{< tweet 1249443835010310145 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1191905380529516544 >}}
+{{< tweet 1246008247842209792 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1085346084719869954 >}}
+{{< tweet 1245412172659900416 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1239619380612231168 >}}
+{{< tweet 1243664095481679879 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1238454835185209344 >}}
+{{< tweet 1242011976915718144 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234511984156123136 >}}
+{{< tweet 1240599173851996160 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234479013613228032 >}}
+{{< tweet 959411880723918848 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1230557908699475968 >}}
+{{< tweet 1058363352215445504 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1230485956232384513 >}}
+{{< tweet 1222714244099190785 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1224503371521982464 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1053018134402269184 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1212401341399805954 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1171480406069141509 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1207798599259525120 >}}
+{{< tweet 1208140400168329216 >}}
 <br>
 <br>
 <hr>

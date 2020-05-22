@@ -19,55 +19,39 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #HemePath pages here: https://serdarbalci.netlify.com/categories/HemePath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 709513590135336960 >}}
+{{< tweet 1200411850036236289 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1198499779669417985 >}}
+{{< tweet 1200408504676171780 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1098375580930605056 >}}
+{{< tweet 1200311728237531136 >}}
 <br>
 <br>
 <hr>
-{{< tweet 944074864960225280 >}}
+{{< tweet 1060604648875347968 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1263084755052122112 >}}
+{{< tweet 1060602963276845056 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1257286693427777536 >}}
+{{< tweet 1241885788272570369 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1256187778330656769 >}}
+{{< tweet 1240994210641305601 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1256199386083794945 >}}
+{{< tweet 1239237633831653376 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1239907208030236673 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1238819885481955331 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1234883775399702531 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1065379080529477632 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1222149985782915072 >}}
+{{< tweet 1225808747324493825 >}}
 <br>
 <br>
 <hr>
