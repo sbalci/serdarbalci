@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathTweetAward - 8
 author: Serdar Balci
-date: '2020-05-22'
+date: '2020-05-23'
 slug: tweetsForPathTweetAward8
 categories:
   - R
@@ -19,99 +19,47 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories/PathTweetAward/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1229193910112735233 >}}
+{{< tweet 1079725474157416448 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1069550013439664128 >}}
+{{< tweet 1078766681189740544 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1069371972553859072 >}}
+{{< tweet 1263522590561361921 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1068449093217742848 >}}
+{{< tweet 1254935753034997761 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1263481542837444609 >}}
+{{< tweet 1254433317627330561 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1258932340405014528 >}}
+{{< tweet 1242149700918263813 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1259166028808028166 >}}
+{{< tweet 1234517614023577601 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1257473243520303104 >}}
+{{< tweet 1174873151118991360 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1253406882494103553 >}}
+{{< tweet 1217971354277826560 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1240327418625261573 >}}
+{{< tweet 1210397150787461122 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1240337436217090048 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1240304575506235399 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1240303087492968448 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1240272635675762688 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1238461635787980801 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1238428845642047488 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1238428497237983232 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1238463082101272577 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1237483376363307010 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1237407295211851776 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1223599527309070337 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1205044976532566016 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1204821753798758402 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1204665877892911105 >}}
+{{< tweet 1207343560237953025 >}}
 <br>
 <br>
 <hr>
