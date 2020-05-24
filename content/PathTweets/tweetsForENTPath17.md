@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For ENTPath - 17
 author: Serdar Balci
-date: '2020-05-23'
+date: '2020-05-24'
 slug: tweetsForENTPath17
 categories:
   - R
@@ -19,67 +19,43 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #ENTPath pages here: https://serdarbalci.netlify.com/categories/ENTPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1169614243710173184 >}}
+{{< tweet 1263863197309829125 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1169441685605994496 >}}
+{{< tweet 1174506506546372610 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1069744359287877634 >}}
+{{< tweet 1173056943792906240 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1069563157469777920 >}}
+{{< tweet 1074637042946981888 >}}
 <br>
 <br>
 <hr>
-{{< tweet 992547226776817665 >}}
+{{< tweet 995205123545612288 >}}
 <br>
 <br>
 <hr>
-{{< tweet 991943153157484544 >}}
+{{< tweet 1188337354316177410 >}}
 <br>
 <br>
 <hr>
-{{< tweet 991459903343476736 >}}
+{{< tweet 1247953739815796736 >}}
 <br>
 <br>
 <hr>
-{{< tweet 931705844663648256 >}}
+{{< tweet 1230880869587542016 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1172120186394222592 >}}
+{{< tweet 1230789277413408770 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1261245472469024770 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1260768242106130432 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1257303389324505093 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1255936958473388032 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1243155490172887040 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1238234197422153730 >}}
-<br>
-<br>
-<hr>
-{{< tweet 443835615650783232 >}}
+{{< tweet 1209222176672534533 >}}
 <br>
 <br>
 <hr>

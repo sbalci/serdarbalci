@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For EyePath - 45
 author: Serdar Balci
-date: '2020-05-23'
+date: '2020-05-24'
 slug: tweetsForEyePath45
 categories:
   - R
@@ -19,87 +19,67 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EyePath pages here: https://serdarbalci.netlify.com/categories/EyePath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1075107719802183681 >}}
+{{< tweet 1218250020647911424 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1073659628377001985 >}}
+{{< tweet 1217887627833036800 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1181805287218524161 >}}
+{{< tweet 1217706450610356224 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1113597290579554305 >}}
+{{< tweet 1118489934392741889 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1113416072449810433 >}}
+{{< tweet 1117402677992775680 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1113234857314836480 >}}
+{{< tweet 1117221465571487744 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1112543328455680002 >}}
+{{< tweet 1026978604226232320 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1022012765270155265 >}}
+{{< tweet 954539417246380032 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1022012400357261312 >}}
+{{< tweet 989500420593803265 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1022011422912405504 >}}
+{{< tweet 1259706182458961920 >}}
 <br>
 <br>
 <hr>
-{{< tweet 952364826679914496 >}}
+{{< tweet 1222750623273299969 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1209926112400289793 >}}
+{{< tweet 1241449796487057413 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1206317758973194240 >}}
+{{< tweet 1238167627018776577 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1263902088041390083 >}}
+{{< tweet 1235408811726213122 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1262373140921036800 >}}
+{{< tweet 1218749935320993793 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1252475812160262150 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1250391302560256001 >}}
-<br>
-<br>
-<hr>
-{{< tweet 919807241548468224 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1217491704380567553 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1213924651669348352 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1212729829424074752 >}}
+{{< tweet 954508529490153472 >}}
 <br>
 <br>
 <hr>
