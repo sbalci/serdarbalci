@@ -19,10 +19,6 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #BSTPath pages here: https://serdarbalci.netlify.com/categories/BSTPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 976108131620016129 >}}
-<br>
-<br>
-<hr>
 {{< tweet 976102001971900417 >}}
 <br>
 <br>
@@ -31,15 +27,27 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 975984373647343616 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1262053900846276608 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1193969889007919106 >}}
+{{< tweet 1190708376746881026 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1093845355601358850 >}}
+{{< tweet 1190527198995697667 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1190345983965577217 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1092758065902804992 >}}
 <br>
 <br>
 <hr>
@@ -51,47 +59,55 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 942851543237214208 >}}
+{{< tweet 1007769541110390785 >}}
 <br>
 <br>
 <hr>
-{{< tweet 942670319289958400 >}}
+{{< tweet 1007648731229896706 >}}
 <br>
 <br>
 <hr>
-{{< tweet 942398490876846080 >}}
+{{< tweet 941583005214052353 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1088948072422522881 >}}
+{{< tweet 941311166189588485 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1088585117600309249 >}}
+{{< tweet 1044679601807659008 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1259732961475260417 >}}
+{{< tweet 1243269191454666753 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1258061118951456768 >}}
+{{< tweet 1241044574014971907 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1256968062298775558 >}}
+{{< tweet 1240972033363775488 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1242509591834841088 >}}
+{{< tweet 1261245472469024770 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1240681197883265024 >}}
+{{< tweet 1254077714094592000 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1219961745776816131 >}}
+{{< tweet 1251511123003744256 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1204761709568806913 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1204746535004758017 >}}
 <br>
 <br>
 <hr>

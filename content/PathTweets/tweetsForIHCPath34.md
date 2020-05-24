@@ -23,10 +23,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1132805463437762562 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1131899421879259136 >}}
 <br>
 <br>
@@ -35,11 +31,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 965291684635361281 >}}
-<br>
-<br>
-<hr>
-{{< tweet 964929220026687489 >}}
+{{< tweet 1130087343124148225 >}}
 <br>
 <br>
 <hr>
@@ -47,7 +39,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 920963543985405952 >}}
+{{< tweet 920831447040008192 >}}
 <br>
 <br>
 <hr>
@@ -59,18 +51,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1138770952890802176 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1118221260280991745 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1118139933200400385 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1118128299883020289 >}}
 <br>
 <br>
@@ -79,43 +59,47 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1259906177359585281 >}}
+{{< tweet 1117935134349643778 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1259898919284363264 >}}
+{{< tweet 1117934768589541376 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1243251197479391233 >}}
+{{< tweet 1261348294653104129 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1249380637443796992 >}}
+{{< tweet 1256984210847551497 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1248244601082658821 >}}
+{{< tweet 1250074316093509638 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1228671779809513472 >}}
+{{< tweet 1237479491905224705 >}}
 <br>
 <br>
 <hr>
-{{< tweet 440603365550989313 >}}
+{{< tweet 1236923242855583745 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1221604517399146497 >}}
+{{< tweet 1059405806762782720 >}}
 <br>
 <br>
 <hr>
-{{< tweet 919482915850878976 >}}
+{{< tweet 1180285879329447936 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1225584416858107905 >}}
+{{< tweet 1218537082781683713 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1205421565137039360 >}}
 <br>
 <br>
 <hr>

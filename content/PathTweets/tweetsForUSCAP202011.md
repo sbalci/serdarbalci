@@ -19,83 +19,87 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #USCAP pages here: https://serdarbalci.netlify.com/categories/USCAP/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1235114440057446402 >}}
+{{< tweet 1235273846338527233 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1235113020944084992 >}}
+{{< tweet 1235327958698557449 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1235115359159480320 >}}
+{{< tweet 1235369534443393025 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234616624398757888 >}}
+{{< tweet 1235309170976526337 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234565448974372872 >}}
+{{< tweet 1235294091182772225 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234632111044333569 >}}
+{{< tweet 1235278999661797377 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234629633309626368 >}}
+{{< tweet 1235310354865033225 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234546711613366272 >}}
+{{< tweet 1235314108557398017 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234612583002300416 >}}
+{{< tweet 1235354451545919488 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234587081222975488 >}}
+{{< tweet 1235339356799488002 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234593359395614720 >}}
+{{< tweet 1234257801788051456 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234580530668220416 >}}
+{{< tweet 1234249453739003905 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234630858214117376 >}}
+{{< tweet 1234248533877772289 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1233429366543126528 >}}
+{{< tweet 1234246936162533376 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1233392055881207808 >}}
+{{< tweet 1234207939545550848 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1233399140488556545 >}}
+{{< tweet 1234235542142738432 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1233444464519270400 >}}
+{{< tweet 1234239770911367168 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1233376852477186050 >}}
+{{< tweet 1234234203509641216 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1233134908828266509 >}}
+{{< tweet 1234241951945244672 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1233414208127217667 >}}
+{{< tweet 1234273234293387265 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1226297819075633154 >}}
 <br>
 <br>
 <hr>
