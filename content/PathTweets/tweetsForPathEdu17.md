@@ -91,19 +91,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1234142676448153600 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1234154442477490176 >}}
 <br>
 <br>
 <hr>
 {{< tweet 1233428997935190016 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1229893075142500352 >}}
 <br>
 <br>
 <hr>
