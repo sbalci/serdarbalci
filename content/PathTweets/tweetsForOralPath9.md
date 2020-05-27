@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For OralPath - 9
 author: Serdar Balci
-date: '2020-05-25'
+date: '2020-05-27'
 slug: tweetsForOralPath9
 categories:
   - R
@@ -20,10 +20,6 @@ See other #OralPath pages here: https://serdarbalci.netlify.com/categories/OralP
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
 {{< tweet 1065037827782598656 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1250855793471090688 >}}
 <br>
 <br>
 <hr>
