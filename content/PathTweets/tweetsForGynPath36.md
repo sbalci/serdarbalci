@@ -1,0 +1,74 @@
+---
+title: Pathology Tweets For GynPath - 36
+author: Serdar Balci
+date: '2020-05-28'
+slug: tweetsForGynPath36
+categories:
+  - R
+  - tweets
+  - pathology
+  - GynPath
+tags: []
+image:
+  caption: ''
+  focal_point: ''
+---
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #GynPath pages here: https://serdarbalci.netlify.com/categories/GynPath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
+
+{{< tweet 1235217159720075274 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1238725072329662464 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1238543854048952320 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1038576181916786690 >}}
+<br>
+<br>
+<hr>
+{{< tweet 968415904781320192 >}}
+<br>
+<br>
+<hr>
+{{< tweet 968211233194221568 >}}
+<br>
+<br>
+<hr>
+{{< tweet 922372628555251712 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1162671496856252417 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1241857358722215941 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1236716930817499136 >}}
+<br>
+<br>
+<hr>
+{{< tweet 440888851733569536 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1224749209401856003 >}}
+<br>
+<br>
+<hr>
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #GynPath pages here: https://serdarbalci.netlify.com/categories/GynPath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
