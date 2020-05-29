@@ -16,7 +16,7 @@ image:
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #CardiacPath pages here: https://serdarbalci.netlify.com/categories/CardiacPath/ 
+See other #CardiacPath pages here: https://serdarbalci.netlify.com/categories/CardiacPath/
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
 {{< tweet 1018884362350161921 >}}
@@ -31,10 +31,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1254933991225843712 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1236335979763576832 >}}
 <br>
 <br>
@@ -46,5 +42,5 @@ See selected social media based textbook project here: http://www.patolojinotlar
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #CardiacPath pages here: https://serdarbalci.netlify.com/categories/CardiacPath/ 
+See other #CardiacPath pages here: https://serdarbalci.netlify.com/categories/CardiacPath/
 See selected social media based textbook project here: http://www.patolojinotlari.com/
