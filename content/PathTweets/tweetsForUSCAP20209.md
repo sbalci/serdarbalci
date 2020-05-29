@@ -1,0 +1,154 @@
+---
+title: Pathology Tweets For USCAP - 20209
+author: Serdar Balci
+date: '2020-05-28'
+slug: tweetsForUSCAP20209
+categories:
+  - R
+  - tweets
+  - pathology
+  - USCAP
+tags: []
+image:
+  caption: ''
+  focal_point: ''
+---
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #USCAP pages here: https://serdarbalci.netlify.com/categories/USCAP/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
+
+{{< tweet 1235359039036551168 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235055728861175808 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235054635414507520 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235324268512186371 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235331788941266946 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235344710627135488 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235345870440345601 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235300269921054720 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235335434202484737 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235403800698957829 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235337321899229186 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235334852607651841 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1235278118518018048 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234339478338015233 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234243287403376654 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234278517094912006 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234192974285766656 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234273480323059712 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234243285683757057 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234244579936874496 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234245800013770757 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234238654836441089 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234239518691266561 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1233489705141927937 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1233784436224921601 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1233534952257597440 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1233482487696969728 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1233519913442193408 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1233459521529532417 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1233467398826659840 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1233739100064243712 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1233497541590822912 >}}
+<br>
+<br>
+<hr>
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #USCAP pages here: https://serdarbalci.netlify.com/categories/USCAP/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
