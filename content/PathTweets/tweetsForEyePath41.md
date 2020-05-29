@@ -1,0 +1,122 @@
+---
+title: Pathology Tweets For EyePath - 41
+author: Serdar Balci
+date: '2020-05-28'
+slug: tweetsForEyePath41
+categories:
+  - R
+  - tweets
+  - pathology
+  - EyePath
+tags: []
+image:
+  caption: ''
+  focal_point: ''
+---
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #EyePath pages here: https://serdarbalci.netlify.com/categories/EyePath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
+
+{{< tweet 1228940542240673792 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1228396934731194368 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1228034541970812928 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1128637680235859968 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1126852636181876737 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1032777373102497793 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1032565512419434497 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1032563696583684096 >}}
+<br>
+<br>
+<hr>
+{{< tweet 961857172186411008 >}}
+<br>
+<br>
+<hr>
+{{< tweet 961184075993108480 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1260737411652431877 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1043214618846486529 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1043171086559596545 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1112007798894804992 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1109409493597736960 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1109409028315193345 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1263866301233029120 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1257685463067836416 >}}
+<br>
+<br>
+<hr>
+{{< tweet 576301945134170112 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1246950033037164551 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234517614023577601 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1055555493899444224 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1217481612880945153 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1217119224302395392 >}}
+<br>
+<br>
+<hr>
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #EyePath pages here: https://serdarbalci.netlify.com/categories/EyePath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
