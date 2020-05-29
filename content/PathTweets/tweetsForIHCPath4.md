@@ -16,7 +16,7 @@ image:
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #IHCPath pages here: https://serdarbalci.netlify.com/categories/IHCPath/ 
+See other #IHCPath pages here: https://serdarbalci.netlify.com/categories/IHCPath/
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
 {{< tweet 1007244215489908737 >}}
@@ -139,12 +139,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1210186509531271168 >}}
 <br>
 <br>
 <hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #IHCPath pages here: https://serdarbalci.netlify.com/categories/IHCPath/ 
+See other #IHCPath pages here: https://serdarbalci.netlify.com/categories/IHCPath/
 See selected social media based textbook project here: http://www.patolojinotlari.com/
