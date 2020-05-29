@@ -16,7 +16,7 @@ image:
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #EyePath pages here: https://serdarbalci.netlify.com/categories/EyePath/ 
+See other #EyePath pages here: https://serdarbalci.netlify.com/categories/EyePath/
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
 {{< tweet 601858700261883907 >}}
@@ -62,8 +62,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 {{< tweet 1067622416480780294 >}}
 <br>
 <br>
-<hr>
-{{< tweet 1264239687041822721 >}}
 <br>
 <br>
 <hr>
@@ -98,5 +96,5 @@ See selected social media based textbook project here: http://www.patolojinotlar
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #EyePath pages here: https://serdarbalci.netlify.com/categories/EyePath/ 
+See other #EyePath pages here: https://serdarbalci.netlify.com/categories/EyePath/
 See selected social media based textbook project here: http://www.patolojinotlari.com/
