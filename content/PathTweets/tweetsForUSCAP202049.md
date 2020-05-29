@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For USCAP - 202049
 author: Serdar Balci
-date: '2020-05-28'
+date: '2020-05-29'
 slug: tweetsForUSCAP202049
 categories:
   - R
@@ -16,23 +16,59 @@ image:
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #USCAP pages here: https://serdarbalci.netlify.com/categories/USCAP/ 
+See other #USCAP pages here: https://serdarbalci.netlify.com/categories/USCAP/  or here: https://serdarbalci.wordpress.com/?s=USCAP/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
 {{< tweet 1233924987972505600 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234879085727248385 >}}
+{{< tweet 1234905205403197441 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1234907685151133696 >}}
+{{< tweet 1234841595276603396 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234891331916488709 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234871774975791105 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234898874021679110 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234883775399702531 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234892577452756993 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234835966428372993 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234888821235441665 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234877496279130112 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1233920053671845888 >}}
 <br>
 <br>
 <hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
-See other #USCAP pages here: https://serdarbalci.netlify.com/categories/USCAP/ 
+See other #USCAP pages here: https://serdarbalci.netlify.com/categories/USCAP/  or here: https://serdarbalci.wordpress.com/?s=USCAP/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
