@@ -19,91 +19,67 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathArticles pages here: https://serdarbalci.netlify.com/categories/PathArticles/  or here: https://serdarbalci.wordpress.com/?s=PathArticles/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
+{{< tweet 1025817829931732994 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1175402805378654208 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1265689674661662721 >}}
 <br>
 <br>
 <hr>
-{{< tweet 905550096024076291 >}}
+{{< tweet 1264620688012455938 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1249049286584786946 >}}
+{{< tweet 1263228915167956998 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1175136119253544960 >}}
+{{< tweet 1247221189338152961 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1165640986627923968 >}}
+{{< tweet 1246319312320843776 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1165278599064236033 >}}
+{{< tweet 1244534888008646656 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1263844013028913156 >}}
+{{< tweet 1243538456946638850 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1259204031454556166 >}}
+{{< tweet 1243495523081953280 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1258096188693282816 >}}
+{{< tweet 1235620953436102657 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1254839938463477760 >}}
+{{< tweet 1062094691913658368 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1250121993439129607 >}}
+{{< tweet 1214818894193426432 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1239457406549098496 >}}
+{{< tweet 1213875448570171392 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1238553424666509312 >}}
+{{< tweet 1210587687650054144 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1238705418626633728 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1235698380291969026 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1235243965319806976 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1235238378561572864 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1229850571768651776 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1221184946498203649 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1221185601564635136 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1220140348682506241 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1206949675133276160 >}}
+{{< tweet 1050428075584958466 >}}
 <br>
 <br>
 <hr>
