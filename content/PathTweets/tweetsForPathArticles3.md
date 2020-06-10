@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathArticles - 3
 author: Serdar Balci
-date: '2020-06-09'
+date: '2020-06-10'
 slug: tweetsForPathArticles3
 categories:
   - R
@@ -19,19 +19,31 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathArticles pages here: https://serdarbalci.netlify.com/categories/PathArticles/  or here: https://serdarbalci.wordpress.com/?s=PathArticles/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1270381777693970432 >}}
+{{< tweet 976110614278938624 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1270350128390516737 >}}
+{{< tweet 709124317145989120 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1002248802902990848 >}}
+{{< tweet 1254429286787940352 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1270042734557106178 >}}
+{{< tweet 1254144155351212032 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1254066904513339397 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1270007677909786628 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1268613632511762433 >}}
 <br>
 <br>
 <hr>

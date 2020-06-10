@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For MolDx - 42
 author: Serdar Balci
-date: '2020-06-04'
+date: '2020-06-10'
 slug: tweetsForMolDx42
 categories:
   - R
@@ -23,15 +23,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 938276424066174978 >}}
+{{< tweet 1103444832511500288 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1250569006873931776 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1242096459220164609 >}}
+{{< tweet 1270408646313349121 >}}
 <br>
 <br>
 <hr>
