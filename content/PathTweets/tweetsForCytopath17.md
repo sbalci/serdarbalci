@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For Cytopath - 17
 author: Serdar Balci
-date: '2020-06-11'
+date: '2020-06-13'
 slug: tweetsForCytopath17
 categories:
   - R

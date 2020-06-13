@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathEdu - 7
 author: Serdar Balci
-date: '2020-06-11'
+date: '2020-06-13'
 slug: tweetsForPathEdu7
 categories:
   - R

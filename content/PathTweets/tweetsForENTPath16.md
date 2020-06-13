@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For ENTPath - 16
 author: Serdar Balci
-date: '2020-06-11'
+date: '2020-06-13'
 slug: tweetsForENTPath16
 categories:
   - R
