@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For MolDx - 25
 author: Serdar Balci
-date: '2020-06-20'
+date: '2020-06-21'
 slug: tweetsForMolDx25
 categories:
   - R
