@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For HemePath - 25
 author: Serdar Balci
-date: '2020-06-25'
+date: '2020-06-26'
 slug: tweetsForHemePath25
 categories:
   - R

@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For BSTPath - 17
 author: Serdar Balci
-date: '2020-06-25'
+date: '2020-06-26'
 slug: tweetsForBSTPath17
 categories:
   - R
@@ -96,6 +96,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1269332981119934464 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1267363151563173888 >}}
 <br>
 <br>
 <hr>

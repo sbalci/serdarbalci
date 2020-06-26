@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For GUPath - 22
 author: Serdar Balci
-date: '2020-06-25'
+date: '2020-06-26'
 slug: tweetsForGUPath22
 categories:
   - R

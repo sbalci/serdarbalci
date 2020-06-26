@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathEdu - 40
 author: Serdar Balci
-date: '2020-06-25'
+date: '2020-06-26'
 slug: tweetsForPathEdu40
 categories:
   - R
@@ -95,11 +95,11 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1268680200642080769 >}}
+{{< tweet 1268679079143735297 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1268679079143735297 >}}
+{{< tweet 1268624378335502339 >}}
 <br>
 <br>
 <hr>

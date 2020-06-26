@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For GIPath - 8
 author: Serdar Balci
-date: '2020-06-25'
+date: '2020-06-26'
 slug: tweetsForGIPath8
 categories:
   - R

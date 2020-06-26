@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For ENTPath - 5
 author: Serdar Balci
-date: '2020-06-25'
+date: '2020-06-26'
 slug: tweetsForENTPath5
 categories:
   - R
@@ -52,10 +52,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1087676136761511936 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1272925415988957185 >}}
 <br>
 <br>
 <hr>

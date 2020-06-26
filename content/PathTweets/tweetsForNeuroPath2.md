@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For NeuroPath - 2
 author: Serdar Balci
-date: '2020-06-25'
+date: '2020-06-26'
 slug: tweetsForNeuroPath2
 categories:
   - R
