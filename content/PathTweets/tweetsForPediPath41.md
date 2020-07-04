@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PediPath - 41
 author: Serdar Balci
-date: '2020-07-03'
+date: '2020-07-04'
 slug: tweetsForPediPath41
 categories:
   - R
