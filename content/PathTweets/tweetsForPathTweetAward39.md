@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathTweetAward - 39
 author: Serdar Balci
-date: '2020-07-04'
+date: '2020-07-05'
 slug: tweetsForPathTweetAward39
 categories:
   - R
@@ -24,6 +24,14 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1116133019025321984 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1115199249396977664 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1115067102317154305 >}}
 <br>
 <br>
 <hr>

@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For IHCPath - 49
 author: Serdar Balci
-date: '2020-07-04'
+date: '2020-07-05'
 slug: tweetsForIHCPath49
 categories:
   - R
@@ -39,6 +39,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1117946306029219840 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1029153157744549888 >}}
 <br>
 <br>
@@ -55,6 +59,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 955143470884126721 >}}
+<br>
+<br>
+<hr>
 {{< tweet 930692065452752897 >}}
 <br>
 <br>
@@ -63,7 +71,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1103269000912531456 >}}
+{{< tweet 1279098965393170434 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1253279349685596160 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1253264346026835970 >}}
 <br>
 <br>
 <hr>

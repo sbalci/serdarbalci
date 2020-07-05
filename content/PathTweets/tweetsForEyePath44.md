@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For EyePath - 44
 author: Serdar Balci
-date: '2020-07-04'
+date: '2020-07-05'
 slug: tweetsForEyePath44
 categories:
   - R
@@ -31,11 +31,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1128637680235859968 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1033321022869594112 >}}
 <br>
 <br>
 <hr>
 {{< tweet 1032817954855874560 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1032777373102497793 >}}
 <br>
 <br>
 <hr>
@@ -47,7 +55,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1273714033753874433 >}}
+{{< tweet 1275900676028141570 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1274613479442452481 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1266568581220876290 >}}
 <br>
 <br>
 <hr>
