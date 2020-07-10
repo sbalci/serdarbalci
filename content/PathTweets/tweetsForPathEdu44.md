@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathEdu - 44
 author: Serdar Balci
-date: '2020-07-08'
+date: '2020-07-11'
 slug: tweetsForPathEdu44
 categories:
   - R
@@ -19,43 +19,27 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathEdu pages here: https://serdarbalci.netlify.com/categories/PathEdu/  or here: https://serdarbalci.wordpress.com/?s=PathEdu/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 781243113817968642 >}}
+{{< tweet 1248928659983011840 >}}
 <br>
 <br>
 <hr>
-{{< tweet 781237668101386240 >}}
+{{< tweet 1247932070783049733 >}}
 <br>
 <br>
 <hr>
-{{< tweet 778418588403298304 >}}
+{{< tweet 1114884829521248256 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1116705151488753665 >}}
+{{< tweet 945339819651104768 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1116443171284836352 >}}
+{{< tweet 945339008246337537 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1236755391717027842 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1236408107481391104 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1236380355961090048 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1236338581016281089 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1236045725148098560 >}}
+{{< tweet 938276424066174978 >}}
 <br>
 <br>
 <hr>
@@ -75,11 +59,43 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1132743214010519553 >}}
+{{< tweet 1235293193702379520 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1132380844117635072 >}}
+{{< tweet 1235251426185576448 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234889033358204930 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234568415186235393 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1234567159155691520 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1281267269562183680 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1281188912002551809 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1281263333715456002 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1279894763257421825 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1276578864269934592 >}}
 <br>
 <br>
 <hr>
@@ -87,11 +103,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1272913123050229761 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1271491223161679873 >}}
+{{< tweet 1271523037691686914 >}}
 <br>
 <br>
 <hr>
