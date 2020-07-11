@@ -19,83 +19,83 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #BSTPath pages here: https://serdarbalci.netlify.com/categories/BSTPath/  or here: https://serdarbalci.wordpress.com/?s=BSTPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 976533249529864192 >}}
+{{< tweet 1205928756054900737 >}}
 <br>
 <br>
 <hr>
-{{< tweet 976532989818490880 >}}
+{{< tweet 1205747579826294784 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1111422721634648072 >}}
+{{< tweet 1205566368642293760 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1110704822116704257 >}}
+{{< tweet 1205518260722003968 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1110697874168266752 >}}
+{{< tweet 1205505894122807297 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1019971635632168960 >}}
+{{< tweet 1205501743859032064 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1019850829656817664 >}}
+{{< tweet 1205498602677665792 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1018884362350161921 >}}
+{{< tweet 1108885773871255552 >}}
 <br>
 <br>
 <hr>
-{{< tweet 951519135585902592 >}}
+{{< tweet 1018159497582219265 >}}
 <br>
 <br>
 <hr>
-{{< tweet 951277472091324417 >}}
+{{< tweet 1017676228570959872 >}}
 <br>
 <br>
 <hr>
-{{< tweet 951005627962109952 >}}
+{{< tweet 1017192988722618368 >}}
 <br>
 <br>
 <hr>
-{{< tweet 950984969295355905 >}}
+{{< tweet 1017072167538720768 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1264038230011383810 >}}
+{{< tweet 1016951357587087361 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1263870117374550016 >}}
+{{< tweet 949555832689082368 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1263869663848644612 >}}
+{{< tweet 1210203744786403328 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1263518823606628355 >}}
+{{< tweet 1091819650495713281 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1221798524565835782 >}}
+{{< tweet 1091676808863469568 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1274324942314713090 >}}
+{{< tweet 1088948072422522881 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1273191290813976576 >}}
+{{< tweet 1275755345185554432 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1270741414989533184 >}}
+{{< tweet 1269603343049129984 >}}
 <br>
 <br>
 <hr>

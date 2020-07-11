@@ -19,83 +19,83 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathEdu pages here: https://serdarbalci.netlify.com/categories/PathEdu/  or here: https://serdarbalci.wordpress.com/?s=PathEdu/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1264213369919242242 >}}
+{{< tweet 1151129323954417664 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1264209005779587072 >}}
+{{< tweet 1149409360541564931 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1256642369446952960 >}}
+{{< tweet 1262728536013574150 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1256279982889992193 >}}
+{{< tweet 1262489480805650432 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1256242265330237441 >}}
+{{< tweet 1254084763285164033 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1161274723294167040 >}}
+{{< tweet 1157308382354841600 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1160911072032886785 >}}
+{{< tweet 1156366980938641409 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1159843032771919874 >}}
+{{< tweet 1281800483959476224 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1281643775870156800 >}}
+{{< tweet 1281319729731338241 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1281118982309851136 >}}
+{{< tweet 1280885649810370560 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1279944401842835461 >}}
+{{< tweet 1278457754273767424 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1278896060535013377 >}}
+{{< tweet 1278435831867420673 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1278238673797107713 >}}
+{{< tweet 1277617882856402945 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1276530675722616832 >}}
+{{< tweet 1272233122155790336 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1276485356104318976 >}}
+{{< tweet 1272230440494002181 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1275850177245569026 >}}
+{{< tweet 1272232503755988992 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1275494215808507904 >}}
+{{< tweet 1271077435585425413 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1267457639723786240 >}}
+{{< tweet 1270434255420694528 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1267372300485242881 >}}
+{{< tweet 1270423415753601025 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1267370893052981248 >}}
+{{< tweet 1267827049097424898 >}}
 <br>
 <br>
 <hr>
