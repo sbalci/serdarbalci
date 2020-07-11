@@ -19,10 +19,6 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathEdu pages here: https://serdarbalci.netlify.com/categories/PathEdu/  or here: https://serdarbalci.wordpress.com/?s=PathEdu/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 975226632481906688 >}}
-<br>
-<br>
-<hr>
 {{< tweet 696831431830564864 >}}
 <br>
 <br>
@@ -43,6 +39,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1038133941994225665 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1196766473005490176 >}}
 <br>
 <br>
@@ -51,27 +51,19 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1280698809891184641 >}}
+{{< tweet 1280692017127800833 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1279442846790098948 >}}
+{{< tweet 1280249107681095680 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1279498734834012160 >}}
+{{< tweet 1274009234062086149 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1276561479345602560 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1272594557511729152 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1272534329458114567 >}}
+{{< tweet 1271106163896193025 >}}
 <br>
 <br>
 <hr>
