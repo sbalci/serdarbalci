@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathEdu - 5
 author: Serdar Balci
-date: '2020-07-11'
+date: '2020-07-12'
 slug: tweetsForPathEdu5
 categories:
   - R
@@ -27,10 +27,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1206992773095837701 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1236719664924897281 >}}
 <br>
 <br>
@@ -40,6 +36,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1236091499114385410 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1131656058013913088 >}}
 <br>
 <br>
 <hr>
@@ -56,6 +56,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1274030091702599682 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1267084878576664578 >}}
 <br>
 <br>
 <hr>

@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PediPath - 22
 author: Serdar Balci
-date: '2020-07-11'
+date: '2020-07-12'
 slug: tweetsForPediPath22
 categories:
   - R
@@ -20,6 +20,10 @@ See other #PediPath pages here: https://serdarbalci.netlify.com/categories/PediP
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
 {{< tweet 1281506945925611521 >}}
+<br>
+<br>
+<hr>
+{{< tweet 991822344938127360 >}}
 <br>
 <br>
 <hr>

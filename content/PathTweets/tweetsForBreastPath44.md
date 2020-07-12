@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For BreastPath - 44
 author: Serdar Balci
-date: '2020-07-11'
+date: '2020-07-12'
 slug: tweetsForBreastPath44
 categories:
   - R

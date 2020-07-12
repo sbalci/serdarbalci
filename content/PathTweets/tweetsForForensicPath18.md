@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For ForensicPath - 18
 author: Serdar Balci
-date: '2020-07-11'
+date: '2020-07-12'
 slug: tweetsForForensicPath18
 categories:
   - R
@@ -23,14 +23,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1266496733091172353 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1266496502932869122 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1266493010826706944 >}}
 <br>
 <br>
@@ -40,6 +32,14 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1266482479814279176 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1266480796270985216 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1266480573519888384 >}}
 <br>
 <br>
 <hr>

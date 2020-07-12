@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For EndoPath - 23
 author: Serdar Balci
-date: '2020-07-11'
+date: '2020-07-12'
 slug: tweetsForEndoPath23
 categories:
   - R
