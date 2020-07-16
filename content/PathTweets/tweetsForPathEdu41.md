@@ -19,11 +19,19 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathEdu pages here: https://serdarbalci.netlify.com/categories/PathEdu/  or here: https://serdarbalci.wordpress.com/?s=PathEdu/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
+{{< tweet 821554624155021313 >}}
+<br>
+<br>
+<hr>
 {{< tweet 821552356907249665 >}}
 <br>
 <br>
 <hr>
 {{< tweet 821549076995047424 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1226556480654102530 >}}
 <br>
 <br>
 <hr>
@@ -43,6 +51,14 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1152585457924026368 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1152223071497011200 >}}
+<br>
+<br>
+<hr>
 {{< tweet 1151923708174458881 >}}
 <br>
 <br>
@@ -55,35 +71,55 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1151498297527414784 >}}
+{{< tweet 1282804048140341248 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1280821049588961280 >}}
+{{< tweet 1282800899325341696 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1280027929750188033 >}}
+{{< tweet 1282796900194934784 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1131272271828537356 >}}
+{{< tweet 1281637058776305664 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1278214252034211840 >}}
+{{< tweet 1281261586309668866 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1269925455999766528 >}}
+{{< tweet 1279061909015277568 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1270670055437668358 >}}
+{{< tweet 1275394730638151680 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1269268718070235136 >}}
+{{< tweet 1275341077147381760 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1273974063094956033 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1272232725127278595 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1269011135161925632 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1266506603836198913 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1266498358551539712 >}}
 <br>
 <br>
 <hr>

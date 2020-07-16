@@ -19,15 +19,19 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathEdu pages here: https://serdarbalci.netlify.com/categories/PathEdu/  or here: https://serdarbalci.wordpress.com/?s=PathEdu/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1283561739070693376 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1175212296261570563 >}}
 <br>
 <br>
 <hr>
 {{< tweet 1283110012693487621 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1184929331040141313 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1184842763063496704 >}}
 <br>
 <br>
 <hr>
@@ -47,71 +51,63 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1182692092121878528 >}}
+{{< tweet 1283561739070693376 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1282534189271863298 >}}
+{{< tweet 1282807022589747201 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1282317679013982208 >}}
+{{< tweet 1282016559519629312 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1282009987867242497 >}}
+{{< tweet 1281223777913798657 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1281415689505435649 >}}
+{{< tweet 1279824390738321410 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1280043590140547072 >}}
+{{< tweet 1278657000340107265 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1280138374007918593 >}}
+{{< tweet 1276895442207494144 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1165579660555669511 >}}
+{{< tweet 1276854178376085506 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1131293668105752578 >}}
+{{< tweet 1275403127953305607 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1273632281203109888 >}}
+{{< tweet 1272967196549971974 >}}
 <br>
 <br>
 <hr>
-{{< tweet 975359822840279041 >}}
+{{< tweet 1271317654293278725 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1269392219833872389 >}}
+{{< tweet 578727095532158976 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1268695275415068673 >}}
+{{< tweet 1270460688251654149 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1268680200642080769 >}}
+{{< tweet 1270035011912245249 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1268679079143735297 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1269307099110129671 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1269298002642042881 >}}
+{{< tweet 1267542446797393925 >}}
 <br>
 <br>
 <hr>
