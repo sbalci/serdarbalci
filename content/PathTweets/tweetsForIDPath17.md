@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For IDPath - 17
 author: Serdar Balci
-date: '2020-07-16'
+date: '2020-07-17'
 slug: tweetsForIDPath17
 categories:
   - R
