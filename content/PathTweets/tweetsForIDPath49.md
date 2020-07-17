@@ -23,6 +23,14 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
+{{< tweet 1277361084333043712 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1276937338225135618 >}}
+<br>
+<br>
+<hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
