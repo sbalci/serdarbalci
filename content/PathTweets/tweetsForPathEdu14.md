@@ -19,87 +19,75 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathEdu pages here: https://serdarbalci.netlify.com/categories/PathEdu/  or here: https://serdarbalci.wordpress.com/?s=PathEdu/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1185722052927508480 >}}
+{{< tweet 1176200646057439233 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1184567254471598080 >}}
+{{< tweet 1006149123370901504 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1028584875140497409 >}}
+{{< tweet 1005227688787959810 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1200808474264965123 >}}
+{{< tweet 1003266471303221249 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1200446099825287169 >}}
+{{< tweet 1189191424366919682 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1200083710479151104 >}}
+{{< tweet 1187722999358771201 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1284954543806177280 >}}
+{{< tweet 1282958911755046912 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1283712701751889920 >}}
+{{< tweet 1280601941878272000 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1283682936655511552 >}}
+{{< tweet 1280515705255989250 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1282783720685088769 >}}
+{{< tweet 1270411146173001728 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1282780927538716673 >}}
+{{< tweet 1270724271145226241 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1282923024438538241 >}}
+{{< tweet 1276560784437510146 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1280539540877455361 >}}
+{{< tweet 1276523171974447106 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1276207278161645568 >}}
+{{< tweet 1275658680730636290 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1276175064568696833 >}}
+{{< tweet 1273304217093013507 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1271975959797927936 >}}
+{{< tweet 1272434268921311232 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1270604442082127873 >}}
+{{< tweet 1272366861938655233 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1267899793566826496 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1266497105217990657 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1266496812673896448 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1266493010826706944 >}}
+{{< tweet 1272366262098657280 >}}
 <br>
 <br>
 <hr>
