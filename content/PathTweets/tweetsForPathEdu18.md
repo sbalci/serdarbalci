@@ -19,19 +19,47 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathEdu pages here: https://serdarbalci.netlify.com/categories/PathEdu/  or here: https://serdarbalci.wordpress.com/?s=PathEdu/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1269727912883879938 >}}
+{{< tweet 844354497174536193 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1179878712751329280 >}}
+{{< tweet 1172182747000950785 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1017832142435504130 >}}
+{{< tweet 997260881758171136 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1285492421258862594 >}}
+{{< tweet 996544218368704512 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1185177466291261444 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1184929331040141313 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1184842763063496704 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1284422168676388864 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1284276730543341569 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1282757809755611139 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1282756477141135360 >}}
 <br>
 <br>
 <hr>
@@ -39,23 +67,15 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1282745096094580737 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1283098742435061763 >}}
-<br>
-<br>
-<hr>
 {{< tweet 1281700601923948545 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1278048798174920705 >}}
+{{< tweet 1281508218695413761 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1275799594438443008 >}}
+{{< tweet 1275066006210179072 >}}
 <br>
 <br>
 <hr>
@@ -63,7 +83,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1272949560982241282 >}}
+{{< tweet 1273803029351813126 >}}
 <br>
 <br>
 <hr>
@@ -71,11 +91,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <br>
 <hr>
-{{< tweet 1271976662998159360 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1271976608430096386 >}}
+{{< tweet 1266746184254787584 >}}
 <br>
 <br>
 <hr>
@@ -84,14 +100,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 1267546457457991681 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1266863203977441280 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1266806580068208642 >}}
 <br>
 <br>
 <hr>
