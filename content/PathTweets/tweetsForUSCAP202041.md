@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For USCAP - 202041
 author: Serdar Balci
-date: '2020-07-20'
+date: '2020-07-23'
 slug: tweetsForUSCAP202041
 categories:
   - R
