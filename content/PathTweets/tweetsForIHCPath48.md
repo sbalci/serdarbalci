@@ -19,83 +19,83 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #IHCPath pages here: https://serdarbalci.netlify.com/categories/IHCPath/  or here: https://serdarbalci.wordpress.com/?s=IHCPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1095749290906013702 >}}
+{{< tweet 1015985919655112706 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1227853371106709505 >}}
+{{< tweet 727623173211033601 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1227309792638705665 >}}
+{{< tweet 1281588578389295104 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1227128590812057600 >}}
+{{< tweet 1214263727823843328 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1226947374305513472 >}}
+{{< tweet 1213176557851643904 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1226222591494373376 >}}
+{{< tweet 1115250232348954624 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1126852636181876737 >}}
+{{< tweet 1022508661812297728 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1125557128712744960 >}}
+{{< tweet 1022146242225131526 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1125194703127756801 >}}
+{{< tweet 953431611223109632 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1124651059605938178 >}}
+{{< tweet 953429899498303488 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1032559269688659968 >}}
+{{< tweet 953429329374924800 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1032552853502537728 >}}
+{{< tweet 952917114263760896 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1032550285015576576 >}}
+{{< tweet 1095838030089383936 >}}
 <br>
 <br>
 <hr>
-{{< tweet 960942447030239232 >}}
+{{< tweet 1095694301403774987 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1245735029394849793 >}}
+{{< tweet 1095298382363545600 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1113942254866006017 >}}
+{{< tweet 922382080738127872 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1113222398701133825 >}}
+{{< tweet 922381122603855879 >}}
 <br>
 <br>
 <hr>
-{{< tweet 930692065452752897 >}}
+{{< tweet 1275851255424794624 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1103447138447564806 >}}
+{{< tweet 1271104405035778054 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1103444832511500288 >}}
+{{< tweet 1267828421997944833 >}}
 <br>
 <br>
 <hr>

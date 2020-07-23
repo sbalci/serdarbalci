@@ -19,31 +19,19 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #ForensicPath pages here: https://serdarbalci.netlify.com/categories/ForensicPath/  or here: https://serdarbalci.wordpress.com/?s=ForensicPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 996292388191518722 >}}
+{{< tweet 1266801412085886986 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1285674477175689216 >}}
+{{< tweet 1266797043646894081 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1283097675601149952 >}}
+{{< tweet 1266794223476539393 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1281612675982790656 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1266690240628097024 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1266753110749278211 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1266737059861090304 >}}
+{{< tweet 1266792499583975425 >}}
 <br>
 <br>
 <hr>
