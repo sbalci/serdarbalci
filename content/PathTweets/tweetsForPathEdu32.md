@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathEdu - 32
 author: Serdar Balci
-date: '2020-07-24'
+date: '2020-07-25'
 slug: tweetsForPathEdu32
 categories:
   - R
@@ -19,83 +19,63 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathEdu pages here: https://serdarbalci.netlify.com/categories/PathEdu/  or here: https://serdarbalci.wordpress.com/?s=PathEdu/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 838506256864260096 >}}
+{{< tweet 1175805022225018881 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1283302772646060032 >}}
+{{< tweet 1285360102631976967 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1242415492377317376 >}}
+{{< tweet 1284916292391243777 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1269720434330808320 >}}
+{{< tweet 1284024834977083394 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1268272498694643712 >}}
+{{< tweet 1283517948825665536 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1267910111554609153 >}}
+{{< tweet 1283212059723927553 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1267547723818872832 >}}
+{{< tweet 1283210249193664512 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1175040418989387776 >}}
+{{< tweet 1283177940147044353 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1174724086813069314 >}}
+{{< tweet 1281278195292147721 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1174678033963335685 >}}
+{{< tweet 1280255845759176705 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1174361697462771712 >}}
+{{< tweet 1278891558297796614 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1174321681386672129 >}}
+{{< tweet 1272714360956219392 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1174315642641690626 >}}
+{{< tweet 1272227440845369346 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1283592860839878657 >}}
+{{< tweet 1271110897365286915 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1281979770851545088 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1277980222931873795 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1274776489247027208 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1271892288902291457 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1270653702731444224 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1267735309128806401 >}}
+{{< tweet 1269792770002169859 >}}
 <br>
 <br>
 <hr>
