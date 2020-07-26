@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For ForensicPath - 40
 author: Serdar Balci
-date: '2020-07-25'
+date: '2020-07-26'
 slug: tweetsForForensicPath40
 categories:
   - R
@@ -19,31 +19,11 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #ForensicPath pages here: https://serdarbalci.netlify.com/categories/ForensicPath/  or here: https://serdarbalci.wordpress.com/?s=ForensicPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 973218221418360832 >}}
+{{< tweet 1056153501271646208 >}}
 <br>
 <br>
 <hr>
 {{< tweet 1264280076910297088 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1281546107097686017 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1281557283797970946 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1281549880792625154 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1266548267984269314 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1266546503021142016 >}}
 <br>
 <br>
 <hr>
