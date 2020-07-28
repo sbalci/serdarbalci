@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For IDPath - 45
 author: Serdar Balci
-date: '2020-07-26'
+date: '2020-07-28'
 slug: tweetsForIDPath45
 categories:
   - R
@@ -24,10 +24,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 <br>
 <hr>
 {{< tweet 966620649081810944 >}}
-<br>
-<br>
-<hr>
-{{< tweet 1274044286452015113 >}}
 <br>
 <br>
 <hr>
