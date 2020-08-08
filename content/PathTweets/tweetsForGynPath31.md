@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For GynPath - 31
 author: Serdar Balci
-date: '2020-07-28'
+date: '2020-08-08'
 slug: tweetsForGynPath31
 categories:
   - R
@@ -19,19 +19,35 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GynPath pages here: https://serdarbalci.netlify.com/categories/GynPath/  or here: https://serdarbalci.wordpress.com/?s=GynPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1178581805659648001 >}}
+{{< tweet 890536677604827136 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1177768013648412672 >}}
+{{< tweet 1199768124213456897 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1177586822810980354 >}}
+{{< tweet 1199527081232625664 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1280616996179251200 >}}
+{{< tweet 1197593788236980225 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1197336346332815361 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1094207783694548992 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1093664136976773120 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1123926550775324672 >}}
 <br>
 <br>
 <hr>
