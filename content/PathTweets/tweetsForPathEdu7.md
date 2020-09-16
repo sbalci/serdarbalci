@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For PathEdu - 7
 author: Serdar Balci
-date: '2020-08-31'
+date: '2020-09-16'
 slug: tweetsForPathEdu7
 categories:
   - R
@@ -19,19 +19,43 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathEdu pages here: https://serdarbalci.netlify.com/categories/PathEdu/  or here: https://serdarbalci.wordpress.com/?s=PathEdu/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{{< tweet 1028584875140497409 >}}
+{{< tweet 1304306813735641088 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1267067621314306048 >}}
+{{< tweet 1304053314162700290 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1266748509736316928 >}}
+{{< tweet 1304247755020234752 >}}
 <br>
 <br>
 <hr>
-{{< tweet 1266850355717058566 >}}
+{{< tweet 1128449054340464640 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1255568537458008065 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1254084763285164033 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1267170364179841025 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1291239542968610816 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1291215674358919168 >}}
+<br>
+<br>
+<hr>
+{{< tweet 1273037908501565440 >}}
 <br>
 <br>
 <hr>
