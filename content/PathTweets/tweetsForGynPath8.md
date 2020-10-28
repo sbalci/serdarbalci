@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For GynPath - 8
 author: Serdar Balci
-date: '2020-09-16'
+date: '2020-10-28'
 slug: tweetsForGynPath8
 categories:
   - R

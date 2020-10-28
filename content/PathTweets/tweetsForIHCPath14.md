@@ -1,7 +1,7 @@
 ---
 title: Pathology Tweets For IHCPath - 14
 author: Serdar Balci
-date: '2020-09-16'
+date: '2020-10-28'
 slug: tweetsForIHCPath14
 categories:
   - R
